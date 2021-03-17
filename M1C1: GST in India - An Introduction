@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-17T23:23:39.324Z" agent="5.0 (X11)" etag="Q9-FuNjUhYBdCdIfzQXI" version="14.4.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-17T23:31:18.944Z" agent="5.0 (X11)" etag="hqT_makoEpqNVYN_hQeZ" version="14.4.8" type="github">
   <diagram id="64M11A-ASI2qWFPIHGs7" name="Page-1">
     <mxGraphModel dx="593" dy="299" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -311,8 +311,37 @@
         <mxCell id="7TmgKTHfCiA4JqRhKWh6-20" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Article&amp;nbsp; 245&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&amp;gt; Parliament&amp;nbsp; may&amp;nbsp; make&amp;nbsp; laws&amp;nbsp; for&amp;nbsp; the&amp;nbsp; whole&amp;nbsp; or&amp;nbsp; any&amp;nbsp; part&amp;nbsp; of&amp;nbsp; the&amp;nbsp; territory&amp;nbsp; of&amp;nbsp; India.&lt;/div&gt;&lt;div&gt;&amp;gt; State may make laws for the whole or any part of the State.&lt;/div&gt;&lt;div&gt;&amp;gt; No law made by the Parliament shall be deemed to be invalid on the ground that it would have extra-territorial(situated outside a country&#39;s territory) operation.&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=5;" vertex="1" parent="1">
           <mxGeometry x="920" y="250" width="320" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="7TmgKTHfCiA4JqRhKWh6-22" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Article&amp;nbsp; 265&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;“no tax shall be levied or collected except by authority of law”.&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=5;" vertex="1" parent="1">
+        <mxCell id="7TmgKTHfCiA4JqRhKWh6-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7TmgKTHfCiA4JqRhKWh6-22" target="7TmgKTHfCiA4JqRhKWh6-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7TmgKTHfCiA4JqRhKWh6-22" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Article&amp;nbsp; 246&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;It&amp;nbsp;&amp;nbsp; gives&amp;nbsp;&amp;nbsp; the&amp;nbsp;&amp;nbsp; respective&amp;nbsp;&amp;nbsp; authority&amp;nbsp;&amp;nbsp; to&amp;nbsp;&amp;nbsp; Union&amp;nbsp;&amp;nbsp; and&amp;nbsp;&amp;nbsp; State&amp;nbsp;&amp;nbsp; Governments&amp;nbsp; for&amp;nbsp; levying&amp;nbsp; tax.&amp;nbsp; &lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=5;" vertex="1" parent="1">
           <mxGeometry x="920" y="420" width="320" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="7TmgKTHfCiA4JqRhKWh6-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7TmgKTHfCiA4JqRhKWh6-24" target="7TmgKTHfCiA4JqRhKWh6-26">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1080" y="620" />
+              <mxPoint x="940" y="620" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7TmgKTHfCiA4JqRhKWh6-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="7TmgKTHfCiA4JqRhKWh6-24" target="7TmgKTHfCiA4JqRhKWh6-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7TmgKTHfCiA4JqRhKWh6-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7TmgKTHfCiA4JqRhKWh6-24" target="7TmgKTHfCiA4JqRhKWh6-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7TmgKTHfCiA4JqRhKWh6-24" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Seventh Schedule to Article 246&lt;br&gt;&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;It contains three lists which enumerate the&amp;nbsp; matters&amp;nbsp; under&amp;nbsp; which&amp;nbsp; the&amp;nbsp; Union&amp;nbsp; and&amp;nbsp; the&amp;nbsp; State&amp;nbsp; Governments&amp;nbsp; have&amp;nbsp; the&amp;nbsp; authority to make laws.&amp;nbsp;&amp;nbsp; &lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=5;" vertex="1" parent="1">
+          <mxGeometry x="920" y="520" width="320" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="7TmgKTHfCiA4JqRhKWh6-26" value="&lt;div&gt;LIST – I&lt;/div&gt;&lt;div&gt;UNION LIST &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;It contains the matters in respect of which the Parliament (Central&lt;/div&gt;&lt;div&gt;Government) has the exclusive right to make laws.&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=4;" vertex="1" parent="1">
+          <mxGeometry x="880" y="640" width="120" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="7TmgKTHfCiA4JqRhKWh6-27" value="&lt;div&gt;LIST – II&lt;/div&gt;&lt;div&gt;STATE LIST &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;It contains the matters in respect of which the state government has the exclusive right to make laws.&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=3;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="640" width="120" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="7TmgKTHfCiA4JqRhKWh6-28" value="&lt;div&gt;LIST – III&lt;/div&gt;&lt;div&gt;CONCURRENT LIST &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;It contains the matters in respect of which the both the Central &amp;amp; State Governments has the exclusive right to make laws.&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=4;" vertex="1" parent="1">
+          <mxGeometry x="1160" y="640" width="120" height="220" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
