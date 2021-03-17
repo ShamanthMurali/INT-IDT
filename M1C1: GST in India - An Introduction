@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-03-17T23:21:06.666Z" agent="5.0 (X11)" etag="qSf3DBELOpX1pVsp0vbQ" version="14.4.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-17T23:23:39.324Z" agent="5.0 (X11)" etag="Q9-FuNjUhYBdCdIfzQXI" version="14.4.8" type="github">
   <diagram id="64M11A-ASI2qWFPIHGs7" name="Page-1">
-    <mxGraphModel dx="1246" dy="627" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="593" dy="299" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -299,8 +299,20 @@
         <mxCell id="7TmgKTHfCiA4JqRhKWh6-16" value="India&amp;nbsp; has&amp;nbsp; a&amp;nbsp; three-tier&amp;nbsp; federal&amp;nbsp; structure,&amp;nbsp; comprising&amp;nbsp; the&amp;nbsp; Union&amp;nbsp; Government,&amp;nbsp; the&amp;nbsp; State Governments and the Local Government.&amp;nbsp; The&amp;nbsp; power&amp;nbsp; to&amp;nbsp; levy&amp;nbsp; taxes&amp;nbsp; and&amp;nbsp; duties&amp;nbsp; is&amp;nbsp; distributed&amp;nbsp; among&amp;nbsp; the&amp;nbsp; three&amp;nbsp; tiers" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="920" y="60" width="320" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="7TmgKTHfCiA4JqRhKWh6-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7TmgKTHfCiA4JqRhKWh6-18" target="7TmgKTHfCiA4JqRhKWh6-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="7TmgKTHfCiA4JqRhKWh6-18" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Article&amp;nbsp; 265&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;“no tax shall be levied or collected except by authority of law”.&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=5;" vertex="1" parent="1">
           <mxGeometry x="920" y="150" width="320" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="7TmgKTHfCiA4JqRhKWh6-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="7TmgKTHfCiA4JqRhKWh6-20" target="7TmgKTHfCiA4JqRhKWh6-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7TmgKTHfCiA4JqRhKWh6-20" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Article&amp;nbsp; 245&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&amp;gt; Parliament&amp;nbsp; may&amp;nbsp; make&amp;nbsp; laws&amp;nbsp; for&amp;nbsp; the&amp;nbsp; whole&amp;nbsp; or&amp;nbsp; any&amp;nbsp; part&amp;nbsp; of&amp;nbsp; the&amp;nbsp; territory&amp;nbsp; of&amp;nbsp; India.&lt;/div&gt;&lt;div&gt;&amp;gt; State may make laws for the whole or any part of the State.&lt;/div&gt;&lt;div&gt;&amp;gt; No law made by the Parliament shall be deemed to be invalid on the ground that it would have extra-territorial(situated outside a country&#39;s territory) operation.&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=5;" vertex="1" parent="1">
+          <mxGeometry x="920" y="250" width="320" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="7TmgKTHfCiA4JqRhKWh6-22" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Article&amp;nbsp; 265&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;“no tax shall be levied or collected except by authority of law”.&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=5;" vertex="1" parent="1">
+          <mxGeometry x="920" y="420" width="320" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
