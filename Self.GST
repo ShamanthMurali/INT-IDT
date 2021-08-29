@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-08-29T19:51:07.385Z" agent="5.0 (X11)" etag="3Aqo6T0ShzzUf6AqoeXp" version="15.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-29T20:14:47.944Z" agent="5.0 (X11)" etag="MvosRoNxl62E20iFV-62" version="15.0.3" type="github">
   <diagram id="EEIt5sJKhKLN3RtG8xfO" name="Page-1">
-    <mxGraphModel dx="2103" dy="-473" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1566" dy="-742" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -88,14 +88,38 @@
         <mxCell id="U18I0dOHCD-vcMm5kfsf-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="U18I0dOHCD-vcMm5kfsf-3" target="U18I0dOHCD-vcMm5kfsf-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="U18I0dOHCD-vcMm5kfsf-3" value="CTIVITIES TO BE TREATED AS SUPPLY EVEN IF MADE WITHOUT&lt;br&gt;CONSIDERATION" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="U18I0dOHCD-vcMm5kfsf-3" value="ACTIVITIES TO BE TREATED AS SUPPLY EVEN IF &lt;u&gt;&lt;b&gt;MADE WITHOUT&lt;br&gt;CONSIDERATION&lt;/b&gt;&lt;/u&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="4880" width="240" height="60" as="geometry" />
         </mxCell>
         <mxCell id="U18I0dOHCD-vcMm5kfsf-4" value="a) Permanent transfer or disposal of business assets where input tax credit has been availed on such assets." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="4960" width="440" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="U18I0dOHCD-vcMm5kfsf-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="U18I0dOHCD-vcMm5kfsf-6" target="U18I0dOHCD-vcMm5kfsf-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="U18I0dOHCD-vcMm5kfsf-6" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://imgur.com/SrbhnpJ.png;" vertex="1" parent="1">
           <mxGeometry x="200" y="5000" width="440" height="100.69" as="geometry" />
+        </mxCell>
+        <mxCell id="U18I0dOHCD-vcMm5kfsf-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="U18I0dOHCD-vcMm5kfsf-7" target="U18I0dOHCD-vcMm5kfsf-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U18I0dOHCD-vcMm5kfsf-7" value="&lt;div&gt;b) Supply of goods or services or both between related persons. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;For employer to an employee = Provided that gifts not exceeding Rs.50,000 in value in a FY shall not be treated as supply of goods or services or both.&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="5120" width="440" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="U18I0dOHCD-vcMm5kfsf-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="U18I0dOHCD-vcMm5kfsf-8" target="U18I0dOHCD-vcMm5kfsf-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U18I0dOHCD-vcMm5kfsf-8" value="c)Supply of goods&lt;br&gt;&lt;div&gt;(1) by a principal to his agent where the agent undertakes to supply such goods on behalf of the principal &lt;br&gt;&lt;/div&gt;&lt;div&gt;(2) by an agent to his principal where the agent undertakes to receive such goods on behalf of The principal&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="5220" width="440" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="U18I0dOHCD-vcMm5kfsf-9" value="d) Import of services by a person from a related person or from any of his other establishments outside India, in the course or furtherance of business" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="5340" width="440" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="U18I0dOHCD-vcMm5kfsf-13" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://imgur.com/QVXbP38.png;" vertex="1" parent="1">
+          <mxGeometry x="200" y="5380" width="440" height="133.69" as="geometry" />
+        </mxCell>
+        <mxCell id="U18I0dOHCD-vcMm5kfsf-15" value="ACTIVITIES OR TRANSACTIONS TO BE TREATED AS &lt;u&gt;&lt;b&gt;SUPPLY OF GOODS OR&lt;br&gt;SUPPLY OF SERVICES&lt;/b&gt;&lt;/u&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="5560" width="240" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
