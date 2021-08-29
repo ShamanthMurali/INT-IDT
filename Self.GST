@@ -1,14 +1,17 @@
-<mxfile host="app.diagrams.net" modified="2021-08-29T00:41:08.319Z" agent="5.0 (X11)" etag="yE-Ok4YLXrv9KgjpI6q3" version="15.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-29T19:51:07.385Z" agent="5.0 (X11)" etag="3Aqo6T0ShzzUf6AqoeXp" version="15.0.3" type="github">
   <diagram id="EEIt5sJKhKLN3RtG8xfO" name="Page-1">
-    <mxGraphModel dx="1899" dy="-577" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2103" dy="-473" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="T2sU1FcjST89kl4WETc3-1" value="Charging Section" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="325" y="4500" width="120" height="40" as="geometry" />
+          <mxGeometry x="365" y="4500" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="U18I0dOHCD-vcMm5kfsf-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="T2sU1FcjST89kl4WETc3-2" target="U18I0dOHCD-vcMm5kfsf-1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="T2sU1FcjST89kl4WETc3-2" value="&lt;span&gt;S9(5)&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="755" y="4580" width="120" height="40" as="geometry" />
+          <mxGeometry x="720" y="4580" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="T2sU1FcjST89kl4WETc3-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="T2sU1FcjST89kl4WETc3-4" target="T2sU1FcjST89kl4WETc3-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -78,6 +81,21 @@
         </mxCell>
         <mxCell id="T2sU1FcjST89kl4WETc3-25" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i.imgur.com/8lH5YVR.png;" parent="1" vertex="1">
           <mxGeometry x="190" y="4060" width="520" height="355" as="geometry" />
+        </mxCell>
+        <mxCell id="U18I0dOHCD-vcMm5kfsf-1" value="notified Ecommerce operator shall pay shall pay tax as if he is the supplier " style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="700" y="4640" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="U18I0dOHCD-vcMm5kfsf-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="U18I0dOHCD-vcMm5kfsf-3" target="U18I0dOHCD-vcMm5kfsf-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U18I0dOHCD-vcMm5kfsf-3" value="CTIVITIES TO BE TREATED AS SUPPLY EVEN IF MADE WITHOUT&lt;br&gt;CONSIDERATION" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="4880" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U18I0dOHCD-vcMm5kfsf-4" value="a) Permanent transfer or disposal of business assets where input tax credit has been availed on such assets." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="4960" width="440" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="U18I0dOHCD-vcMm5kfsf-6" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://imgur.com/SrbhnpJ.png;" vertex="1" parent="1">
+          <mxGeometry x="200" y="5000" width="440" height="100.69" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
