@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-29T22:00:03.872Z" agent="5.0 (X11)" etag="ZVul8PzwL8AlSMIk6M--" version="15.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-29T23:34:46.914Z" agent="5.0 (X11)" etag="aqPkmdCC3GOmSQJAGBQe" version="15.0.3" type="github">
   <diagram id="EEIt5sJKhKLN3RtG8xfO" name="Page-1">
     <mxGraphModel dx="1714" dy="-668" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -276,6 +276,9 @@
         </mxCell>
         <mxCell id="U18I0dOHCD-vcMm5kfsf-75" value="Time of supply" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="7960" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="U18I0dOHCD-vcMm5kfsf-76" value="For goods" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="8040" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
