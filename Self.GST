@@ -1,9 +1,18 @@
-<mxfile host="app.diagrams.net" modified="2021-08-29T20:14:47.944Z" agent="5.0 (X11)" etag="MvosRoNxl62E20iFV-62" version="15.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-29T21:27:43.909Z" agent="5.0 (X11)" etag="b_BYMfkiClnLXyFY-jWu" version="15.0.3" type="github">
   <diagram id="EEIt5sJKhKLN3RtG8xfO" name="Page-1">
-    <mxGraphModel dx="1566" dy="-742" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1894" dy="-577" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="U18I0dOHCD-vcMm5kfsf-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="U18I0dOHCD-vcMm5kfsf-33" target="U18I0dOHCD-vcMm5kfsf-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U18I0dOHCD-vcMm5kfsf-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="U18I0dOHCD-vcMm5kfsf-33" target="U18I0dOHCD-vcMm5kfsf-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U18I0dOHCD-vcMm5kfsf-33" value="NEGATIVE LIST" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="545" y="5940" width="160" height="40" as="geometry" />
+        </mxCell>
         <mxCell id="T2sU1FcjST89kl4WETc3-1" value="Charging Section" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="365" y="4500" width="120" height="40" as="geometry" />
         </mxCell>
@@ -118,8 +127,119 @@
         <mxCell id="U18I0dOHCD-vcMm5kfsf-13" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://imgur.com/QVXbP38.png;" vertex="1" parent="1">
           <mxGeometry x="200" y="5380" width="440" height="133.69" as="geometry" />
         </mxCell>
+        <mxCell id="U18I0dOHCD-vcMm5kfsf-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="U18I0dOHCD-vcMm5kfsf-15" target="U18I0dOHCD-vcMm5kfsf-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U18I0dOHCD-vcMm5kfsf-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="U18I0dOHCD-vcMm5kfsf-15" target="U18I0dOHCD-vcMm5kfsf-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="U18I0dOHCD-vcMm5kfsf-15" value="ACTIVITIES OR TRANSACTIONS TO BE TREATED AS &lt;u&gt;&lt;b&gt;SUPPLY OF GOODS OR&lt;br&gt;SUPPLY OF SERVICES&lt;/b&gt;&lt;/u&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="5560" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U18I0dOHCD-vcMm5kfsf-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="U18I0dOHCD-vcMm5kfsf-16" target="U18I0dOHCD-vcMm5kfsf-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U18I0dOHCD-vcMm5kfsf-16" value="Goods" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="5680" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="U18I0dOHCD-vcMm5kfsf-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="U18I0dOHCD-vcMm5kfsf-17" target="U18I0dOHCD-vcMm5kfsf-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U18I0dOHCD-vcMm5kfsf-17" value="Services" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="5680" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="U18I0dOHCD-vcMm5kfsf-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="U18I0dOHCD-vcMm5kfsf-18" target="U18I0dOHCD-vcMm5kfsf-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U18I0dOHCD-vcMm5kfsf-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="U18I0dOHCD-vcMm5kfsf-18" target="U18I0dOHCD-vcMm5kfsf-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U18I0dOHCD-vcMm5kfsf-18" value="Means movable property" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="5740" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="U18I0dOHCD-vcMm5kfsf-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="U18I0dOHCD-vcMm5kfsf-19" target="U18I0dOHCD-vcMm5kfsf-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U18I0dOHCD-vcMm5kfsf-19" value="Includes" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="5820" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="U18I0dOHCD-vcMm5kfsf-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="U18I0dOHCD-vcMm5kfsf-20" target="U18I0dOHCD-vcMm5kfsf-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U18I0dOHCD-vcMm5kfsf-20" value="Excludes" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="5820" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="U18I0dOHCD-vcMm5kfsf-21" value="&lt;div&gt;Actionable claims&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="5880" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="U18I0dOHCD-vcMm5kfsf-23" value="&lt;div&gt;Money&lt;/div&gt;&lt;div&gt;Securities&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="5880" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="U18I0dOHCD-vcMm5kfsf-29" value="&lt;div&gt;Means anything other than :--&lt;/div&gt;&lt;div&gt;1. money&lt;/div&gt;&lt;div&gt;2. securities&lt;/div&gt;&lt;div&gt;3. goods&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=7;" vertex="1" parent="1">
+          <mxGeometry x="460" y="5740" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U18I0dOHCD-vcMm5kfsf-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="U18I0dOHCD-vcMm5kfsf-34" target="U18I0dOHCD-vcMm5kfsf-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U18I0dOHCD-vcMm5kfsf-34" value="Not taxable for GST" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="6020" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="U18I0dOHCD-vcMm5kfsf-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="U18I0dOHCD-vcMm5kfsf-36" target="U18I0dOHCD-vcMm5kfsf-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U18I0dOHCD-vcMm5kfsf-36" value="&lt;div&gt;1. Purchase of immovable property after construction&lt;/div&gt;&lt;div&gt;(Purchase of immovable property under construction is taxable under 5% GST, since it is considered as construction service)&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="6080" width="360" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U18I0dOHCD-vcMm5kfsf-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="U18I0dOHCD-vcMm5kfsf-37" target="U18I0dOHCD-vcMm5kfsf-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U18I0dOHCD-vcMm5kfsf-37" value="2. Actionable claim other than betting, gambling, lottery." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="6160" width="360" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="U18I0dOHCD-vcMm5kfsf-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="U18I0dOHCD-vcMm5kfsf-40" target="U18I0dOHCD-vcMm5kfsf-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U18I0dOHCD-vcMm5kfsf-40" value="3. Employee providing service to employer in the course of employment" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="6220" width="360" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="U18I0dOHCD-vcMm5kfsf-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="U18I0dOHCD-vcMm5kfsf-42" target="U18I0dOHCD-vcMm5kfsf-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U18I0dOHCD-vcMm5kfsf-42" value="4. Fees taken by court or tribunal, MP/MLA/member of panchayat/constitutional person/ member of a body setup by CG/SG" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="6280" width="360" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="U18I0dOHCD-vcMm5kfsf-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="U18I0dOHCD-vcMm5kfsf-44" target="U18I0dOHCD-vcMm5kfsf-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U18I0dOHCD-vcMm5kfsf-44" value="5. Services of funeral, burial, crematorium or mortuary including transportation of the deceased." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="6350" width="360" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="U18I0dOHCD-vcMm5kfsf-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="U18I0dOHCD-vcMm5kfsf-45" target="U18I0dOHCD-vcMm5kfsf-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U18I0dOHCD-vcMm5kfsf-45" value="6. on issue of alcoholic liquor license(because it belongs to SG)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="6410" width="360" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="U18I0dOHCD-vcMm5kfsf-48" value="7. panchayat" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="6470" width="360" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="U18I0dOHCD-vcMm5kfsf-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="U18I0dOHCD-vcMm5kfsf-50" target="U18I0dOHCD-vcMm5kfsf-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U18I0dOHCD-vcMm5kfsf-50" value="Important circulars" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="710" y="6020" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="U18I0dOHCD-vcMm5kfsf-51" value="&lt;div&gt;ii. Inter -state movements of various modes of conveyance, including trains, buses, trucks, tankers, trailers, vessels, &lt;br&gt;&lt;/div&gt;&lt;div&gt;containers, aircraft&#39;s:&lt;/div&gt;(a) carrying goods or passengers or both; or&lt;br&gt;(b) for repairs and maintenance,&lt;br&gt;except in cases where such movement is for further supply&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;iv. Inter-state movement of rigs, tools, and spares, and all &lt;br&gt;&lt;/div&gt;&lt;div&gt;goods on wheels |like cranes], except in cases where&lt;/div&gt;&amp;nbsp;movement of such goods is for further supply" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="6080" width="360" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="U18I0dOHCD-vcMm5kfsf-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="U18I0dOHCD-vcMm5kfsf-54" target="U18I0dOHCD-vcMm5kfsf-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U18I0dOHCD-vcMm5kfsf-54" value="COMPOSITE AND MIXED SUPPLY" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="6560" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="U18I0dOHCD-vcMm5kfsf-55" value="when goods or services in a bundled form (For example: Accommodation with food, grooming kit). Such&lt;br&gt;&lt;div&gt;bundled supplies can be classified into Composite and Mixed supplies.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;The tax liability on a composite or a mixed supply shall be determined in the following manner:&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;(a) A &lt;u&gt;&lt;b&gt;composite supply&lt;/b&gt;&lt;/u&gt; comprising two or more supplies, one of which is a principal supply, shall be treated as a&lt;br&gt;&lt;div&gt;Supply of such principal supply; and&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;(b) A &lt;u&gt;&lt;b&gt;mixed supply&lt;/b&gt;&lt;/u&gt; comprising two or more supplies shall be treated as a supply of that particular supply which&lt;br&gt;&lt;div&gt;attracts the highest rate of tax&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Definitions&lt;br&gt;&lt;/div&gt;&lt;div&gt;&quot;&lt;u&gt;&lt;b&gt;Composite supply&lt;/b&gt;&lt;/u&gt;&quot; means a supply made by a taxable person to a recipient consisting of two or more&lt;br&gt;&lt;/div&gt;taxable supplies of goods or services or both, or any combination thereof, which are naturally bundled and&lt;br&gt;&lt;div&gt;supplied in conjunction with each other in the ordinary course of business, one of which is a principal supply&lt;/div&gt;&lt;br&gt;&quot;&lt;u&gt;&lt;b&gt;Principal supply&lt;/b&gt;&lt;/u&gt;&quot; means the supply of goods or services which constitutes the predominant element of a&lt;br&gt;&lt;div&gt;composite supply and to which any other supply forming part of that composite supply is ancillary&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;Mixed supply&lt;/b&gt;&lt;/u&gt; means two or more individual supplies of goods or services, or any combination thereof,&lt;br&gt;made in conjunction with each other by a taxable person for a single price where such supply does not&lt;br&gt;constitute a composite supply - Sec. 2(74).&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="6620" width="640" height="370" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
