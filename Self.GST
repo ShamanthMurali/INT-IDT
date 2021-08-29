@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-08-30T00:24:48.970Z" agent="5.0 (X11)" etag="PWVZz8eroFQRQQEsaSCz" version="15.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-30T00:27:34.895Z" agent="5.0 (X11)" etag="LlBo7LxnjKVCdQvwsRz9" version="15.0.3" type="github">
   <diagram id="EEIt5sJKhKLN3RtG8xfO" name="Page-1">
-    <mxGraphModel dx="1894" dy="-577" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2324" dy="-362" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -274,25 +274,39 @@
         <mxCell id="U18I0dOHCD-vcMm5kfsf-73" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://imgur.com/5iNoCVC.png;" vertex="1" parent="1">
           <mxGeometry x="200" y="7830.92" width="440" height="86.31" as="geometry" />
         </mxCell>
+        <mxCell id="U18I0dOHCD-vcMm5kfsf-116" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="U18I0dOHCD-vcMm5kfsf-75" target="U18I0dOHCD-vcMm5kfsf-76">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U18I0dOHCD-vcMm5kfsf-117" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="U18I0dOHCD-vcMm5kfsf-75" target="U18I0dOHCD-vcMm5kfsf-95">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="U18I0dOHCD-vcMm5kfsf-75" value="Time of supply" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="7960" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="U18I0dOHCD-vcMm5kfsf-111" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="U18I0dOHCD-vcMm5kfsf-76" target="U18I0dOHCD-vcMm5kfsf-98">
+        <mxCell id="U18I0dOHCD-vcMm5kfsf-113" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="U18I0dOHCD-vcMm5kfsf-76" target="U18I0dOHCD-vcMm5kfsf-112">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="U18I0dOHCD-vcMm5kfsf-76" value="For Goods" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="205" y="8040" width="120" height="40" as="geometry" />
+          <mxGeometry x="151" y="8040" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="U18I0dOHCD-vcMm5kfsf-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="U18I0dOHCD-vcMm5kfsf-78" target="U18I0dOHCD-vcMm5kfsf-80">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="700" y="8100" as="targetPoint" />
+            <mxPoint x="626" y="8160" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="U18I0dOHCD-vcMm5kfsf-78" value="For Forward charge" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="642.51" y="8040" width="120" height="40" as="geometry" />
+          <mxGeometry x="568.51" y="8100" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="U18I0dOHCD-vcMm5kfsf-115" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="U18I0dOHCD-vcMm5kfsf-80" target="U18I0dOHCD-vcMm5kfsf-93">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="628" y="8440" />
+              <mxPoint x="628" y="8440" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="U18I0dOHCD-vcMm5kfsf-80" value="Time of supply for services under the Forward Charge - Sec. 13(2)" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
-          <mxGeometry x="485" y="8100" width="435" height="290" as="geometry" />
+          <mxGeometry x="411" y="8160" width="435" height="290" as="geometry" />
         </mxCell>
         <mxCell id="U18I0dOHCD-vcMm5kfsf-81" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="U18I0dOHCD-vcMm5kfsf-80">
           <mxGeometry y="30" width="435" height="20" as="geometry" />
@@ -331,16 +345,16 @@
           <mxGeometry x="218" width="217" height="60" as="geometry" />
         </mxCell>
         <mxCell id="U18I0dOHCD-vcMm5kfsf-93" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Note 1:&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;date of receipt of payment = &lt;br&gt;&lt;/div&gt;&lt;div&gt;date of entry in the books of &lt;u&gt;&lt;b&gt;supplier&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;or&lt;/div&gt;&lt;div&gt;date of credit in bank of &lt;u&gt;&lt;b&gt;supplier&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;[Which ever is earlier]&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;Note 2:&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;Where the supplier of taxable goods receives an amount &amp;gt;1000 of the amount indicated in the tax invoice, the time of supply to the extent of such excess shall be the next invoice date, at the option of the supplier.&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="485" y="8410" width="435.02" height="170" as="geometry" />
+          <mxGeometry x="410.98" y="8450" width="435.02" height="170" as="geometry" />
         </mxCell>
         <mxCell id="U18I0dOHCD-vcMm5kfsf-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="U18I0dOHCD-vcMm5kfsf-95" target="U18I0dOHCD-vcMm5kfsf-78">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="U18I0dOHCD-vcMm5kfsf-95" value="For Services" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="720" y="7960" width="120" height="40" as="geometry" />
+          <mxGeometry x="568.51" y="8040" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="U18I0dOHCD-vcMm5kfsf-98" value="Time of supply for goods under the Forward Charge - Sec. 12(2)" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
-          <mxGeometry x="90" y="8100" width="350" height="290" as="geometry" />
+          <mxGeometry x="36" y="8160" width="350" height="290" as="geometry" />
         </mxCell>
         <mxCell id="U18I0dOHCD-vcMm5kfsf-99" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="U18I0dOHCD-vcMm5kfsf-98">
           <mxGeometry y="30" width="350" height="20" as="geometry" />
@@ -377,6 +391,12 @@
         </mxCell>
         <mxCell id="U18I0dOHCD-vcMm5kfsf-110" value="&lt;div&gt;1. Date of Acceptance / 6 months from date of removal&lt;br&gt;&lt;/div&gt;&lt;div&gt;or&lt;/div&gt;&lt;div&gt;2. Date of Invoice&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;[Which ever is earlier]&lt;/b&gt;&lt;/u&gt;&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="U18I0dOHCD-vcMm5kfsf-108">
           <mxGeometry x="175" width="175" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="U18I0dOHCD-vcMm5kfsf-114" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="U18I0dOHCD-vcMm5kfsf-112" target="U18I0dOHCD-vcMm5kfsf-98">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U18I0dOHCD-vcMm5kfsf-112" value="For Forward charge" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="151" y="8100" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
