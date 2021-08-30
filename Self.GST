@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-08-30T16:08:52.336Z" agent="5.0 (X11)" etag="6kzisMGqzxdK04ygb-TA" version="15.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-30T16:36:17.970Z" agent="5.0 (X11)" etag="s3sbRQQM8Vg1vsQoM_u2" version="15.0.3" type="github">
   <diagram id="EEIt5sJKhKLN3RtG8xfO" name="Page-1">
-    <mxGraphModel dx="2875" dy="-55" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="2599" dy="-204" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -337,7 +337,7 @@
         <mxCell id="U18I0dOHCD-vcMm5kfsf-91" value="C) In any other case" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=#FFFFFF;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="U18I0dOHCD-vcMm5kfsf-90" vertex="1">
           <mxGeometry width="218" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="U18I0dOHCD-vcMm5kfsf-92" value="The date on which the &lt;u&gt;&lt;b&gt;recipient&lt;/b&gt;&lt;/u&gt; shows the receipt of services in his books of account" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=#FFFFFF;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="U18I0dOHCD-vcMm5kfsf-90" vertex="1">
+        <mxCell id="U18I0dOHCD-vcMm5kfsf-92" value="&lt;div&gt;For RP = Due date for filing GST return&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp;For URP = date of payment of GST itself&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=#FFFFFF;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="U18I0dOHCD-vcMm5kfsf-90" vertex="1">
           <mxGeometry x="218" width="217" height="80" as="geometry" />
         </mxCell>
         <mxCell id="LGf6Dj8UvCyObnLF67Hn-94" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="U18I0dOHCD-vcMm5kfsf-80">
@@ -531,7 +531,10 @@
           <mxGeometry width="234" height="159" as="geometry" />
         </mxCell>
         <mxCell id="LGf6Dj8UvCyObnLF67Hn-140" value="&lt;div&gt;1&lt;/div&gt;&lt;div&gt;2 - &lt;br&gt;&lt;/div&gt;&lt;div&gt;3 - Identifiable vouchers - can be used against a particular G or S&amp;nbsp; &lt;br&gt;&lt;/div&gt;&lt;div&gt;4 - Identifiable vouchers - can be used against a variety of G or S&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="200" y="8880" width="400" height="160" as="geometry" />
+          <mxGeometry x="200" y="8880" width="400" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="LGf6Dj8UvCyObnLF67Hn-142" value="&lt;div&gt;Interest is exempt from GST. However, Interest, penalty, late fee on &lt;br&gt;&lt;/div&gt;&lt;div&gt;delayed consideration for a taxable supply is liable to GST.&lt;/div&gt;&lt;div&gt;The time of supply will be the date on which such charges are received &lt;br&gt;&lt;/div&gt;&lt;div&gt;by the supplier&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="200" y="9000" width="400" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
