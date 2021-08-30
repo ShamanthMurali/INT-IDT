@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-08-30T20:56:33.625Z" agent="5.0 (X11)" etag="uU6FkSJ-oEeyJOJmyz07" version="15.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-30T20:56:52.243Z" agent="5.0 (X11)" etag="vO7lTIAGEqb_EIyozP5z" version="15.0.3" type="github">
   <diagram id="EEIt5sJKhKLN3RtG8xfO" name="Page-1">
-    <mxGraphModel dx="3278" dy="154" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="3885" dy="468" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -651,31 +651,31 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZWSLOfvf-un0gSXgTcn5-12" value="&lt;div&gt;Types of questions&lt;/div&gt;&lt;div&gt;and &lt;br&gt;&lt;/div&gt;&lt;div&gt;how to solve them&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="9840" width="120" height="60" as="geometry" />
+          <mxGeometry x="360" y="9840" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZWSLOfvf-un0gSXgTcn5-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZWSLOfvf-un0gSXgTcn5-13" target="ZWSLOfvf-un0gSXgTcn5-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZWSLOfvf-un0gSXgTcn5-13" value="Exclusive question" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="9940" width="120" height="40" as="geometry" />
+          <mxGeometry x="240" y="9940" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ZWSLOfvf-un0gSXgTcn5-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZWSLOfvf-un0gSXgTcn5-14" target="ZWSLOfvf-un0gSXgTcn5-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZWSLOfvf-un0gSXgTcn5-14" value="Inclusive" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="9940" width="120" height="40" as="geometry" />
+          <mxGeometry x="480" y="9940" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ZWSLOfvf-un0gSXgTcn5-15" value="where price of G/S and adjustments are given separaty" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="10000" width="200" height="40" as="geometry" />
+          <mxGeometry x="200" y="10000" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ZWSLOfvf-un0gSXgTcn5-16" value="where price includes price of G/S and adjustments" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="10000" width="200" height="40" as="geometry" />
+          <mxGeometry x="440" y="10000" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ZWSLOfvf-un0gSXgTcn5-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ZWSLOfvf-un0gSXgTcn5-15" target="ZWSLOfvf-un0gSXgTcn5-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZWSLOfvf-un0gSXgTcn5-20" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
-          <mxGeometry x="120" y="10060" width="200" height="250" as="geometry" />
+          <mxGeometry x="200" y="10060" width="200" height="250" as="geometry" />
         </mxCell>
         <mxCell id="ZWSLOfvf-un0gSXgTcn5-21" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="ZWSLOfvf-un0gSXgTcn5-20">
           <mxGeometry width="200" height="40" as="geometry" />
@@ -735,7 +735,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZWSLOfvf-un0gSXgTcn5-39" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
-          <mxGeometry x="360" y="10060" width="200" height="280" as="geometry" />
+          <mxGeometry x="440" y="10060" width="200" height="280" as="geometry" />
         </mxCell>
         <mxCell id="ZWSLOfvf-un0gSXgTcn5-40" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="ZWSLOfvf-un0gSXgTcn5-39">
           <mxGeometry width="200" height="40" as="geometry" />
@@ -798,7 +798,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZWSLOfvf-un0gSXgTcn5-63" value="&lt;div&gt;Note&lt;/div&gt;&lt;div&gt;Subsidies&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="10400" width="120" height="40" as="geometry" />
+          <mxGeometry x="360" y="10400" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ZWSLOfvf-un0gSXgTcn5-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZWSLOfvf-un0gSXgTcn5-64" target="ZWSLOfvf-un0gSXgTcn5-69">
           <mxGeometry relative="1" as="geometry" />
@@ -810,79 +810,79 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZWSLOfvf-un0gSXgTcn5-64" value="Govt subsidy" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="70" y="10460" width="120" height="40" as="geometry" />
+          <mxGeometry x="150" y="10460" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ZWSLOfvf-un0gSXgTcn5-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="ZWSLOfvf-un0gSXgTcn5-83">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="550.0000000000005" y="10500" as="sourcePoint" />
+            <mxPoint x="630.0000000000005" y="10500" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ZWSLOfvf-un0gSXgTcn5-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="ZWSLOfvf-un0gSXgTcn5-81">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="490" y="10480" as="sourcePoint" />
+            <mxPoint x="570" y="10480" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ZWSLOfvf-un0gSXgTcn5-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="ZWSLOfvf-un0gSXgTcn5-85">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="610.0000000000005" y="10480" as="sourcePoint" />
+            <mxPoint x="690.0000000000005" y="10480" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ZWSLOfvf-un0gSXgTcn5-65" value="Other subsidy" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="500" y="10460" width="120" height="40" as="geometry" />
+          <mxGeometry x="580" y="10460" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ZWSLOfvf-un0gSXgTcn5-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZWSLOfvf-un0gSXgTcn5-68" target="ZWSLOfvf-un0gSXgTcn5-74">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZWSLOfvf-un0gSXgTcn5-68" value="&lt;div&gt;Already considered in&lt;/div&gt;&lt;div&gt;price&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-70" y="10540" width="120" height="40" as="geometry" />
+          <mxGeometry x="10" y="10540" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ZWSLOfvf-un0gSXgTcn5-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZWSLOfvf-un0gSXgTcn5-69" target="ZWSLOfvf-un0gSXgTcn5-75">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZWSLOfvf-un0gSXgTcn5-69" value="Not considered" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="70" y="10540" width="120" height="40" as="geometry" />
+          <mxGeometry x="150" y="10540" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ZWSLOfvf-un0gSXgTcn5-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZWSLOfvf-un0gSXgTcn5-70" target="ZWSLOfvf-un0gSXgTcn5-76">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZWSLOfvf-un0gSXgTcn5-70" value="nothing mentioned in question" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="210" y="10540" width="120" height="40" as="geometry" />
+          <mxGeometry x="290" y="10540" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ZWSLOfvf-un0gSXgTcn5-74" value="Ignore" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-70" y="10600" width="120" height="40" as="geometry" />
+          <mxGeometry x="10" y="10600" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ZWSLOfvf-un0gSXgTcn5-75" value="Deduct" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="70" y="10600" width="120" height="40" as="geometry" />
+          <mxGeometry x="150" y="10600" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ZWSLOfvf-un0gSXgTcn5-76" value="Ignore" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="210" y="10600" width="120" height="40" as="geometry" />
+          <mxGeometry x="290" y="10600" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ZWSLOfvf-un0gSXgTcn5-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="ZWSLOfvf-un0gSXgTcn5-81" target="ZWSLOfvf-un0gSXgTcn5-86" parent="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZWSLOfvf-un0gSXgTcn5-81" value="&lt;div&gt;Already considered in&lt;/div&gt;&lt;div&gt;price&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="10540" width="120" height="40" as="geometry" />
+          <mxGeometry x="430" y="10540" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ZWSLOfvf-un0gSXgTcn5-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="ZWSLOfvf-un0gSXgTcn5-83" target="ZWSLOfvf-un0gSXgTcn5-87" parent="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZWSLOfvf-un0gSXgTcn5-83" value="Not considered" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="490" y="10540" width="120" height="40" as="geometry" />
+          <mxGeometry x="570" y="10540" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ZWSLOfvf-un0gSXgTcn5-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" source="ZWSLOfvf-un0gSXgTcn5-85" target="ZWSLOfvf-un0gSXgTcn5-88" parent="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZWSLOfvf-un0gSXgTcn5-85" value="nothing mentioned in question" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="630" y="10540" width="120" height="40" as="geometry" />
+          <mxGeometry x="710" y="10540" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ZWSLOfvf-un0gSXgTcn5-86" value="Add back" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="10600" width="120" height="40" as="geometry" />
+          <mxGeometry x="430" y="10600" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ZWSLOfvf-un0gSXgTcn5-87" value="Ignore" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="490" y="10600" width="120" height="40" as="geometry" />
+          <mxGeometry x="570" y="10600" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ZWSLOfvf-un0gSXgTcn5-88" value="Add it" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="630" y="10600" width="120" height="40" as="geometry" />
+          <mxGeometry x="710" y="10600" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
