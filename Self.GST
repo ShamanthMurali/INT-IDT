@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-08-30T17:47:22.508Z" agent="5.0 (X11)" etag="Is0xqbcMZWl1B5KhEb9R" version="15.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-30T18:30:43.355Z" agent="5.0 (X11)" etag="sKmRAWJr8qpWHVl5cvHj" version="15.0.3" type="github">
   <diagram id="EEIt5sJKhKLN3RtG8xfO" name="Page-1">
-    <mxGraphModel dx="1554" dy="-742" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="2299" dy="-462" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -301,8 +301,121 @@
         <mxCell id="LGf6Dj8UvCyObnLF67Hn-22" value="When will the liability of GST arise?" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="320" y="8020" width="200" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="U18I0dOHCD-vcMm5kfsf-80" value="Time of supply for services - Sec. 13(2)" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;fillColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="434" y="8140" width="435" height="520" as="geometry" />
+        <mxCell id="LGf6Dj8UvCyObnLF67Hn-143" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="U18I0dOHCD-vcMm5kfsf-93" target="LGf6Dj8UvCyObnLF67Hn-140">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="780" y="8880" />
+              <mxPoint x="400" y="8880" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LGf6Dj8UvCyObnLF67Hn-99" value="**Due date to issue invoice" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
+          <mxGeometry x="1130" y="8560" width="325" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="LGf6Dj8UvCyObnLF67Hn-100" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="LGf6Dj8UvCyObnLF67Hn-99">
+          <mxGeometry y="30" width="325" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="LGf6Dj8UvCyObnLF67Hn-101" value="a. if the payment date is ascertainable from the contract" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="LGf6Dj8UvCyObnLF67Hn-100">
+          <mxGeometry width="163" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="LGf6Dj8UvCyObnLF67Hn-102" value="Date mentioned in the contract" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="LGf6Dj8UvCyObnLF67Hn-100">
+          <mxGeometry x="163" width="162" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="LGf6Dj8UvCyObnLF67Hn-103" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="LGf6Dj8UvCyObnLF67Hn-99">
+          <mxGeometry y="80" width="325" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LGf6Dj8UvCyObnLF67Hn-104" value="&lt;div&gt;a. if the payment date is &lt;u&gt;&lt;br&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;not&lt;/u&gt; ascertainable from the contract&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="LGf6Dj8UvCyObnLF67Hn-103">
+          <mxGeometry width="163" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LGf6Dj8UvCyObnLF67Hn-105" value="Date of payment" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="LGf6Dj8UvCyObnLF67Hn-103">
+          <mxGeometry x="163" width="162" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LGf6Dj8UvCyObnLF67Hn-106" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="LGf6Dj8UvCyObnLF67Hn-99">
+          <mxGeometry y="140" width="325" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LGf6Dj8UvCyObnLF67Hn-107" value="a. if the payment date is based on completion of an event" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="LGf6Dj8UvCyObnLF67Hn-106">
+          <mxGeometry width="163" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LGf6Dj8UvCyObnLF67Hn-108" value="Date of completion of each event" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="LGf6Dj8UvCyObnLF67Hn-106">
+          <mxGeometry x="163" width="162" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LGf6Dj8UvCyObnLF67Hn-109" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="LGf6Dj8UvCyObnLF67Hn-97" target="LGf6Dj8UvCyObnLF67Hn-99">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1292" y="8540" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LGf6Dj8UvCyObnLF67Hn-144" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LGf6Dj8UvCyObnLF67Hn-37" target="LGf6Dj8UvCyObnLF67Hn-140">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="120" y="8880" />
+              <mxPoint x="400" y="8880" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LGf6Dj8UvCyObnLF67Hn-145" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LGf6Dj8UvCyObnLF67Hn-140" target="LGf6Dj8UvCyObnLF67Hn-142">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LGf6Dj8UvCyObnLF67Hn-140" value="&lt;div&gt;1&lt;/div&gt;&lt;div&gt;2 - &lt;br&gt;&lt;/div&gt;&lt;div&gt;3 - Identifiable vouchers - can be used against a particular G or S&amp;nbsp; &lt;br&gt;&lt;/div&gt;&lt;div&gt;4 - Identifiable vouchers - can be used against a variety of G or S&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="200" y="8920" width="400" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="LGf6Dj8UvCyObnLF67Hn-142" value="&lt;div&gt;Interest is exempt from GST. However, Interest, penalty, late fee on &lt;br&gt;&lt;/div&gt;&lt;div&gt;delayed consideration for a taxable supply is liable to GST.&lt;/div&gt;&lt;div&gt;The time of supply will be the date on which such charges are received &lt;br&gt;&lt;/div&gt;&lt;div&gt;by the supplier&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="200" y="9020" width="400" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="LGf6Dj8UvCyObnLF67Hn-151" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="LGf6Dj8UvCyObnLF67Hn-148" target="LGf6Dj8UvCyObnLF67Hn-150">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LGf6Dj8UvCyObnLF67Hn-148" value="Value of supply" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="340" y="9160" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LGf6Dj8UvCyObnLF67Hn-153" value="NO" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LGf6Dj8UvCyObnLF67Hn-150" target="LGf6Dj8UvCyObnLF67Hn-152">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LGf6Dj8UvCyObnLF67Hn-150" value="&lt;div&gt;The taxable value of the price shall always be the Transaction Value &lt;br&gt;&lt;/div&gt;&lt;div&gt;(i.e., the price agreed for the supply) provided the following 2 conditions should be satisfied:&lt;/div&gt;a. Both the supplier and recipient are not related; and&lt;br&gt;b. Price is the sole consideration." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="200" y="9220" width="400" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="LGf6Dj8UvCyObnLF67Hn-152" value="Then the value will be as per valuation rules in cgst rules(CA Final)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="680" y="9237.5" width="160" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="LGf6Dj8UvCyObnLF67Hn-159" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LGf6Dj8UvCyObnLF67Hn-154" target="LGf6Dj8UvCyObnLF67Hn-158">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LGf6Dj8UvCyObnLF67Hn-154" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="600" y="9360" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LGf6Dj8UvCyObnLF67Hn-157" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LGf6Dj8UvCyObnLF67Hn-155" target="LGf6Dj8UvCyObnLF67Hn-156">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LGf6Dj8UvCyObnLF67Hn-155" value="Inclusions" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="80" y="9360" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LGf6Dj8UvCyObnLF67Hn-162" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LGf6Dj8UvCyObnLF67Hn-156" target="LGf6Dj8UvCyObnLF67Hn-160">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LGf6Dj8UvCyObnLF67Hn-156" value="(a) any taxes, duties, cess, fees and charges levied under any law for the time being in force other than GST and compensation cess(Compensation to States)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="9440" width="360" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LGf6Dj8UvCyObnLF67Hn-158" value="CBIC has clarified that Tax Collected at source under Income tax act is not liable to GST" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="480" y="9420" width="360" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LGf6Dj8UvCyObnLF67Hn-163" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LGf6Dj8UvCyObnLF67Hn-160" target="LGf6Dj8UvCyObnLF67Hn-161">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LGf6Dj8UvCyObnLF67Hn-160" value="&lt;div&gt;(d)interest or late fee or penalty for delayed payment or any consideration for any supply&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="9520" width="360" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LGf6Dj8UvCyObnLF67Hn-161" value="(e) subsidies directly linked to the price excluding subsidies provided by the Central Government and State&lt;br&gt;Governments." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="9580" width="360" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="LGf6Dj8UvCyObnLF67Hn-164" value="(C) incidental expenses, including commission, packing. inspection/certification charges, installation/&lt;br&gt;testing charges, loading weighment and designing charges charged by the supplier to the recipient of a supply&lt;br&gt;and any amount charged for anything done by the supplier in respect of the supply of goods or services or both&lt;br&gt;at the time of, or before delivery of goods or supply of services. In case of a composite supply, outward freight,&lt;br&gt;transit insurance will also form part of value of supply;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="9650" width="360" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="LGf6Dj8UvCyObnLF67Hn-165" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="434" y="8140" width="669" height="690" as="geometry" />
+        </mxCell>
+        <mxCell id="U18I0dOHCD-vcMm5kfsf-80" value="Time of supply for services - Sec. 13(2)" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;fillColor=#FFFFFF;" parent="LGf6Dj8UvCyObnLF67Hn-165" vertex="1">
+          <mxGeometry width="435" height="520" as="geometry" />
         </mxCell>
         <mxCell id="U18I0dOHCD-vcMm5kfsf-81" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="U18I0dOHCD-vcMm5kfsf-80" vertex="1">
           <mxGeometry y="30" width="435" height="40" as="geometry" />
@@ -367,19 +480,11 @@
         <mxCell id="LGf6Dj8UvCyObnLF67Hn-132" value="Date of redemption of voucher" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=#FFFFFF;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="LGf6Dj8UvCyObnLF67Hn-130">
           <mxGeometry x="218" width="217" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="LGf6Dj8UvCyObnLF67Hn-143" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="U18I0dOHCD-vcMm5kfsf-93" target="LGf6Dj8UvCyObnLF67Hn-140">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="780" y="8880" />
-              <mxPoint x="400" y="8880" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="U18I0dOHCD-vcMm5kfsf-93" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Note 1:&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;date of receipt of payment = &lt;br&gt;&lt;/div&gt;&lt;div&gt;date of entry in the books of &lt;u&gt;&lt;b&gt;supplier&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;or&lt;/div&gt;&lt;div&gt;date of &lt;u&gt;&lt;b&gt;credit&lt;/b&gt;&lt;/u&gt; in bank of &lt;u&gt;&lt;b&gt;supplier&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;[Which ever is earlier]&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;Note 2:&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;Where the supplier of taxable goods receives an amount &amp;gt;1000 of the amount indicated in the tax invoice, the time of supply to the extent of such excess shall be the next invoice date, at the option of the supplier.&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="LGf6Dj8UvCyObnLF67Hn-165" vertex="1">
+          <mxGeometry y="520" width="435.02" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="U18I0dOHCD-vcMm5kfsf-93" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Note 1:&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;date of receipt of payment = &lt;br&gt;&lt;/div&gt;&lt;div&gt;date of entry in the books of &lt;u&gt;&lt;b&gt;supplier&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;or&lt;/div&gt;&lt;div&gt;date of &lt;u&gt;&lt;b&gt;credit&lt;/b&gt;&lt;/u&gt; in bank of &lt;u&gt;&lt;b&gt;supplier&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;[Which ever is earlier]&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;Note 2:&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;Where the supplier of taxable goods receives an amount &amp;gt;1000 of the amount indicated in the tax invoice, the time of supply to the extent of such excess shall be the next invoice date, at the option of the supplier.&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="434" y="8660" width="435.02" height="170" as="geometry" />
-        </mxCell>
-        <mxCell id="LGf6Dj8UvCyObnLF67Hn-13" value="Sec. 13(3)" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
-          <mxGeometry x="869" y="8140" width="234" height="519.9285714285706" as="geometry" />
+        <mxCell id="LGf6Dj8UvCyObnLF67Hn-13" value="Sec. 13(3)" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="LGf6Dj8UvCyObnLF67Hn-165">
+          <mxGeometry x="435" width="234" height="519.9285714285706" as="geometry" />
         </mxCell>
         <mxCell id="LGf6Dj8UvCyObnLF67Hn-14" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="LGf6Dj8UvCyObnLF67Hn-13">
           <mxGeometry y="30" width="234" height="40" as="geometry" />
@@ -405,62 +510,20 @@
         <mxCell id="LGf6Dj8UvCyObnLF67Hn-98" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=#FFFFFF;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="LGf6Dj8UvCyObnLF67Hn-97">
           <mxGeometry width="234" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="LGf6Dj8UvCyObnLF67Hn-34" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Note 1:&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;date of receipt of payment = &lt;br&gt;&lt;/div&gt;&lt;div&gt;date of entry in the books of &lt;u&gt;&lt;b&gt;Recipient&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;or&lt;/div&gt;&lt;div&gt;date of &lt;u&gt;&lt;b&gt;Debit&lt;/b&gt;&lt;/u&gt; in bank of &lt;u&gt;&lt;b&gt;Recipient&lt;br&gt;&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;[Which ever is earlier]&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="869.02" y="8660" width="233.98" height="170" as="geometry" />
+        <mxCell id="LGf6Dj8UvCyObnLF67Hn-34" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Note 1:&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;date of receipt of payment = &lt;br&gt;&lt;/div&gt;&lt;div&gt;date of entry in the books of &lt;u&gt;&lt;b&gt;Recipient&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;or&lt;/div&gt;&lt;div&gt;date of &lt;u&gt;&lt;b&gt;Debit&lt;/b&gt;&lt;/u&gt; in bank of &lt;u&gt;&lt;b&gt;Recipient&lt;br&gt;&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;[Which ever is earlier]&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="LGf6Dj8UvCyObnLF67Hn-165">
+          <mxGeometry x="435.02" y="520" width="233.98" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="LGf6Dj8UvCyObnLF67Hn-99" value="**Due date to issue invoice" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
-          <mxGeometry x="1130" y="8560" width="325" height="200" as="geometry" />
+        <mxCell id="LGf6Dj8UvCyObnLF67Hn-166" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-180" y="8142" width="584" height="580" as="geometry" />
         </mxCell>
-        <mxCell id="LGf6Dj8UvCyObnLF67Hn-100" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="LGf6Dj8UvCyObnLF67Hn-99">
-          <mxGeometry y="30" width="325" height="50" as="geometry" />
+        <mxCell id="LGf6Dj8UvCyObnLF67Hn-35" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Note 1:&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;date of receipt of payment = &lt;br&gt;&lt;/div&gt;&lt;div&gt;date of entry in the books of &lt;u&gt;&lt;b&gt;Recipient&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;or&lt;/div&gt;&lt;div&gt;date of &lt;u&gt;&lt;b&gt;Debit&lt;/b&gt;&lt;/u&gt; in bank of &lt;u&gt;&lt;b&gt;Recipient&lt;br&gt;&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;[Which ever is earlier]&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="LGf6Dj8UvCyObnLF67Hn-166">
+          <mxGeometry x="350.02" y="470" width="233.98" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="LGf6Dj8UvCyObnLF67Hn-101" value="a. if the payment date is ascertainable from the contract" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="LGf6Dj8UvCyObnLF67Hn-100">
-          <mxGeometry width="163" height="50" as="geometry" />
+        <mxCell id="LGf6Dj8UvCyObnLF67Hn-37" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Note 1:&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;date of receipt of payment = &lt;br&gt;&lt;/div&gt;&lt;div&gt;date of entry in the books of &lt;u&gt;&lt;b&gt;supplier&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;or&lt;/div&gt;&lt;div&gt;date of &lt;u&gt;&lt;b&gt;credit&lt;/b&gt;&lt;/u&gt; in bank of &lt;u&gt;&lt;b&gt;supplier&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;[Which ever is earlier]&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="LGf6Dj8UvCyObnLF67Hn-166">
+          <mxGeometry y="470" width="350.02" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="LGf6Dj8UvCyObnLF67Hn-102" value="Date mentioned in the contract" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="LGf6Dj8UvCyObnLF67Hn-100">
-          <mxGeometry x="163" width="162" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="LGf6Dj8UvCyObnLF67Hn-103" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="LGf6Dj8UvCyObnLF67Hn-99">
-          <mxGeometry y="80" width="325" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="LGf6Dj8UvCyObnLF67Hn-104" value="&lt;div&gt;a. if the payment date is &lt;u&gt;&lt;br&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;not&lt;/u&gt; ascertainable from the contract&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="LGf6Dj8UvCyObnLF67Hn-103">
-          <mxGeometry width="163" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="LGf6Dj8UvCyObnLF67Hn-105" value="Date of payment" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="LGf6Dj8UvCyObnLF67Hn-103">
-          <mxGeometry x="163" width="162" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="LGf6Dj8UvCyObnLF67Hn-106" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="LGf6Dj8UvCyObnLF67Hn-99">
-          <mxGeometry y="140" width="325" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="LGf6Dj8UvCyObnLF67Hn-107" value="a. if the payment date is based on completion of an event" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="LGf6Dj8UvCyObnLF67Hn-106">
-          <mxGeometry width="163" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="LGf6Dj8UvCyObnLF67Hn-108" value="Date of completion of each event" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="LGf6Dj8UvCyObnLF67Hn-106">
-          <mxGeometry x="163" width="162" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="LGf6Dj8UvCyObnLF67Hn-109" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="LGf6Dj8UvCyObnLF67Hn-97" target="LGf6Dj8UvCyObnLF67Hn-99">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1292" y="8540" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="LGf6Dj8UvCyObnLF67Hn-35" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Note 1:&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;date of receipt of payment = &lt;br&gt;&lt;/div&gt;&lt;div&gt;date of entry in the books of &lt;u&gt;&lt;b&gt;Recipient&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;or&lt;/div&gt;&lt;div&gt;date of &lt;u&gt;&lt;b&gt;Debit&lt;/b&gt;&lt;/u&gt; in bank of &lt;u&gt;&lt;b&gt;Recipient&lt;br&gt;&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;[Which ever is earlier]&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="170.01999999999998" y="8612" width="233.98" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="LGf6Dj8UvCyObnLF67Hn-144" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LGf6Dj8UvCyObnLF67Hn-37" target="LGf6Dj8UvCyObnLF67Hn-140">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="120" y="8880" />
-              <mxPoint x="400" y="8880" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="LGf6Dj8UvCyObnLF67Hn-37" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Note 1:&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;date of receipt of payment = &lt;br&gt;&lt;/div&gt;&lt;div&gt;date of entry in the books of &lt;u&gt;&lt;b&gt;supplier&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;or&lt;/div&gt;&lt;div&gt;date of &lt;u&gt;&lt;b&gt;credit&lt;/b&gt;&lt;/u&gt; in bank of &lt;u&gt;&lt;b&gt;supplier&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;[Which ever is earlier]&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-180" y="8612" width="350.02" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="U18I0dOHCD-vcMm5kfsf-98" value="Time of supply for goods - Sec. 12(2)" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;" parent="1" vertex="1">
-          <mxGeometry x="-180" y="8142" width="350" height="470" as="geometry" />
+        <mxCell id="U18I0dOHCD-vcMm5kfsf-98" value="Time of supply for goods - Sec. 12(2)" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;" parent="LGf6Dj8UvCyObnLF67Hn-166" vertex="1">
+          <mxGeometry width="350" height="470" as="geometry" />
         </mxCell>
         <mxCell id="U18I0dOHCD-vcMm5kfsf-99" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="U18I0dOHCD-vcMm5kfsf-98" vertex="1">
           <mxGeometry y="30" width="350" height="40" as="geometry" />
@@ -525,8 +588,8 @@
         <mxCell id="LGf6Dj8UvCyObnLF67Hn-139" value="Date of redemption of voucher" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=#FFFFFF;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="LGf6Dj8UvCyObnLF67Hn-137">
           <mxGeometry x="175" width="175" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="LGf6Dj8UvCyObnLF67Hn-26" value="Sec. 12(3)" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
-          <mxGeometry x="169.99999999999997" y="8142" width="234" height="469.4047619047633" as="geometry" />
+        <mxCell id="LGf6Dj8UvCyObnLF67Hn-26" value="Sec. 12(3)" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="LGf6Dj8UvCyObnLF67Hn-166">
+          <mxGeometry x="350" width="234" height="469.4047619047633" as="geometry" />
         </mxCell>
         <mxCell id="LGf6Dj8UvCyObnLF67Hn-27" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="LGf6Dj8UvCyObnLF67Hn-26">
           <mxGeometry y="30" width="234" height="40" as="geometry" />
@@ -545,51 +608,6 @@
         </mxCell>
         <mxCell id="LGf6Dj8UvCyObnLF67Hn-91" value="#NA" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=#FFFFFF;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="LGf6Dj8UvCyObnLF67Hn-90">
           <mxGeometry width="234" height="159" as="geometry" />
-        </mxCell>
-        <mxCell id="LGf6Dj8UvCyObnLF67Hn-145" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LGf6Dj8UvCyObnLF67Hn-140" target="LGf6Dj8UvCyObnLF67Hn-142">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="LGf6Dj8UvCyObnLF67Hn-140" value="&lt;div&gt;1&lt;/div&gt;&lt;div&gt;2 - &lt;br&gt;&lt;/div&gt;&lt;div&gt;3 - Identifiable vouchers - can be used against a particular G or S&amp;nbsp; &lt;br&gt;&lt;/div&gt;&lt;div&gt;4 - Identifiable vouchers - can be used against a variety of G or S&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="200" y="8920" width="400" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="LGf6Dj8UvCyObnLF67Hn-149" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LGf6Dj8UvCyObnLF67Hn-142" target="LGf6Dj8UvCyObnLF67Hn-148">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="LGf6Dj8UvCyObnLF67Hn-142" value="&lt;div&gt;Interest is exempt from GST. However, Interest, penalty, late fee on &lt;br&gt;&lt;/div&gt;&lt;div&gt;delayed consideration for a taxable supply is liable to GST.&lt;/div&gt;&lt;div&gt;The time of supply will be the date on which such charges are received &lt;br&gt;&lt;/div&gt;&lt;div&gt;by the supplier&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="200" y="9020" width="400" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="LGf6Dj8UvCyObnLF67Hn-151" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="LGf6Dj8UvCyObnLF67Hn-148" target="LGf6Dj8UvCyObnLF67Hn-150">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="LGf6Dj8UvCyObnLF67Hn-148" value="Value of supply" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="340" y="9160" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="LGf6Dj8UvCyObnLF67Hn-153" value="NO" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LGf6Dj8UvCyObnLF67Hn-150" target="LGf6Dj8UvCyObnLF67Hn-152">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="LGf6Dj8UvCyObnLF67Hn-150" value="&lt;div&gt;The taxable value of the price shall always be the Transaction Value &lt;br&gt;&lt;/div&gt;&lt;div&gt;(i.e., the price agreed for the supply) provided the following 2 conditions should be satisfied:&lt;/div&gt;a. Both the supplier and recipient are not related; and&lt;br&gt;b. Price is the sole consideration." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="200" y="9220" width="400" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="LGf6Dj8UvCyObnLF67Hn-152" value="Then the value will be as per valuation rules in cgst rules(CA Final)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="680" y="9237.5" width="160" height="55" as="geometry" />
-        </mxCell>
-        <mxCell id="LGf6Dj8UvCyObnLF67Hn-159" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LGf6Dj8UvCyObnLF67Hn-154" target="LGf6Dj8UvCyObnLF67Hn-158">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="LGf6Dj8UvCyObnLF67Hn-154" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="600" y="9360" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="LGf6Dj8UvCyObnLF67Hn-157" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LGf6Dj8UvCyObnLF67Hn-155" target="LGf6Dj8UvCyObnLF67Hn-156">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="LGf6Dj8UvCyObnLF67Hn-155" value="Inclusions" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="80" y="9360" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="LGf6Dj8UvCyObnLF67Hn-156" value="(a) any taxes, duties, cess, fees and charges levied under any law for the time being in force other than GST and compensation cess(Compensation to States)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="-40" y="9440" width="360" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="LGf6Dj8UvCyObnLF67Hn-158" value="CBIC has clarified that Tax Collected at source under Income tax act is not liable to GST" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="480" y="9420" width="360" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
