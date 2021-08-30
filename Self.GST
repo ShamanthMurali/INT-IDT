@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-30T21:51:51.077Z" agent="5.0 (X11)" etag="9ZBcNpvuP3nA2wWVbSIB" version="15.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-31T00:01:31.632Z" agent="5.0 (X11)" etag="dz8k8fwWu520MAQjmrfn" version="15.0.3" type="github">
   <diagram id="EEIt5sJKhKLN3RtG8xfO" name="Page-1">
     <mxGraphModel dx="1862" dy="-577" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
@@ -916,6 +916,69 @@
         </mxCell>
         <mxCell id="ZWSLOfvf-un0gSXgTcn5-103" value="Composition scheme" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="10800" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZWSLOfvf-un0gSXgTcn5-123" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZWSLOfvf-un0gSXgTcn5-106" target="ZWSLOfvf-un0gSXgTcn5-113">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZWSLOfvf-un0gSXgTcn5-106" value="Mr.A" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="10880" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZWSLOfvf-un0gSXgTcn5-107" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="ZWSLOfvf-un0gSXgTcn5-106">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="120" y="10900" as="sourcePoint" />
+            <mxPoint x="460" y="10915" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZWSLOfvf-un0gSXgTcn5-108" value="Purchase" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="134" y="10870" width="86" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ZWSLOfvf-un0gSXgTcn5-109" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ZWSLOfvf-un0gSXgTcn5-106">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="130.00000000000023" y="10910" as="sourcePoint" />
+            <mxPoint x="480" y="10900" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZWSLOfvf-un0gSXgTcn5-110" value="Sale" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="370" y="10870" width="86" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ZWSLOfvf-un0gSXgTcn5-111" value="Avails/Takes ITC" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="117" y="10910" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ZWSLOfvf-un0gSXgTcn5-112" value="Collects Tax from customer" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="360" y="10910" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ZWSLOfvf-un0gSXgTcn5-113" value="Tax payable" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
+          <mxGeometry x="220" y="10960" width="160" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="ZWSLOfvf-un0gSXgTcn5-114" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="ZWSLOfvf-un0gSXgTcn5-113">
+          <mxGeometry y="30" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZWSLOfvf-un0gSXgTcn5-115" value="Output tax" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="ZWSLOfvf-un0gSXgTcn5-114">
+          <mxGeometry width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZWSLOfvf-un0gSXgTcn5-116" value="x" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="ZWSLOfvf-un0gSXgTcn5-114">
+          <mxGeometry x="120" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZWSLOfvf-un0gSXgTcn5-117" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="ZWSLOfvf-un0gSXgTcn5-113">
+          <mxGeometry y="70" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZWSLOfvf-un0gSXgTcn5-118" value="(-) ITC" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="ZWSLOfvf-un0gSXgTcn5-117">
+          <mxGeometry width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZWSLOfvf-un0gSXgTcn5-119" value="(x)" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="ZWSLOfvf-un0gSXgTcn5-117">
+          <mxGeometry x="120" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZWSLOfvf-un0gSXgTcn5-120" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="ZWSLOfvf-un0gSXgTcn5-113">
+          <mxGeometry y="110" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZWSLOfvf-un0gSXgTcn5-121" value="Tax Payable" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="ZWSLOfvf-un0gSXgTcn5-120">
+          <mxGeometry width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZWSLOfvf-un0gSXgTcn5-122" value="XX" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="ZWSLOfvf-un0gSXgTcn5-120">
+          <mxGeometry x="120" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZWSLOfvf-un0gSXgTcn5-124" value="GSTR - 1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="237" y="11160" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
