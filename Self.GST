@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-08-30T18:30:43.355Z" agent="5.0 (X11)" etag="sKmRAWJr8qpWHVl5cvHj" version="15.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-30T20:56:21.069Z" agent="5.0 (X11)" etag="Se5UQCcEd2Gq0j0BvFcp" version="15.0.3" type="github">
   <diagram id="EEIt5sJKhKLN3RtG8xfO" name="Page-1">
-    <mxGraphModel dx="2299" dy="-462" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="1862" dy="-577" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -274,34 +274,34 @@
         <mxCell id="U18I0dOHCD-vcMm5kfsf-73" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://imgur.com/5iNoCVC.png;" parent="1" vertex="1">
           <mxGeometry x="200" y="7830.92" width="440" height="86.31" as="geometry" />
         </mxCell>
-        <mxCell id="LGf6Dj8UvCyObnLF67Hn-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="U18I0dOHCD-vcMm5kfsf-75" target="LGf6Dj8UvCyObnLF67Hn-22">
+        <mxCell id="LGf6Dj8UvCyObnLF67Hn-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="U18I0dOHCD-vcMm5kfsf-75" target="LGf6Dj8UvCyObnLF67Hn-22" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="U18I0dOHCD-vcMm5kfsf-75" value="Time of supply" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="360" y="7960" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="LGf6Dj8UvCyObnLF67Hn-141" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.841;entryY=0.001;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="U18I0dOHCD-vcMm5kfsf-76" target="U18I0dOHCD-vcMm5kfsf-98">
+        <mxCell id="LGf6Dj8UvCyObnLF67Hn-141" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.841;entryY=0.001;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="U18I0dOHCD-vcMm5kfsf-76" target="U18I0dOHCD-vcMm5kfsf-98" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="U18I0dOHCD-vcMm5kfsf-76" value="For Goods" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="54" y="8080" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="LGf6Dj8UvCyObnLF67Hn-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="U18I0dOHCD-vcMm5kfsf-95" target="U18I0dOHCD-vcMm5kfsf-80">
+        <mxCell id="LGf6Dj8UvCyObnLF67Hn-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" parent="1" source="U18I0dOHCD-vcMm5kfsf-95" target="U18I0dOHCD-vcMm5kfsf-80" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="U18I0dOHCD-vcMm5kfsf-95" value="For Services" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="700" y="8080" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="LGf6Dj8UvCyObnLF67Hn-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LGf6Dj8UvCyObnLF67Hn-22" target="U18I0dOHCD-vcMm5kfsf-76">
+        <mxCell id="LGf6Dj8UvCyObnLF67Hn-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="LGf6Dj8UvCyObnLF67Hn-22" target="U18I0dOHCD-vcMm5kfsf-76" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LGf6Dj8UvCyObnLF67Hn-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LGf6Dj8UvCyObnLF67Hn-22" target="U18I0dOHCD-vcMm5kfsf-95">
+        <mxCell id="LGf6Dj8UvCyObnLF67Hn-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="LGf6Dj8UvCyObnLF67Hn-22" target="U18I0dOHCD-vcMm5kfsf-95" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LGf6Dj8UvCyObnLF67Hn-22" value="When will the liability of GST arise?" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="LGf6Dj8UvCyObnLF67Hn-22" value="When will the liability of GST arise?" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="320" y="8020" width="200" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="LGf6Dj8UvCyObnLF67Hn-143" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="U18I0dOHCD-vcMm5kfsf-93" target="LGf6Dj8UvCyObnLF67Hn-140">
+        <mxCell id="LGf6Dj8UvCyObnLF67Hn-143" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="U18I0dOHCD-vcMm5kfsf-93" target="LGf6Dj8UvCyObnLF67Hn-140" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="780" y="8880" />
@@ -309,44 +309,44 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="LGf6Dj8UvCyObnLF67Hn-99" value="**Due date to issue invoice" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
+        <mxCell id="LGf6Dj8UvCyObnLF67Hn-99" value="**Due date to issue invoice" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;" parent="1" vertex="1">
           <mxGeometry x="1130" y="8560" width="325" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="LGf6Dj8UvCyObnLF67Hn-100" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="LGf6Dj8UvCyObnLF67Hn-99">
+        <mxCell id="LGf6Dj8UvCyObnLF67Hn-100" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="LGf6Dj8UvCyObnLF67Hn-99" vertex="1">
           <mxGeometry y="30" width="325" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="LGf6Dj8UvCyObnLF67Hn-101" value="a. if the payment date is ascertainable from the contract" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="LGf6Dj8UvCyObnLF67Hn-100">
+        <mxCell id="LGf6Dj8UvCyObnLF67Hn-101" value="a. if the payment date is ascertainable from the contract" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="LGf6Dj8UvCyObnLF67Hn-100" vertex="1">
           <mxGeometry width="163" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="LGf6Dj8UvCyObnLF67Hn-102" value="Date mentioned in the contract" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="LGf6Dj8UvCyObnLF67Hn-100">
+        <mxCell id="LGf6Dj8UvCyObnLF67Hn-102" value="Date mentioned in the contract" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="LGf6Dj8UvCyObnLF67Hn-100" vertex="1">
           <mxGeometry x="163" width="162" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="LGf6Dj8UvCyObnLF67Hn-103" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="LGf6Dj8UvCyObnLF67Hn-99">
+        <mxCell id="LGf6Dj8UvCyObnLF67Hn-103" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="LGf6Dj8UvCyObnLF67Hn-99" vertex="1">
           <mxGeometry y="80" width="325" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="LGf6Dj8UvCyObnLF67Hn-104" value="&lt;div&gt;a. if the payment date is &lt;u&gt;&lt;br&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;not&lt;/u&gt; ascertainable from the contract&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="LGf6Dj8UvCyObnLF67Hn-103">
+        <mxCell id="LGf6Dj8UvCyObnLF67Hn-104" value="&lt;div&gt;a. if the payment date is &lt;u&gt;&lt;br&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;not&lt;/u&gt; ascertainable from the contract&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="LGf6Dj8UvCyObnLF67Hn-103" vertex="1">
           <mxGeometry width="163" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="LGf6Dj8UvCyObnLF67Hn-105" value="Date of payment" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="LGf6Dj8UvCyObnLF67Hn-103">
+        <mxCell id="LGf6Dj8UvCyObnLF67Hn-105" value="Date of payment" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="LGf6Dj8UvCyObnLF67Hn-103" vertex="1">
           <mxGeometry x="163" width="162" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="LGf6Dj8UvCyObnLF67Hn-106" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="LGf6Dj8UvCyObnLF67Hn-99">
+        <mxCell id="LGf6Dj8UvCyObnLF67Hn-106" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="LGf6Dj8UvCyObnLF67Hn-99" vertex="1">
           <mxGeometry y="140" width="325" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="LGf6Dj8UvCyObnLF67Hn-107" value="a. if the payment date is based on completion of an event" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="LGf6Dj8UvCyObnLF67Hn-106">
+        <mxCell id="LGf6Dj8UvCyObnLF67Hn-107" value="a. if the payment date is based on completion of an event" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="LGf6Dj8UvCyObnLF67Hn-106" vertex="1">
           <mxGeometry width="163" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="LGf6Dj8UvCyObnLF67Hn-108" value="Date of completion of each event" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="LGf6Dj8UvCyObnLF67Hn-106">
+        <mxCell id="LGf6Dj8UvCyObnLF67Hn-108" value="Date of completion of each event" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="LGf6Dj8UvCyObnLF67Hn-106" vertex="1">
           <mxGeometry x="163" width="162" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="LGf6Dj8UvCyObnLF67Hn-109" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="LGf6Dj8UvCyObnLF67Hn-97" target="LGf6Dj8UvCyObnLF67Hn-99">
+        <mxCell id="LGf6Dj8UvCyObnLF67Hn-109" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="LGf6Dj8UvCyObnLF67Hn-97" target="LGf6Dj8UvCyObnLF67Hn-99" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1292" y="8540" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="LGf6Dj8UvCyObnLF67Hn-144" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LGf6Dj8UvCyObnLF67Hn-37" target="LGf6Dj8UvCyObnLF67Hn-140">
+        <mxCell id="LGf6Dj8UvCyObnLF67Hn-144" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="LGf6Dj8UvCyObnLF67Hn-37" target="LGf6Dj8UvCyObnLF67Hn-140" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="120" y="8880" />
@@ -354,64 +354,84 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="LGf6Dj8UvCyObnLF67Hn-145" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LGf6Dj8UvCyObnLF67Hn-140" target="LGf6Dj8UvCyObnLF67Hn-142">
+        <mxCell id="LGf6Dj8UvCyObnLF67Hn-145" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="LGf6Dj8UvCyObnLF67Hn-140" target="LGf6Dj8UvCyObnLF67Hn-142" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LGf6Dj8UvCyObnLF67Hn-140" value="&lt;div&gt;1&lt;/div&gt;&lt;div&gt;2 - &lt;br&gt;&lt;/div&gt;&lt;div&gt;3 - Identifiable vouchers - can be used against a particular G or S&amp;nbsp; &lt;br&gt;&lt;/div&gt;&lt;div&gt;4 - Identifiable vouchers - can be used against a variety of G or S&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="LGf6Dj8UvCyObnLF67Hn-140" value="&lt;div&gt;1&lt;/div&gt;&lt;div&gt;2 - &lt;br&gt;&lt;/div&gt;&lt;div&gt;3 - Identifiable vouchers - can be used against a particular G or S&amp;nbsp; &lt;br&gt;&lt;/div&gt;&lt;div&gt;4 - Identifiable vouchers - can be used against a variety of G or S&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="200" y="8920" width="400" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="LGf6Dj8UvCyObnLF67Hn-142" value="&lt;div&gt;Interest is exempt from GST. However, Interest, penalty, late fee on &lt;br&gt;&lt;/div&gt;&lt;div&gt;delayed consideration for a taxable supply is liable to GST.&lt;/div&gt;&lt;div&gt;The time of supply will be the date on which such charges are received &lt;br&gt;&lt;/div&gt;&lt;div&gt;by the supplier&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="LGf6Dj8UvCyObnLF67Hn-142" value="&lt;div&gt;Interest is exempt from GST. However, Interest, penalty, late fee on &lt;br&gt;&lt;/div&gt;&lt;div&gt;delayed consideration for a taxable supply is liable to GST.&lt;/div&gt;&lt;div&gt;The time of supply will be the date on which such charges are received &lt;br&gt;&lt;/div&gt;&lt;div&gt;by the supplier&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="200" y="9020" width="400" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="LGf6Dj8UvCyObnLF67Hn-151" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="LGf6Dj8UvCyObnLF67Hn-148" target="LGf6Dj8UvCyObnLF67Hn-150">
+        <mxCell id="LGf6Dj8UvCyObnLF67Hn-151" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="LGf6Dj8UvCyObnLF67Hn-148" target="LGf6Dj8UvCyObnLF67Hn-150" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LGf6Dj8UvCyObnLF67Hn-148" value="Value of supply" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="LGf6Dj8UvCyObnLF67Hn-148" value="Value of supply" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="340" y="9160" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="LGf6Dj8UvCyObnLF67Hn-153" value="NO" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LGf6Dj8UvCyObnLF67Hn-150" target="LGf6Dj8UvCyObnLF67Hn-152">
+        <mxCell id="LGf6Dj8UvCyObnLF67Hn-153" value="NO" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="LGf6Dj8UvCyObnLF67Hn-150" target="LGf6Dj8UvCyObnLF67Hn-152" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LGf6Dj8UvCyObnLF67Hn-150" value="&lt;div&gt;The taxable value of the price shall always be the Transaction Value &lt;br&gt;&lt;/div&gt;&lt;div&gt;(i.e., the price agreed for the supply) provided the following 2 conditions should be satisfied:&lt;/div&gt;a. Both the supplier and recipient are not related; and&lt;br&gt;b. Price is the sole consideration." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="ZWSLOfvf-un0gSXgTcn5-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LGf6Dj8UvCyObnLF67Hn-150" target="LGf6Dj8UvCyObnLF67Hn-155">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZWSLOfvf-un0gSXgTcn5-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LGf6Dj8UvCyObnLF67Hn-150" target="LGf6Dj8UvCyObnLF67Hn-154">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZWSLOfvf-un0gSXgTcn5-11" value="YES" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ZWSLOfvf-un0gSXgTcn5-10">
+          <mxGeometry x="-0.725" y="3" relative="1" as="geometry">
+            <mxPoint x="-8" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LGf6Dj8UvCyObnLF67Hn-150" value="&lt;div&gt;The taxable value of the price shall always be the Transaction Value &lt;br&gt;&lt;/div&gt;&lt;div&gt;(i.e., the price agreed for the supply) provided the following 2 conditions should be satisfied:&lt;/div&gt;a. Both the supplier and recipient are not related; and&lt;br&gt;b. Price is the sole consideration." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="200" y="9220" width="400" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="LGf6Dj8UvCyObnLF67Hn-152" value="Then the value will be as per valuation rules in cgst rules(CA Final)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="LGf6Dj8UvCyObnLF67Hn-152" value="Then the value will be as per valuation rules in cgst rules(CA Final)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="680" y="9237.5" width="160" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="LGf6Dj8UvCyObnLF67Hn-159" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LGf6Dj8UvCyObnLF67Hn-154" target="LGf6Dj8UvCyObnLF67Hn-158">
+        <mxCell id="LGf6Dj8UvCyObnLF67Hn-159" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="LGf6Dj8UvCyObnLF67Hn-154" target="LGf6Dj8UvCyObnLF67Hn-158" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LGf6Dj8UvCyObnLF67Hn-154" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="600" y="9360" width="120" height="40" as="geometry" />
+        <mxCell id="LGf6Dj8UvCyObnLF67Hn-154" value="Exclusions" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="530" y="9360" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="LGf6Dj8UvCyObnLF67Hn-157" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LGf6Dj8UvCyObnLF67Hn-155" target="LGf6Dj8UvCyObnLF67Hn-156">
+        <mxCell id="LGf6Dj8UvCyObnLF67Hn-157" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="LGf6Dj8UvCyObnLF67Hn-155" target="LGf6Dj8UvCyObnLF67Hn-156" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LGf6Dj8UvCyObnLF67Hn-155" value="Inclusions" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="80" y="9360" width="120" height="40" as="geometry" />
+        <mxCell id="LGf6Dj8UvCyObnLF67Hn-155" value="Inclusions" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="150" y="9360" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="LGf6Dj8UvCyObnLF67Hn-162" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LGf6Dj8UvCyObnLF67Hn-156" target="LGf6Dj8UvCyObnLF67Hn-160">
+        <mxCell id="LGf6Dj8UvCyObnLF67Hn-162" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="LGf6Dj8UvCyObnLF67Hn-156" target="LGf6Dj8UvCyObnLF67Hn-160" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LGf6Dj8UvCyObnLF67Hn-156" value="(a) any taxes, duties, cess, fees and charges levied under any law for the time being in force other than GST and compensation cess(Compensation to States)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="-40" y="9440" width="360" height="60" as="geometry" />
+        <mxCell id="LGf6Dj8UvCyObnLF67Hn-156" value="(a) any taxes, duties, cess, fees and charges levied under any law for the time being in force other than GST and compensation cess(Compensation to States)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="30" y="9440" width="360" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="LGf6Dj8UvCyObnLF67Hn-158" value="CBIC has clarified that Tax Collected at source under Income tax act is not liable to GST" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="480" y="9420" width="360" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="LGf6Dj8UvCyObnLF67Hn-163" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LGf6Dj8UvCyObnLF67Hn-160" target="LGf6Dj8UvCyObnLF67Hn-161">
+        <mxCell id="ZWSLOfvf-un0gSXgTcn5-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LGf6Dj8UvCyObnLF67Hn-158" target="ZWSLOfvf-un0gSXgTcn5-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LGf6Dj8UvCyObnLF67Hn-160" value="&lt;div&gt;(d)interest or late fee or penalty for delayed payment or any consideration for any supply&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="-40" y="9520" width="360" height="40" as="geometry" />
+        <mxCell id="LGf6Dj8UvCyObnLF67Hn-158" value="Tax Collected at source under Income tax act is not liable to GST" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="410" y="9440" width="360" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="LGf6Dj8UvCyObnLF67Hn-161" value="(e) subsidies directly linked to the price excluding subsidies provided by the Central Government and State&lt;br&gt;Governments." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="-40" y="9580" width="360" height="50" as="geometry" />
+        <mxCell id="LGf6Dj8UvCyObnLF67Hn-163" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="LGf6Dj8UvCyObnLF67Hn-160" target="LGf6Dj8UvCyObnLF67Hn-161" edge="1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LGf6Dj8UvCyObnLF67Hn-164" value="(C) incidental expenses, including commission, packing. inspection/certification charges, installation/&lt;br&gt;testing charges, loading weighment and designing charges charged by the supplier to the recipient of a supply&lt;br&gt;and any amount charged for anything done by the supplier in respect of the supply of goods or services or both&lt;br&gt;at the time of, or before delivery of goods or supply of services. In case of a composite supply, outward freight,&lt;br&gt;transit insurance will also form part of value of supply;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="-40" y="9650" width="360" height="150" as="geometry" />
+        <mxCell id="LGf6Dj8UvCyObnLF67Hn-160" value="&lt;div&gt;(b)interest or late fee or penalty for delayed payment or any consideration for any supply&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="30" y="9520" width="360" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="LGf6Dj8UvCyObnLF67Hn-165" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="ZWSLOfvf-un0gSXgTcn5-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LGf6Dj8UvCyObnLF67Hn-161" target="LGf6Dj8UvCyObnLF67Hn-164">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LGf6Dj8UvCyObnLF67Hn-161" value="(c) subsidies(other than Govt) directly linked to the supply" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="30" y="9580" width="360" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ZWSLOfvf-un0gSXgTcn5-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LGf6Dj8UvCyObnLF67Hn-164" target="ZWSLOfvf-un0gSXgTcn5-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LGf6Dj8UvCyObnLF67Hn-164" value="(d) incidental expenses, including commission, packing etc. charged by the supplier to the recipient for supply&lt;br&gt;at the time of delivery of goods or supply of services." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="30" y="9650" width="360" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LGf6Dj8UvCyObnLF67Hn-165" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="434" y="8140" width="669" height="690" as="geometry" />
         </mxCell>
         <mxCell id="U18I0dOHCD-vcMm5kfsf-80" value="Time of supply for services - Sec. 13(2)" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;fillColor=#FFFFFF;" parent="LGf6Dj8UvCyObnLF67Hn-165" vertex="1">
@@ -453,73 +473,73 @@
         <mxCell id="U18I0dOHCD-vcMm5kfsf-92" value="&lt;div&gt;For RP = Due date for filing GST return&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp;For URP = date of payment of GST itself&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=#FFFFFF;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="U18I0dOHCD-vcMm5kfsf-90" vertex="1">
           <mxGeometry x="218" width="217" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="LGf6Dj8UvCyObnLF67Hn-94" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="U18I0dOHCD-vcMm5kfsf-80">
+        <mxCell id="LGf6Dj8UvCyObnLF67Hn-94" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="U18I0dOHCD-vcMm5kfsf-80" vertex="1">
           <mxGeometry y="330" width="435" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="LGf6Dj8UvCyObnLF67Hn-95" value="&lt;div&gt;D) Continues supply of Servic`e^((2))`&lt;/div&gt;&lt;div&gt;(e.g. building construction service)&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=#FFFFFF;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="LGf6Dj8UvCyObnLF67Hn-94">
+        <mxCell id="LGf6Dj8UvCyObnLF67Hn-95" value="&lt;div&gt;D) Continues supply of Servic`e^((2))`&lt;/div&gt;&lt;div&gt;(e.g. building construction service)&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=#FFFFFF;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="LGf6Dj8UvCyObnLF67Hn-94" vertex="1">
           <mxGeometry width="218" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="LGf6Dj8UvCyObnLF67Hn-96" value="&lt;div&gt;(1) Date of invoice&lt;/div&gt;&lt;div&gt;or&lt;/div&gt;&lt;div&gt;(2) Date of payment&lt;/div&gt;&lt;div&gt;or&lt;/div&gt;&lt;div&gt;(3) Due date to issue invoice**&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;[Which ever is earlier]&lt;/b&gt;&lt;/u&gt;&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=#FFFFFF;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="LGf6Dj8UvCyObnLF67Hn-94">
+        <mxCell id="LGf6Dj8UvCyObnLF67Hn-96" value="&lt;div&gt;(1) Date of invoice&lt;/div&gt;&lt;div&gt;or&lt;/div&gt;&lt;div&gt;(2) Date of payment&lt;/div&gt;&lt;div&gt;or&lt;/div&gt;&lt;div&gt;(3) Due date to issue invoice**&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;[Which ever is earlier]&lt;/b&gt;&lt;/u&gt;&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=#FFFFFF;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="LGf6Dj8UvCyObnLF67Hn-94" vertex="1">
           <mxGeometry x="218" width="217" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="LGf6Dj8UvCyObnLF67Hn-127" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="U18I0dOHCD-vcMm5kfsf-80">
+        <mxCell id="LGf6Dj8UvCyObnLF67Hn-127" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="U18I0dOHCD-vcMm5kfsf-80" vertex="1">
           <mxGeometry y="440" width="435" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="LGf6Dj8UvCyObnLF67Hn-128" value="Identifiable vouche`r^((3))`" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=#FFFFFF;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="LGf6Dj8UvCyObnLF67Hn-127">
+        <mxCell id="LGf6Dj8UvCyObnLF67Hn-128" value="Identifiable vouche`r^((3))`" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=#FFFFFF;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="LGf6Dj8UvCyObnLF67Hn-127" vertex="1">
           <mxGeometry width="218" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="LGf6Dj8UvCyObnLF67Hn-129" value="Date of issue of voucher" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=#FFFFFF;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="LGf6Dj8UvCyObnLF67Hn-127">
+        <mxCell id="LGf6Dj8UvCyObnLF67Hn-129" value="Date of issue of voucher" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=#FFFFFF;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="LGf6Dj8UvCyObnLF67Hn-127" vertex="1">
           <mxGeometry x="218" width="217" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="LGf6Dj8UvCyObnLF67Hn-130" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="U18I0dOHCD-vcMm5kfsf-80">
+        <mxCell id="LGf6Dj8UvCyObnLF67Hn-130" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="U18I0dOHCD-vcMm5kfsf-80" vertex="1">
           <mxGeometry y="480" width="435" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="LGf6Dj8UvCyObnLF67Hn-131" value="Non identifiable vouche`r^((4))`" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=#FFFFFF;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="LGf6Dj8UvCyObnLF67Hn-130">
+        <mxCell id="LGf6Dj8UvCyObnLF67Hn-131" value="Non identifiable vouche`r^((4))`" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=#FFFFFF;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="LGf6Dj8UvCyObnLF67Hn-130" vertex="1">
           <mxGeometry width="218" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="LGf6Dj8UvCyObnLF67Hn-132" value="Date of redemption of voucher" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=#FFFFFF;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="LGf6Dj8UvCyObnLF67Hn-130">
+        <mxCell id="LGf6Dj8UvCyObnLF67Hn-132" value="Date of redemption of voucher" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=#FFFFFF;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="LGf6Dj8UvCyObnLF67Hn-130" vertex="1">
           <mxGeometry x="218" width="217" height="40" as="geometry" />
         </mxCell>
         <mxCell id="U18I0dOHCD-vcMm5kfsf-93" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Note 1:&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;date of receipt of payment = &lt;br&gt;&lt;/div&gt;&lt;div&gt;date of entry in the books of &lt;u&gt;&lt;b&gt;supplier&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;or&lt;/div&gt;&lt;div&gt;date of &lt;u&gt;&lt;b&gt;credit&lt;/b&gt;&lt;/u&gt; in bank of &lt;u&gt;&lt;b&gt;supplier&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;[Which ever is earlier]&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;Note 2:&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;Where the supplier of taxable goods receives an amount &amp;gt;1000 of the amount indicated in the tax invoice, the time of supply to the extent of such excess shall be the next invoice date, at the option of the supplier.&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="LGf6Dj8UvCyObnLF67Hn-165" vertex="1">
           <mxGeometry y="520" width="435.02" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="LGf6Dj8UvCyObnLF67Hn-13" value="Sec. 13(3)" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="LGf6Dj8UvCyObnLF67Hn-165">
+        <mxCell id="LGf6Dj8UvCyObnLF67Hn-13" value="Sec. 13(3)" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;" parent="LGf6Dj8UvCyObnLF67Hn-165" vertex="1">
           <mxGeometry x="435" width="234" height="519.9285714285706" as="geometry" />
         </mxCell>
-        <mxCell id="LGf6Dj8UvCyObnLF67Hn-14" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="LGf6Dj8UvCyObnLF67Hn-13">
+        <mxCell id="LGf6Dj8UvCyObnLF67Hn-14" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="LGf6Dj8UvCyObnLF67Hn-13" vertex="1">
           <mxGeometry y="30" width="234" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="LGf6Dj8UvCyObnLF67Hn-15" value="&lt;div&gt;Time of supply&lt;/div&gt;&lt;u&gt;&lt;b&gt;Reverse charge&lt;/b&gt;&lt;/u&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=#FFFFFF;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="LGf6Dj8UvCyObnLF67Hn-14">
+        <mxCell id="LGf6Dj8UvCyObnLF67Hn-15" value="&lt;div&gt;Time of supply&lt;/div&gt;&lt;u&gt;&lt;b&gt;Reverse charge&lt;/b&gt;&lt;/u&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=#FFFFFF;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="LGf6Dj8UvCyObnLF67Hn-14" vertex="1">
           <mxGeometry width="234" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="LGf6Dj8UvCyObnLF67Hn-16" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="LGf6Dj8UvCyObnLF67Hn-13">
+        <mxCell id="LGf6Dj8UvCyObnLF67Hn-16" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="LGf6Dj8UvCyObnLF67Hn-13" vertex="1">
           <mxGeometry y="70" width="234" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="LGf6Dj8UvCyObnLF67Hn-17" value="&lt;div&gt;(1) 61st day from Date of invoice&lt;/div&gt;&lt;div&gt;or&lt;/div&gt;&lt;div&gt;(2) Date of payment&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;[Which ever is earlier]&lt;/b&gt;&lt;/u&gt;&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=#FFFFFF;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="LGf6Dj8UvCyObnLF67Hn-16">
+        <mxCell id="LGf6Dj8UvCyObnLF67Hn-17" value="&lt;div&gt;(1) 61st day from Date of invoice&lt;/div&gt;&lt;div&gt;or&lt;/div&gt;&lt;div&gt;(2) Date of payment&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;[Which ever is earlier]&lt;/b&gt;&lt;/u&gt;&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=#FFFFFF;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="LGf6Dj8UvCyObnLF67Hn-16" vertex="1">
           <mxGeometry width="234" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="LGf6Dj8UvCyObnLF67Hn-24" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="LGf6Dj8UvCyObnLF67Hn-13">
+        <mxCell id="LGf6Dj8UvCyObnLF67Hn-24" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="LGf6Dj8UvCyObnLF67Hn-13" vertex="1">
           <mxGeometry y="250" width="234" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="LGf6Dj8UvCyObnLF67Hn-25" value="&lt;div&gt;(1) Date of entry in books of &lt;u&gt;&lt;b&gt;recipient&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;or&lt;/div&gt;&lt;div&gt;(2) Date of payment&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;[Which ever is earlier]&lt;/b&gt;&lt;/u&gt;&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=#FFFFFF;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="LGf6Dj8UvCyObnLF67Hn-24">
+        <mxCell id="LGf6Dj8UvCyObnLF67Hn-25" value="&lt;div&gt;(1) Date of entry in books of &lt;u&gt;&lt;b&gt;recipient&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;or&lt;/div&gt;&lt;div&gt;(2) Date of payment&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;[Which ever is earlier]&lt;/b&gt;&lt;/u&gt;&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=#FFFFFF;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="LGf6Dj8UvCyObnLF67Hn-24" vertex="1">
           <mxGeometry width="234" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="LGf6Dj8UvCyObnLF67Hn-97" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="LGf6Dj8UvCyObnLF67Hn-13">
+        <mxCell id="LGf6Dj8UvCyObnLF67Hn-97" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="LGf6Dj8UvCyObnLF67Hn-13" vertex="1">
           <mxGeometry y="330" width="234" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="LGf6Dj8UvCyObnLF67Hn-98" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=#FFFFFF;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="LGf6Dj8UvCyObnLF67Hn-97">
+        <mxCell id="LGf6Dj8UvCyObnLF67Hn-98" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=#FFFFFF;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="LGf6Dj8UvCyObnLF67Hn-97" vertex="1">
           <mxGeometry width="234" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="LGf6Dj8UvCyObnLF67Hn-34" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Note 1:&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;date of receipt of payment = &lt;br&gt;&lt;/div&gt;&lt;div&gt;date of entry in the books of &lt;u&gt;&lt;b&gt;Recipient&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;or&lt;/div&gt;&lt;div&gt;date of &lt;u&gt;&lt;b&gt;Debit&lt;/b&gt;&lt;/u&gt; in bank of &lt;u&gt;&lt;b&gt;Recipient&lt;br&gt;&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;[Which ever is earlier]&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="LGf6Dj8UvCyObnLF67Hn-165">
+        <mxCell id="LGf6Dj8UvCyObnLF67Hn-34" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Note 1:&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;date of receipt of payment = &lt;br&gt;&lt;/div&gt;&lt;div&gt;date of entry in the books of &lt;u&gt;&lt;b&gt;Recipient&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;or&lt;/div&gt;&lt;div&gt;date of &lt;u&gt;&lt;b&gt;Debit&lt;/b&gt;&lt;/u&gt; in bank of &lt;u&gt;&lt;b&gt;Recipient&lt;br&gt;&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;[Which ever is earlier]&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="LGf6Dj8UvCyObnLF67Hn-165" vertex="1">
           <mxGeometry x="435.02" y="520" width="233.98" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="LGf6Dj8UvCyObnLF67Hn-166" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="LGf6Dj8UvCyObnLF67Hn-166" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="-180" y="8142" width="584" height="580" as="geometry" />
         </mxCell>
-        <mxCell id="LGf6Dj8UvCyObnLF67Hn-35" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Note 1:&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;date of receipt of payment = &lt;br&gt;&lt;/div&gt;&lt;div&gt;date of entry in the books of &lt;u&gt;&lt;b&gt;Recipient&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;or&lt;/div&gt;&lt;div&gt;date of &lt;u&gt;&lt;b&gt;Debit&lt;/b&gt;&lt;/u&gt; in bank of &lt;u&gt;&lt;b&gt;Recipient&lt;br&gt;&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;[Which ever is earlier]&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="LGf6Dj8UvCyObnLF67Hn-166">
+        <mxCell id="LGf6Dj8UvCyObnLF67Hn-35" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Note 1:&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;date of receipt of payment = &lt;br&gt;&lt;/div&gt;&lt;div&gt;date of entry in the books of &lt;u&gt;&lt;b&gt;Recipient&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;or&lt;/div&gt;&lt;div&gt;date of &lt;u&gt;&lt;b&gt;Debit&lt;/b&gt;&lt;/u&gt; in bank of &lt;u&gt;&lt;b&gt;Recipient&lt;br&gt;&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;[Which ever is earlier]&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="LGf6Dj8UvCyObnLF67Hn-166" vertex="1">
           <mxGeometry x="350.02" y="470" width="233.98" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="LGf6Dj8UvCyObnLF67Hn-37" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Note 1:&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;date of receipt of payment = &lt;br&gt;&lt;/div&gt;&lt;div&gt;date of entry in the books of &lt;u&gt;&lt;b&gt;supplier&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;or&lt;/div&gt;&lt;div&gt;date of &lt;u&gt;&lt;b&gt;credit&lt;/b&gt;&lt;/u&gt; in bank of &lt;u&gt;&lt;b&gt;supplier&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;[Which ever is earlier]&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="LGf6Dj8UvCyObnLF67Hn-166">
+        <mxCell id="LGf6Dj8UvCyObnLF67Hn-37" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Note 1:&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;date of receipt of payment = &lt;br&gt;&lt;/div&gt;&lt;div&gt;date of entry in the books of &lt;u&gt;&lt;b&gt;supplier&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;or&lt;/div&gt;&lt;div&gt;date of &lt;u&gt;&lt;b&gt;credit&lt;/b&gt;&lt;/u&gt; in bank of &lt;u&gt;&lt;b&gt;supplier&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;[Which ever is earlier]&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="LGf6Dj8UvCyObnLF67Hn-166" vertex="1">
           <mxGeometry y="470" width="350.02" height="110" as="geometry" />
         </mxCell>
         <mxCell id="U18I0dOHCD-vcMm5kfsf-98" value="Time of supply for goods - Sec. 12(2)" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;" parent="LGf6Dj8UvCyObnLF67Hn-166" vertex="1">
@@ -561,53 +581,302 @@
         <mxCell id="U18I0dOHCD-vcMm5kfsf-110" value="&lt;div&gt;1. Date of Acceptance / 6 months from date of removal&lt;br&gt;&lt;/div&gt;&lt;div&gt;or&lt;/div&gt;&lt;div&gt;2. Date of Invoice&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;[Which ever is earlier]&lt;/b&gt;&lt;/u&gt;&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=#FFFFFF;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="U18I0dOHCD-vcMm5kfsf-108" vertex="1">
           <mxGeometry x="175" width="175" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="LGf6Dj8UvCyObnLF67Hn-87" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="U18I0dOHCD-vcMm5kfsf-98">
+        <mxCell id="LGf6Dj8UvCyObnLF67Hn-87" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="U18I0dOHCD-vcMm5kfsf-98" vertex="1">
           <mxGeometry y="310" width="350" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="LGf6Dj8UvCyObnLF67Hn-88" value="&lt;div&gt;Continues supply of good`s^((1))`&lt;/div&gt;&lt;div&gt;(e.g. Gas pipe)&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=#FFFFFF;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="LGf6Dj8UvCyObnLF67Hn-87">
+        <mxCell id="LGf6Dj8UvCyObnLF67Hn-88" value="&lt;div&gt;Continues supply of good`s^((1))`&lt;/div&gt;&lt;div&gt;(e.g. Gas pipe)&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=#FFFFFF;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="LGf6Dj8UvCyObnLF67Hn-87" vertex="1">
           <mxGeometry width="175" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="LGf6Dj8UvCyObnLF67Hn-89" value="&lt;div&gt;1. Date of invoice&lt;/div&gt;&lt;div&gt;or &lt;br&gt;&lt;/div&gt;&lt;div&gt;2. date of payment&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;[Which ever is earlier]&lt;/b&gt;&lt;/u&gt;&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=#FFFFFF;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="LGf6Dj8UvCyObnLF67Hn-87">
+        <mxCell id="LGf6Dj8UvCyObnLF67Hn-89" value="&lt;div&gt;1. Date of invoice&lt;/div&gt;&lt;div&gt;or &lt;br&gt;&lt;/div&gt;&lt;div&gt;2. date of payment&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;[Which ever is earlier]&lt;/b&gt;&lt;/u&gt;&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=#FFFFFF;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="LGf6Dj8UvCyObnLF67Hn-87" vertex="1">
           <mxGeometry x="175" width="175" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="LGf6Dj8UvCyObnLF67Hn-134" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="U18I0dOHCD-vcMm5kfsf-98">
+        <mxCell id="LGf6Dj8UvCyObnLF67Hn-134" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="U18I0dOHCD-vcMm5kfsf-98" vertex="1">
           <mxGeometry y="390" width="350" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="LGf6Dj8UvCyObnLF67Hn-135" value="Identifiable vouche`r^((3))`" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=#FFFFFF;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="LGf6Dj8UvCyObnLF67Hn-134">
+        <mxCell id="LGf6Dj8UvCyObnLF67Hn-135" value="Identifiable vouche`r^((3))`" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=#FFFFFF;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="LGf6Dj8UvCyObnLF67Hn-134" vertex="1">
           <mxGeometry width="175" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="LGf6Dj8UvCyObnLF67Hn-136" value="Date of issue of voucher" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=#FFFFFF;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="LGf6Dj8UvCyObnLF67Hn-134">
+        <mxCell id="LGf6Dj8UvCyObnLF67Hn-136" value="Date of issue of voucher" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=#FFFFFF;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="LGf6Dj8UvCyObnLF67Hn-134" vertex="1">
           <mxGeometry x="175" width="175" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="LGf6Dj8UvCyObnLF67Hn-137" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="U18I0dOHCD-vcMm5kfsf-98">
+        <mxCell id="LGf6Dj8UvCyObnLF67Hn-137" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="U18I0dOHCD-vcMm5kfsf-98" vertex="1">
           <mxGeometry y="430" width="350" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="LGf6Dj8UvCyObnLF67Hn-138" value="Non identifiable vouche`r^((4))`" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=#FFFFFF;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="LGf6Dj8UvCyObnLF67Hn-137">
+        <mxCell id="LGf6Dj8UvCyObnLF67Hn-138" value="Non identifiable vouche`r^((4))`" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=#FFFFFF;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="LGf6Dj8UvCyObnLF67Hn-137" vertex="1">
           <mxGeometry width="175" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="LGf6Dj8UvCyObnLF67Hn-139" value="Date of redemption of voucher" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=#FFFFFF;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="LGf6Dj8UvCyObnLF67Hn-137">
+        <mxCell id="LGf6Dj8UvCyObnLF67Hn-139" value="Date of redemption of voucher" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=#FFFFFF;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="LGf6Dj8UvCyObnLF67Hn-137" vertex="1">
           <mxGeometry x="175" width="175" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="LGf6Dj8UvCyObnLF67Hn-26" value="Sec. 12(3)" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="LGf6Dj8UvCyObnLF67Hn-166">
+        <mxCell id="LGf6Dj8UvCyObnLF67Hn-26" value="Sec. 12(3)" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;" parent="LGf6Dj8UvCyObnLF67Hn-166" vertex="1">
           <mxGeometry x="350" width="234" height="469.4047619047633" as="geometry" />
         </mxCell>
-        <mxCell id="LGf6Dj8UvCyObnLF67Hn-27" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="LGf6Dj8UvCyObnLF67Hn-26">
+        <mxCell id="LGf6Dj8UvCyObnLF67Hn-27" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="LGf6Dj8UvCyObnLF67Hn-26" vertex="1">
           <mxGeometry y="30" width="234" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="LGf6Dj8UvCyObnLF67Hn-28" value="&lt;div&gt;Time of supply&lt;/div&gt;&lt;u&gt;&lt;b&gt;Reverse charge&lt;/b&gt;&lt;/u&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=#FFFFFF;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="LGf6Dj8UvCyObnLF67Hn-27">
+        <mxCell id="LGf6Dj8UvCyObnLF67Hn-28" value="&lt;div&gt;Time of supply&lt;/div&gt;&lt;u&gt;&lt;b&gt;Reverse charge&lt;/b&gt;&lt;/u&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=#FFFFFF;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="LGf6Dj8UvCyObnLF67Hn-27" vertex="1">
           <mxGeometry width="234" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="LGf6Dj8UvCyObnLF67Hn-29" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="LGf6Dj8UvCyObnLF67Hn-26">
+        <mxCell id="LGf6Dj8UvCyObnLF67Hn-29" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="LGf6Dj8UvCyObnLF67Hn-26" vertex="1">
           <mxGeometry y="70" width="234" height="240" as="geometry" />
         </mxCell>
-        <mxCell id="LGf6Dj8UvCyObnLF67Hn-30" value="&lt;div&gt;(1) 31st day from date of invoice&lt;br&gt;&lt;/div&gt;&lt;div&gt;or&lt;/div&gt;&lt;div&gt;(2) Date of receipt of goods&lt;/div&gt;&lt;div&gt;or&lt;/div&gt;&lt;div&gt;(3) Date of payment&lt;span style=&quot;white-space: pre&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;[Which ever is earlier]&lt;/b&gt;&lt;/u&gt;&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=#FFFFFF;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="LGf6Dj8UvCyObnLF67Hn-29">
+        <mxCell id="LGf6Dj8UvCyObnLF67Hn-30" value="&lt;div&gt;(1) 31st day from date of invoice&lt;br&gt;&lt;/div&gt;&lt;div&gt;or&lt;/div&gt;&lt;div&gt;(2) Date of receipt of goods&lt;/div&gt;&lt;div&gt;or&lt;/div&gt;&lt;div&gt;(3) Date of payment&lt;span style=&quot;white-space: pre&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;[Which ever is earlier]&lt;/b&gt;&lt;/u&gt;&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=#FFFFFF;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="LGf6Dj8UvCyObnLF67Hn-29" vertex="1">
           <mxGeometry width="234" height="240" as="geometry" />
         </mxCell>
-        <mxCell id="LGf6Dj8UvCyObnLF67Hn-90" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="LGf6Dj8UvCyObnLF67Hn-26">
+        <mxCell id="LGf6Dj8UvCyObnLF67Hn-90" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="LGf6Dj8UvCyObnLF67Hn-26" vertex="1">
           <mxGeometry y="310" width="234" height="159" as="geometry" />
         </mxCell>
-        <mxCell id="LGf6Dj8UvCyObnLF67Hn-91" value="#NA" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=#FFFFFF;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="LGf6Dj8UvCyObnLF67Hn-90">
+        <mxCell id="LGf6Dj8UvCyObnLF67Hn-91" value="#NA" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=#FFFFFF;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="LGf6Dj8UvCyObnLF67Hn-90" vertex="1">
           <mxGeometry width="234" height="159" as="geometry" />
+        </mxCell>
+        <mxCell id="ZWSLOfvf-un0gSXgTcn5-1" value="(e) Any 3rd party payment made the seller on behalf of the supply" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="30" y="9730" width="360" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZWSLOfvf-un0gSXgTcn5-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZWSLOfvf-un0gSXgTcn5-4" target="ZWSLOfvf-un0gSXgTcn5-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZWSLOfvf-un0gSXgTcn5-4" value="Govt subsidy" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="410" y="9500" width="360" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZWSLOfvf-un0gSXgTcn5-6" value="&lt;div&gt;Pre-supply* discount&lt;/div&gt;&lt;div&gt;(*discount given before or at the time of supply)&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="410" y="9560" width="360" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZWSLOfvf-un0gSXgTcn5-8" value="&lt;div&gt;Post-supply* discount&lt;/div&gt;&lt;div&gt;Known at the time of supply - &lt;span style=&quot;white-space: pre&quot;&gt;it is excluded from &lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre&quot;&gt;value at later date&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre&quot;&gt;[the supplier will refund that GST portion back to recipient. and &lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre&quot;&gt;the supplier will get GST deduction for that]&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre&quot;&gt;Not known at the time of supply - no exclusion effect&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre&quot;&gt;[will not get any refund]&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(*discount given after the supply)&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="410" y="9620" width="360" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="ZWSLOfvf-un0gSXgTcn5-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZWSLOfvf-un0gSXgTcn5-12" target="ZWSLOfvf-un0gSXgTcn5-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZWSLOfvf-un0gSXgTcn5-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZWSLOfvf-un0gSXgTcn5-12" target="ZWSLOfvf-un0gSXgTcn5-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZWSLOfvf-un0gSXgTcn5-12" value="&lt;div&gt;Types of questions&lt;/div&gt;&lt;div&gt;and &lt;br&gt;&lt;/div&gt;&lt;div&gt;how to solve them&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="9840" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZWSLOfvf-un0gSXgTcn5-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZWSLOfvf-un0gSXgTcn5-13" target="ZWSLOfvf-un0gSXgTcn5-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZWSLOfvf-un0gSXgTcn5-13" value="Exclusive question" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="9940" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZWSLOfvf-un0gSXgTcn5-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZWSLOfvf-un0gSXgTcn5-14" target="ZWSLOfvf-un0gSXgTcn5-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZWSLOfvf-un0gSXgTcn5-14" value="Inclusive" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="9940" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZWSLOfvf-un0gSXgTcn5-15" value="where price of G/S and adjustments are given separaty" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="10000" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZWSLOfvf-un0gSXgTcn5-16" value="where price includes price of G/S and adjustments" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="10000" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZWSLOfvf-un0gSXgTcn5-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ZWSLOfvf-un0gSXgTcn5-15" target="ZWSLOfvf-un0gSXgTcn5-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZWSLOfvf-un0gSXgTcn5-20" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
+          <mxGeometry x="120" y="10060" width="200" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="ZWSLOfvf-un0gSXgTcn5-21" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="ZWSLOfvf-un0gSXgTcn5-20">
+          <mxGeometry width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZWSLOfvf-un0gSXgTcn5-22" value="Price of GS" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="ZWSLOfvf-un0gSXgTcn5-21">
+          <mxGeometry width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZWSLOfvf-un0gSXgTcn5-23" value="X" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="ZWSLOfvf-un0gSXgTcn5-21">
+          <mxGeometry x="160" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZWSLOfvf-un0gSXgTcn5-30" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="ZWSLOfvf-un0gSXgTcn5-20">
+          <mxGeometry y="40" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZWSLOfvf-un0gSXgTcn5-31" value="(+) Inclusive adjutments" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="ZWSLOfvf-un0gSXgTcn5-30">
+          <mxGeometry width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZWSLOfvf-un0gSXgTcn5-32" value="x" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="ZWSLOfvf-un0gSXgTcn5-30">
+          <mxGeometry x="160" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZWSLOfvf-un0gSXgTcn5-27" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="ZWSLOfvf-un0gSXgTcn5-20">
+          <mxGeometry y="80" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ZWSLOfvf-un0gSXgTcn5-28" value="&lt;div&gt;(-) pre-supply discount&lt;/div&gt;&lt;div&gt;(-) post supply dis known @ supply&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="ZWSLOfvf-un0gSXgTcn5-27">
+          <mxGeometry width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ZWSLOfvf-un0gSXgTcn5-29" value="&lt;div&gt;(x)&lt;/div&gt;&lt;div&gt;(x)&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="ZWSLOfvf-un0gSXgTcn5-27">
+          <mxGeometry x="160" width="40" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ZWSLOfvf-un0gSXgTcn5-24" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="ZWSLOfvf-un0gSXgTcn5-20">
+          <mxGeometry y="130" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZWSLOfvf-un0gSXgTcn5-25" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="ZWSLOfvf-un0gSXgTcn5-24">
+          <mxGeometry width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZWSLOfvf-un0gSXgTcn5-26" value="ZZ" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="ZWSLOfvf-un0gSXgTcn5-24">
+          <mxGeometry x="160" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZWSLOfvf-un0gSXgTcn5-33" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="ZWSLOfvf-un0gSXgTcn5-20">
+          <mxGeometry y="170" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZWSLOfvf-un0gSXgTcn5-34" value="(+) GST @ x% on ZZ" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="ZWSLOfvf-un0gSXgTcn5-33">
+          <mxGeometry width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZWSLOfvf-un0gSXgTcn5-35" value="x" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="ZWSLOfvf-un0gSXgTcn5-33">
+          <mxGeometry x="160" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZWSLOfvf-un0gSXgTcn5-36" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="ZWSLOfvf-un0gSXgTcn5-20">
+          <mxGeometry y="210" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZWSLOfvf-un0gSXgTcn5-37" value="Total (Inclusive price)" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="ZWSLOfvf-un0gSXgTcn5-36">
+          <mxGeometry width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZWSLOfvf-un0gSXgTcn5-38" value="XXX" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="ZWSLOfvf-un0gSXgTcn5-36">
+          <mxGeometry x="160" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZWSLOfvf-un0gSXgTcn5-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZWSLOfvf-un0gSXgTcn5-16" target="ZWSLOfvf-un0gSXgTcn5-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZWSLOfvf-un0gSXgTcn5-39" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
+          <mxGeometry x="360" y="10060" width="200" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="ZWSLOfvf-un0gSXgTcn5-40" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="ZWSLOfvf-un0gSXgTcn5-39">
+          <mxGeometry width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZWSLOfvf-un0gSXgTcn5-41" value="Inclusive price" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="ZWSLOfvf-un0gSXgTcn5-40">
+          <mxGeometry width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZWSLOfvf-un0gSXgTcn5-42" value="X" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="ZWSLOfvf-un0gSXgTcn5-40">
+          <mxGeometry x="160" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZWSLOfvf-un0gSXgTcn5-43" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="ZWSLOfvf-un0gSXgTcn5-39">
+          <mxGeometry y="40" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZWSLOfvf-un0gSXgTcn5-44" value="(-) Exclusive adjustments" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="ZWSLOfvf-un0gSXgTcn5-43">
+          <mxGeometry width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZWSLOfvf-un0gSXgTcn5-45" value="(x)" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="ZWSLOfvf-un0gSXgTcn5-43">
+          <mxGeometry x="160" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZWSLOfvf-un0gSXgTcn5-46" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="ZWSLOfvf-un0gSXgTcn5-39">
+          <mxGeometry y="80" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ZWSLOfvf-un0gSXgTcn5-47" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="ZWSLOfvf-un0gSXgTcn5-46">
+          <mxGeometry width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ZWSLOfvf-un0gSXgTcn5-48" value="ZZ" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="ZWSLOfvf-un0gSXgTcn5-46">
+          <mxGeometry x="160" width="40" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ZWSLOfvf-un0gSXgTcn5-49" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="ZWSLOfvf-un0gSXgTcn5-39">
+          <mxGeometry y="130" width="200" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ZWSLOfvf-un0gSXgTcn5-50" value="(-) GST@x%`[\text{ZZ} xx (x%)/(100+x%)]`" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="ZWSLOfvf-un0gSXgTcn5-49">
+          <mxGeometry width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ZWSLOfvf-un0gSXgTcn5-51" value="(x)" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="ZWSLOfvf-un0gSXgTcn5-49">
+          <mxGeometry x="160" width="40" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ZWSLOfvf-un0gSXgTcn5-52" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="ZWSLOfvf-un0gSXgTcn5-39">
+          <mxGeometry y="200" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZWSLOfvf-un0gSXgTcn5-53" value="(-) inclusive adjustments" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="ZWSLOfvf-un0gSXgTcn5-52">
+          <mxGeometry width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZWSLOfvf-un0gSXgTcn5-54" value="(x)" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="ZWSLOfvf-un0gSXgTcn5-52">
+          <mxGeometry x="160" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZWSLOfvf-un0gSXgTcn5-55" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="ZWSLOfvf-un0gSXgTcn5-39">
+          <mxGeometry y="240" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZWSLOfvf-un0gSXgTcn5-56" value="Price of GS" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="ZWSLOfvf-un0gSXgTcn5-55">
+          <mxGeometry width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZWSLOfvf-un0gSXgTcn5-57" value="XXX" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="ZWSLOfvf-un0gSXgTcn5-55">
+          <mxGeometry x="160" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZWSLOfvf-un0gSXgTcn5-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZWSLOfvf-un0gSXgTcn5-63" target="ZWSLOfvf-un0gSXgTcn5-64">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZWSLOfvf-un0gSXgTcn5-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZWSLOfvf-un0gSXgTcn5-63" target="ZWSLOfvf-un0gSXgTcn5-65">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZWSLOfvf-un0gSXgTcn5-63" value="&lt;div&gt;Note&lt;/div&gt;&lt;div&gt;Subsidies&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="10400" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZWSLOfvf-un0gSXgTcn5-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZWSLOfvf-un0gSXgTcn5-64" target="ZWSLOfvf-un0gSXgTcn5-69">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZWSLOfvf-un0gSXgTcn5-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZWSLOfvf-un0gSXgTcn5-64" target="ZWSLOfvf-un0gSXgTcn5-68">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZWSLOfvf-un0gSXgTcn5-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZWSLOfvf-un0gSXgTcn5-64" target="ZWSLOfvf-un0gSXgTcn5-70">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZWSLOfvf-un0gSXgTcn5-64" value="Govt subsidy" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="10460" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZWSLOfvf-un0gSXgTcn5-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZWSLOfvf-un0gSXgTcn5-65" target="ZWSLOfvf-un0gSXgTcn5-83">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZWSLOfvf-un0gSXgTcn5-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZWSLOfvf-un0gSXgTcn5-65" target="ZWSLOfvf-un0gSXgTcn5-81">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZWSLOfvf-un0gSXgTcn5-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZWSLOfvf-un0gSXgTcn5-65" target="ZWSLOfvf-un0gSXgTcn5-85">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZWSLOfvf-un0gSXgTcn5-65" value="Other subsidy" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="10460" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZWSLOfvf-un0gSXgTcn5-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZWSLOfvf-un0gSXgTcn5-68" target="ZWSLOfvf-un0gSXgTcn5-74">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZWSLOfvf-un0gSXgTcn5-68" value="&lt;div&gt;Already considered in&lt;/div&gt;&lt;div&gt;price&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-80" y="10540" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZWSLOfvf-un0gSXgTcn5-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZWSLOfvf-un0gSXgTcn5-69" target="ZWSLOfvf-un0gSXgTcn5-75">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZWSLOfvf-un0gSXgTcn5-69" value="Not considered" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="10540" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZWSLOfvf-un0gSXgTcn5-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZWSLOfvf-un0gSXgTcn5-70" target="ZWSLOfvf-un0gSXgTcn5-76">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZWSLOfvf-un0gSXgTcn5-70" value="nothing mentioned in question" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="10540" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZWSLOfvf-un0gSXgTcn5-74" value="Ignore" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-80" y="10600" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZWSLOfvf-un0gSXgTcn5-75" value="Deduct" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="10600" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZWSLOfvf-un0gSXgTcn5-76" value="Ignore" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="10600" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZWSLOfvf-un0gSXgTcn5-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="ZWSLOfvf-un0gSXgTcn5-81" target="ZWSLOfvf-un0gSXgTcn5-86" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZWSLOfvf-un0gSXgTcn5-81" value="&lt;div&gt;Already considered in&lt;/div&gt;&lt;div&gt;price&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="10540" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZWSLOfvf-un0gSXgTcn5-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="ZWSLOfvf-un0gSXgTcn5-83" target="ZWSLOfvf-un0gSXgTcn5-87" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZWSLOfvf-un0gSXgTcn5-83" value="Not considered" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="10540" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZWSLOfvf-un0gSXgTcn5-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" source="ZWSLOfvf-un0gSXgTcn5-85" target="ZWSLOfvf-un0gSXgTcn5-88" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZWSLOfvf-un0gSXgTcn5-85" value="nothing mentioned in question" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="10540" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZWSLOfvf-un0gSXgTcn5-86" value="Add back" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="10600" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZWSLOfvf-un0gSXgTcn5-87" value="Ignore" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="10600" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZWSLOfvf-un0gSXgTcn5-88" value="Add it" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="10600" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
