@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-08-30T21:17:07.456Z" agent="5.0 (X11)" etag="9muRSiAC8z_Yo0c1eqsT" version="15.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-30T21:51:51.077Z" agent="5.0 (X11)" etag="9ZBcNpvuP3nA2wWVbSIB" version="15.0.3" type="github">
   <diagram id="EEIt5sJKhKLN3RtG8xfO" name="Page-1">
-    <mxGraphModel dx="2278" dy="-362" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="1862" dy="-577" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,10 +8,10 @@
           <mxGeometry x="-220" y="7940" width="1710" height="1190" as="geometry" />
         </mxCell>
         <mxCell id="ZWSLOfvf-un0gSXgTcn5-94" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry y="9140" width="860" height="650" as="geometry" />
+          <mxGeometry y="9160" width="860" height="650" as="geometry" />
         </mxCell>
         <mxCell id="ZWSLOfvf-un0gSXgTcn5-93" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry y="9820" width="860" height="800" as="geometry" />
+          <mxGeometry y="9840" width="860" height="800" as="geometry" />
         </mxCell>
         <mxCell id="U18I0dOHCD-vcMm5kfsf-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="U18I0dOHCD-vcMm5kfsf-33" target="U18I0dOHCD-vcMm5kfsf-34" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -391,7 +391,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LGf6Dj8UvCyObnLF67Hn-148" value="Value of supply" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="340" y="9160" width="120" height="40" as="geometry" />
+          <mxGeometry x="340" y="9180" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="LGf6Dj8UvCyObnLF67Hn-153" value="NO" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="LGf6Dj8UvCyObnLF67Hn-150" target="LGf6Dj8UvCyObnLF67Hn-152" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -408,52 +408,52 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="LGf6Dj8UvCyObnLF67Hn-150" value="&lt;div&gt;The taxable value of the price shall always be the Transaction Value &lt;br&gt;&lt;/div&gt;&lt;div&gt;(i.e., the price agreed for the supply) provided the following 2 conditions should be satisfied:&lt;/div&gt;a. Both the supplier and recipient are not related; and&lt;br&gt;b. Price is the sole consideration." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="200" y="9220" width="400" height="90" as="geometry" />
+          <mxGeometry x="200" y="9240" width="400" height="90" as="geometry" />
         </mxCell>
         <mxCell id="LGf6Dj8UvCyObnLF67Hn-152" value="Then the value will be as per valuation rules in cgst rules(CA Final)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="680" y="9237.5" width="160" height="55" as="geometry" />
+          <mxGeometry x="680" y="9257.5" width="160" height="55" as="geometry" />
         </mxCell>
         <mxCell id="LGf6Dj8UvCyObnLF67Hn-159" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="LGf6Dj8UvCyObnLF67Hn-154" target="LGf6Dj8UvCyObnLF67Hn-158" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LGf6Dj8UvCyObnLF67Hn-154" value="Exclusions" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="530" y="9360" width="120" height="40" as="geometry" />
+          <mxGeometry x="530" y="9380" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="LGf6Dj8UvCyObnLF67Hn-157" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="LGf6Dj8UvCyObnLF67Hn-155" target="LGf6Dj8UvCyObnLF67Hn-156" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LGf6Dj8UvCyObnLF67Hn-155" value="Inclusions" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="150" y="9360" width="120" height="40" as="geometry" />
+          <mxGeometry x="150" y="9380" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="LGf6Dj8UvCyObnLF67Hn-162" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="LGf6Dj8UvCyObnLF67Hn-156" target="LGf6Dj8UvCyObnLF67Hn-160" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LGf6Dj8UvCyObnLF67Hn-156" value="(a) any taxes, duties, cess, fees and charges levied under any law for the time being in force other than GST and compensation cess(Compensation to States)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="30" y="9440" width="360" height="60" as="geometry" />
+          <mxGeometry x="30" y="9460" width="360" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZWSLOfvf-un0gSXgTcn5-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LGf6Dj8UvCyObnLF67Hn-158" target="ZWSLOfvf-un0gSXgTcn5-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LGf6Dj8UvCyObnLF67Hn-158" value="Tax Collected at source under Income tax act is not liable to GST" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="410" y="9440" width="360" height="40" as="geometry" />
+          <mxGeometry x="410" y="9460" width="360" height="40" as="geometry" />
         </mxCell>
         <mxCell id="LGf6Dj8UvCyObnLF67Hn-163" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="LGf6Dj8UvCyObnLF67Hn-160" target="LGf6Dj8UvCyObnLF67Hn-161" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LGf6Dj8UvCyObnLF67Hn-160" value="&lt;div&gt;(b)interest or late fee or penalty for delayed payment or any consideration for any supply&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="30" y="9520" width="360" height="40" as="geometry" />
+          <mxGeometry x="30" y="9540" width="360" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ZWSLOfvf-un0gSXgTcn5-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LGf6Dj8UvCyObnLF67Hn-161" target="LGf6Dj8UvCyObnLF67Hn-164">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LGf6Dj8UvCyObnLF67Hn-161" value="(c) subsidies(other than Govt) directly linked to the supply" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="30" y="9580" width="360" height="50" as="geometry" />
+          <mxGeometry x="30" y="9600" width="360" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ZWSLOfvf-un0gSXgTcn5-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LGf6Dj8UvCyObnLF67Hn-164" target="ZWSLOfvf-un0gSXgTcn5-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LGf6Dj8UvCyObnLF67Hn-164" value="(d) incidental expenses, including commission, packing etc. charged by the supplier to the recipient for supply&lt;br&gt;at the time of delivery of goods or supply of services." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="30" y="9650" width="360" height="60" as="geometry" />
+          <mxGeometry x="30" y="9670" width="360" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LGf6Dj8UvCyObnLF67Hn-165" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="434" y="8140" width="669" height="690" as="geometry" />
@@ -654,19 +654,19 @@
           <mxGeometry width="234" height="159" as="geometry" />
         </mxCell>
         <mxCell id="ZWSLOfvf-un0gSXgTcn5-1" value="(e) Any 3rd party payment made the seller on behalf of the supply" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="30" y="9730" width="360" height="40" as="geometry" />
+          <mxGeometry x="30" y="9750" width="360" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ZWSLOfvf-un0gSXgTcn5-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZWSLOfvf-un0gSXgTcn5-4" target="ZWSLOfvf-un0gSXgTcn5-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZWSLOfvf-un0gSXgTcn5-4" value="Govt subsidy" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="410" y="9500" width="360" height="40" as="geometry" />
+          <mxGeometry x="410" y="9520" width="360" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ZWSLOfvf-un0gSXgTcn5-6" value="&lt;div&gt;Pre-supply* discount&lt;/div&gt;&lt;div&gt;(*discount given before or at the time of supply)&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="410" y="9560" width="360" height="40" as="geometry" />
+          <mxGeometry x="410" y="9580" width="360" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ZWSLOfvf-un0gSXgTcn5-8" value="&lt;div&gt;Post-supply* discount&lt;/div&gt;&lt;div&gt;Known at the time of supply - &lt;span style=&quot;white-space: pre&quot;&gt;it is excluded from &lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre&quot;&gt;value at later date&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre&quot;&gt;[the supplier will refund that GST portion back to recipient. and &lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre&quot;&gt;the supplier will get GST deduction for that]&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre&quot;&gt;Not known at the time of supply - no exclusion effect&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre&quot;&gt;[will not get any refund]&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(*discount given after the supply)&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="410" y="9620" width="360" height="140" as="geometry" />
+          <mxGeometry x="410" y="9640" width="360" height="140" as="geometry" />
         </mxCell>
         <mxCell id="ZWSLOfvf-un0gSXgTcn5-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZWSLOfvf-un0gSXgTcn5-12" target="ZWSLOfvf-un0gSXgTcn5-13">
           <mxGeometry relative="1" as="geometry" />
@@ -675,31 +675,31 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZWSLOfvf-un0gSXgTcn5-12" value="&lt;div&gt;Types of questions&lt;/div&gt;&lt;div&gt;and &lt;br&gt;&lt;/div&gt;&lt;div&gt;how to solve them&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="9840" width="120" height="60" as="geometry" />
+          <mxGeometry x="360" y="9860" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZWSLOfvf-un0gSXgTcn5-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZWSLOfvf-un0gSXgTcn5-13" target="ZWSLOfvf-un0gSXgTcn5-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZWSLOfvf-un0gSXgTcn5-13" value="Exclusive question" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="9940" width="120" height="40" as="geometry" />
+          <mxGeometry x="240" y="9960" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ZWSLOfvf-un0gSXgTcn5-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZWSLOfvf-un0gSXgTcn5-14" target="ZWSLOfvf-un0gSXgTcn5-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZWSLOfvf-un0gSXgTcn5-14" value="Inclusive" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="9940" width="120" height="40" as="geometry" />
+          <mxGeometry x="480" y="9960" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ZWSLOfvf-un0gSXgTcn5-15" value="where price of G/S and adjustments are given separaty" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="10000" width="200" height="40" as="geometry" />
+          <mxGeometry x="200" y="10020" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ZWSLOfvf-un0gSXgTcn5-16" value="where price includes price of G/S and adjustments" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="10000" width="200" height="40" as="geometry" />
+          <mxGeometry x="440" y="10020" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ZWSLOfvf-un0gSXgTcn5-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ZWSLOfvf-un0gSXgTcn5-15" target="ZWSLOfvf-un0gSXgTcn5-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZWSLOfvf-un0gSXgTcn5-20" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
-          <mxGeometry x="200" y="10060" width="200" height="250" as="geometry" />
+          <mxGeometry x="200" y="10080" width="200" height="250" as="geometry" />
         </mxCell>
         <mxCell id="ZWSLOfvf-un0gSXgTcn5-21" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="ZWSLOfvf-un0gSXgTcn5-20">
           <mxGeometry width="200" height="40" as="geometry" />
@@ -759,7 +759,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZWSLOfvf-un0gSXgTcn5-39" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
-          <mxGeometry x="440" y="10060" width="200" height="280" as="geometry" />
+          <mxGeometry x="440" y="10080" width="200" height="280" as="geometry" />
         </mxCell>
         <mxCell id="ZWSLOfvf-un0gSXgTcn5-40" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="ZWSLOfvf-un0gSXgTcn5-39">
           <mxGeometry width="200" height="40" as="geometry" />
@@ -822,7 +822,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZWSLOfvf-un0gSXgTcn5-63" value="&lt;div&gt;Note&lt;/div&gt;&lt;div&gt;Subsidies&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="370" y="10360" width="120" height="40" as="geometry" />
+          <mxGeometry x="370" y="10380" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ZWSLOfvf-un0gSXgTcn5-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZWSLOfvf-un0gSXgTcn5-64" target="ZWSLOfvf-un0gSXgTcn5-69">
           <mxGeometry relative="1" as="geometry" />
@@ -834,79 +834,88 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZWSLOfvf-un0gSXgTcn5-64" value="Govt subsidy" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="10420" width="120" height="40" as="geometry" />
+          <mxGeometry x="160" y="10440" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ZWSLOfvf-un0gSXgTcn5-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="ZWSLOfvf-un0gSXgTcn5-83">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="640.0000000000005" y="10460" as="sourcePoint" />
+            <mxPoint x="640.0000000000005" y="10480" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ZWSLOfvf-un0gSXgTcn5-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="ZWSLOfvf-un0gSXgTcn5-81">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="580" y="10440" as="sourcePoint" />
+            <mxPoint x="580" y="10460" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ZWSLOfvf-un0gSXgTcn5-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="ZWSLOfvf-un0gSXgTcn5-85">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="700.0000000000005" y="10440" as="sourcePoint" />
+            <mxPoint x="700.0000000000005" y="10460" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ZWSLOfvf-un0gSXgTcn5-65" value="Other subsidy" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="590" y="10420" width="120" height="40" as="geometry" />
+          <mxGeometry x="590" y="10440" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ZWSLOfvf-un0gSXgTcn5-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZWSLOfvf-un0gSXgTcn5-68" target="ZWSLOfvf-un0gSXgTcn5-74">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZWSLOfvf-un0gSXgTcn5-68" value="&lt;div&gt;Already considered in&lt;/div&gt;&lt;div&gt;price&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="20" y="10500" width="120" height="40" as="geometry" />
+          <mxGeometry x="20" y="10520" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ZWSLOfvf-un0gSXgTcn5-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZWSLOfvf-un0gSXgTcn5-69" target="ZWSLOfvf-un0gSXgTcn5-75">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZWSLOfvf-un0gSXgTcn5-69" value="Not considered" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="10500" width="120" height="40" as="geometry" />
+          <mxGeometry x="160" y="10520" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ZWSLOfvf-un0gSXgTcn5-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZWSLOfvf-un0gSXgTcn5-70" target="ZWSLOfvf-un0gSXgTcn5-76">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZWSLOfvf-un0gSXgTcn5-70" value="nothing mentioned in question" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="300" y="10500" width="120" height="40" as="geometry" />
+          <mxGeometry x="300" y="10520" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ZWSLOfvf-un0gSXgTcn5-74" value="Ignore" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="20" y="10560" width="120" height="40" as="geometry" />
+          <mxGeometry x="20" y="10580" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ZWSLOfvf-un0gSXgTcn5-75" value="Deduct" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="10560" width="120" height="40" as="geometry" />
+          <mxGeometry x="160" y="10580" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ZWSLOfvf-un0gSXgTcn5-76" value="Ignore" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="300" y="10560" width="120" height="40" as="geometry" />
+          <mxGeometry x="300" y="10580" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ZWSLOfvf-un0gSXgTcn5-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="ZWSLOfvf-un0gSXgTcn5-81" target="ZWSLOfvf-un0gSXgTcn5-86" parent="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZWSLOfvf-un0gSXgTcn5-81" value="&lt;div&gt;Already considered in&lt;/div&gt;&lt;div&gt;price&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="10500" width="120" height="40" as="geometry" />
+          <mxGeometry x="440" y="10520" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ZWSLOfvf-un0gSXgTcn5-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="ZWSLOfvf-un0gSXgTcn5-83" target="ZWSLOfvf-un0gSXgTcn5-87" parent="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZWSLOfvf-un0gSXgTcn5-83" value="Not considered" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="580" y="10500" width="120" height="40" as="geometry" />
+          <mxGeometry x="580" y="10520" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ZWSLOfvf-un0gSXgTcn5-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" source="ZWSLOfvf-un0gSXgTcn5-85" target="ZWSLOfvf-un0gSXgTcn5-88" parent="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZWSLOfvf-un0gSXgTcn5-85" value="nothing mentioned in question" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="720" y="10500" width="120" height="40" as="geometry" />
+          <mxGeometry x="720" y="10520" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ZWSLOfvf-un0gSXgTcn5-86" value="Add back" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="10560" width="120" height="40" as="geometry" />
+          <mxGeometry x="440" y="10580" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ZWSLOfvf-un0gSXgTcn5-87" value="Ignore" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="580" y="10560" width="120" height="40" as="geometry" />
+          <mxGeometry x="580" y="10580" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ZWSLOfvf-un0gSXgTcn5-88" value="Add it" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="720" y="10560" width="120" height="40" as="geometry" />
+          <mxGeometry x="720" y="10580" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZWSLOfvf-un0gSXgTcn5-101" value="Composition scheme" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="10720" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZWSLOfvf-un0gSXgTcn5-102" value="Regular scheme" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="10800" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZWSLOfvf-un0gSXgTcn5-103" value="Composition scheme" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="10800" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
