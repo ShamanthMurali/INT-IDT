@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-08-31T00:01:31.632Z" agent="5.0 (X11)" etag="dz8k8fwWu520MAQjmrfn" version="15.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-31T01:51:56.907Z" agent="5.0 (X11)" etag="1gGUxY0kHmsz1zU8YO8H" version="15.0.3" type="github">
   <diagram id="EEIt5sJKhKLN3RtG8xfO" name="Page-1">
-    <mxGraphModel dx="1862" dy="-577" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="1428" dy="-842" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -908,14 +908,20 @@
         <mxCell id="ZWSLOfvf-un0gSXgTcn5-88" value="Add it" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="720" y="10580" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ZWSLOfvf-un0gSXgTcn5-101" value="Composition scheme" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="10720" width="120" height="40" as="geometry" />
+        <mxCell id="ZWSLOfvf-un0gSXgTcn5-195" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZWSLOfvf-un0gSXgTcn5-101" target="ZWSLOfvf-un0gSXgTcn5-102">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZWSLOfvf-un0gSXgTcn5-196" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZWSLOfvf-un0gSXgTcn5-101" target="ZWSLOfvf-un0gSXgTcn5-103">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZWSLOfvf-un0gSXgTcn5-101" value="&lt;div&gt;scheme for paying &lt;br&gt;&lt;/div&gt;&lt;div&gt;tax&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="10720" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ZWSLOfvf-un0gSXgTcn5-102" value="Regular scheme" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="10800" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ZWSLOfvf-un0gSXgTcn5-103" value="Composition scheme" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="10800" width="120" height="40" as="geometry" />
+          <mxGeometry x="1090" y="10800" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ZWSLOfvf-un0gSXgTcn5-123" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZWSLOfvf-un0gSXgTcn5-106" target="ZWSLOfvf-un0gSXgTcn5-113">
           <mxGeometry relative="1" as="geometry" />
@@ -947,38 +953,209 @@
         <mxCell id="ZWSLOfvf-un0gSXgTcn5-112" value="Collects Tax from customer" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="360" y="10910" width="120" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="ZWSLOfvf-un0gSXgTcn5-148" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZWSLOfvf-un0gSXgTcn5-113" target="ZWSLOfvf-un0gSXgTcn5-134">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="300" y="11080" />
+              <mxPoint x="100" y="11080" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZWSLOfvf-un0gSXgTcn5-149" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZWSLOfvf-un0gSXgTcn5-113" target="ZWSLOfvf-un0gSXgTcn5-135">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="300" y="11080" />
+              <mxPoint x="540" y="11080" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="ZWSLOfvf-un0gSXgTcn5-113" value="Tax payable" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
-          <mxGeometry x="220" y="10960" width="160" height="150" as="geometry" />
+          <mxGeometry x="220" y="10960" width="160" height="90" as="geometry" />
         </mxCell>
         <mxCell id="ZWSLOfvf-un0gSXgTcn5-114" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="ZWSLOfvf-un0gSXgTcn5-113">
-          <mxGeometry y="30" width="160" height="40" as="geometry" />
+          <mxGeometry y="30" width="160" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ZWSLOfvf-un0gSXgTcn5-115" value="Output tax" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="ZWSLOfvf-un0gSXgTcn5-114">
-          <mxGeometry width="120" height="40" as="geometry" />
+          <mxGeometry width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ZWSLOfvf-un0gSXgTcn5-116" value="x" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="ZWSLOfvf-un0gSXgTcn5-114">
-          <mxGeometry x="120" width="40" height="40" as="geometry" />
+          <mxGeometry x="120" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ZWSLOfvf-un0gSXgTcn5-117" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="ZWSLOfvf-un0gSXgTcn5-113">
-          <mxGeometry y="70" width="160" height="40" as="geometry" />
+          <mxGeometry y="50" width="160" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ZWSLOfvf-un0gSXgTcn5-118" value="(-) ITC" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="ZWSLOfvf-un0gSXgTcn5-117">
-          <mxGeometry width="120" height="40" as="geometry" />
+          <mxGeometry width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ZWSLOfvf-un0gSXgTcn5-119" value="(x)" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="ZWSLOfvf-un0gSXgTcn5-117">
-          <mxGeometry x="120" width="40" height="40" as="geometry" />
+          <mxGeometry x="120" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ZWSLOfvf-un0gSXgTcn5-120" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="ZWSLOfvf-un0gSXgTcn5-113">
-          <mxGeometry y="110" width="160" height="40" as="geometry" />
+          <mxGeometry y="70" width="160" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ZWSLOfvf-un0gSXgTcn5-121" value="Tax Payable" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="ZWSLOfvf-un0gSXgTcn5-120">
-          <mxGeometry width="120" height="40" as="geometry" />
+          <mxGeometry width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ZWSLOfvf-un0gSXgTcn5-122" value="XX" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="ZWSLOfvf-un0gSXgTcn5-120">
-          <mxGeometry x="120" width="40" height="40" as="geometry" />
+          <mxGeometry x="120" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ZWSLOfvf-un0gSXgTcn5-126" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZWSLOfvf-un0gSXgTcn5-124" target="ZWSLOfvf-un0gSXgTcn5-125">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZWSLOfvf-un0gSXgTcn5-124" value="GSTR - 1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="237" y="11160" width="120" height="40" as="geometry" />
+          <mxGeometry x="260" y="11180" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZWSLOfvf-un0gSXgTcn5-128" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZWSLOfvf-un0gSXgTcn5-125" target="ZWSLOfvf-un0gSXgTcn5-127">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZWSLOfvf-un0gSXgTcn5-125" value="Outward supply(Sales) is reported" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="11240" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZWSLOfvf-un0gSXgTcn5-127" value="Due date - 10/11th of next month" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="11300" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZWSLOfvf-un0gSXgTcn5-129" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="ZWSLOfvf-un0gSXgTcn5-130" target="ZWSLOfvf-un0gSXgTcn5-132" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZWSLOfvf-un0gSXgTcn5-130" value="GSTR - 3B" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="11180" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZWSLOfvf-un0gSXgTcn5-131" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="ZWSLOfvf-un0gSXgTcn5-132" target="ZWSLOfvf-un0gSXgTcn5-133" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZWSLOfvf-un0gSXgTcn5-132" value="Output, ITC" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="11240" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZWSLOfvf-un0gSXgTcn5-133" value="Due date - 20th of next month" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="11300" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZWSLOfvf-un0gSXgTcn5-137" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZWSLOfvf-un0gSXgTcn5-134" target="ZWSLOfvf-un0gSXgTcn5-136">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZWSLOfvf-un0gSXgTcn5-134" value="Payment of tax" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="11100" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZWSLOfvf-un0gSXgTcn5-143" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZWSLOfvf-un0gSXgTcn5-135" target="ZWSLOfvf-un0gSXgTcn5-130">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZWSLOfvf-un0gSXgTcn5-144" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZWSLOfvf-un0gSXgTcn5-135" target="ZWSLOfvf-un0gSXgTcn5-124">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZWSLOfvf-un0gSXgTcn5-145" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZWSLOfvf-un0gSXgTcn5-135" target="ZWSLOfvf-un0gSXgTcn5-139">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZWSLOfvf-un0gSXgTcn5-135" value="Filing of returns" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="11100" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZWSLOfvf-un0gSXgTcn5-136" value="Due date - monthly 20th of next month" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="11160" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZWSLOfvf-un0gSXgTcn5-138" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="ZWSLOfvf-un0gSXgTcn5-139" target="ZWSLOfvf-un0gSXgTcn5-141" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZWSLOfvf-un0gSXgTcn5-139" value="GSTR - 9" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="700" y="11180" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZWSLOfvf-un0gSXgTcn5-140" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="ZWSLOfvf-un0gSXgTcn5-141" target="ZWSLOfvf-un0gSXgTcn5-142" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZWSLOfvf-un0gSXgTcn5-141" value="Annual return" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="11240" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZWSLOfvf-un0gSXgTcn5-142" value="Due date - 31th December After FY" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="11300" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZWSLOfvf-un0gSXgTcn5-150" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="ZWSLOfvf-un0gSXgTcn5-151" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1160" y="11250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZWSLOfvf-un0gSXgTcn5-151" value="Mr.A" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1100" y="11170" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZWSLOfvf-un0gSXgTcn5-152" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" target="ZWSLOfvf-un0gSXgTcn5-151" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="980" y="11190" as="sourcePoint" />
+            <mxPoint x="1320" y="11205" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZWSLOfvf-un0gSXgTcn5-153" value="Purchase" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="994" y="11160" width="86" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ZWSLOfvf-un0gSXgTcn5-154" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" source="ZWSLOfvf-un0gSXgTcn5-151" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="990.0000000000002" y="11200" as="sourcePoint" />
+            <mxPoint x="1340" y="11190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZWSLOfvf-un0gSXgTcn5-155" value="Sale" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1230" y="11160" width="86" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ZWSLOfvf-un0gSXgTcn5-156" value="No ITC allowed" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="977" y="11200" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ZWSLOfvf-un0gSXgTcn5-157" value="&lt;u&gt;&lt;b&gt;Cannot&lt;/b&gt;&lt;/u&gt; Collect Tax from customer" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1220" y="11200" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ZWSLOfvf-un0gSXgTcn5-175" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="ZWSLOfvf-un0gSXgTcn5-176" target="ZWSLOfvf-un0gSXgTcn5-178" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZWSLOfvf-un0gSXgTcn5-176" value="GSTR - 4" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1210" y="11390" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZWSLOfvf-un0gSXgTcn5-177" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="ZWSLOfvf-un0gSXgTcn5-178" target="ZWSLOfvf-un0gSXgTcn5-179" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZWSLOfvf-un0gSXgTcn5-178" value="Output, ITC" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1170" y="11450" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZWSLOfvf-un0gSXgTcn5-179" value="&lt;div&gt;Due date - Annually 30th April &lt;br&gt;&lt;/div&gt;&lt;div&gt;after FY &lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1170" y="11510" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZWSLOfvf-un0gSXgTcn5-180" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="ZWSLOfvf-un0gSXgTcn5-181" target="ZWSLOfvf-un0gSXgTcn5-186" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZWSLOfvf-un0gSXgTcn5-181" value="Payment of tax" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="990" y="11330" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZWSLOfvf-un0gSXgTcn5-182" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="ZWSLOfvf-un0gSXgTcn5-185" target="ZWSLOfvf-un0gSXgTcn5-176" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZWSLOfvf-un0gSXgTcn5-185" value="Filing of returns" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1210" y="11330" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZWSLOfvf-un0gSXgTcn5-186" value="Due date - Quarterly 18th of next month after each quarter" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="950" y="11390" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZWSLOfvf-un0gSXgTcn5-193" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZWSLOfvf-un0gSXgTcn5-192" target="ZWSLOfvf-un0gSXgTcn5-181">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZWSLOfvf-un0gSXgTcn5-194" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZWSLOfvf-un0gSXgTcn5-192" target="ZWSLOfvf-un0gSXgTcn5-185">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZWSLOfvf-un0gSXgTcn5-192" value="&lt;div&gt;Tax payable&lt;br&gt;&lt;/div&gt;&lt;div&gt;0.5%-3% x Sales income&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1060" y="11250" width="205" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZWSLOfvf-un0gSXgTcn5-197" value="" style="endArrow=none;dashed=1;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="900" y="11750" as="sourcePoint" />
+            <mxPoint x="900" y="10780" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZWSLOfvf-un0gSXgTcn5-198" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Advantages&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. No classification of goods is required;&lt;br&gt;2. Single GST rate is applicable on all supplies made;&lt;br&gt;3. Tax invoice is not required, but bill of supply is required to be issued.&lt;br&gt;4 Payment of tax and return filing is to be done at the end of every quarter.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;Disadvantages&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. Taxpayer cannot avail the benefit of ITC;&lt;br&gt;2. He cannot charge tax on the invoice raised by him;&lt;br&gt;3. A limited territory of business. The dealer is barred from carrying &lt;br&gt;&lt;/div&gt;&lt;div&gt;out inter-State supplies.&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="930" y="11610" width="440" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="ZWSLOfvf-un0gSXgTcn5-199" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Eligibility&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;A. Person making supply of service:&lt;br&gt;1) whose &lt;u&gt;aggregate turnover&lt;/u&gt;* in the preceding financial year was Rs. &lt;u&gt;1.5 Crores&lt;/u&gt;** or below;&lt;/div&gt;&lt;div&gt;[** The above limit is 75 Lakh in following 8 stats - manipur, Tripura, nagaland, Mizoram, megalaya, arunachal pradesh, Sikkim, Uttarakhand]&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. The benefit under composition scheme is available upto 1.5cr/75L in the current year[i.e. for e.g. T/o becomes 10cr CY then only upto 1.5cr]&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="930" y="10860" width="440" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="ZWSLOfvf-un0gSXgTcn5-201" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="ZWSLOfvf-un0gSXgTcn5-199" target="ZWSLOfvf-un0gSXgTcn5-200">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZWSLOfvf-un0gSXgTcn5-200" value="&lt;u&gt;&lt;b&gt;Aggregate Turnover* =Taxable supplies (other than inward supply under RCM) + exempt supplies+ exports+ inter-State supplies Central 7 state UT Integrates taxes &amp;amp; cess of persons having same PAN&lt;/b&gt;&lt;/u&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1410" y="10900" width="350" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ZWSLOfvf-un0gSXgTcn5-203" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Persons who are not Eligible&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. A person making any interstate outward supply(however there is no restriction on interstate purchase)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. manufacturer of specified goods &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;[making supplies of ice cream and other edible ice, Pan Masala, Tobacco and &lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;manufactured tobacco substitutes, aerated water]&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. A person engaged in supply of goods or services not liable to GST&lt;/div&gt;&lt;div&gt;(Non-taxable supply e.g.alcohol and 5 products)&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1440" y="11040" width="440" height="200" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
