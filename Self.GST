@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-08-31T15:32:48.345Z" agent="5.0 (X11)" etag="aw6IrbGvJn62TRWPqS7h" version="15.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-31T15:45:00.876Z" agent="5.0 (X11)" etag="6aR_D_meJadeOCodmvKP" version="15.0.3" type="github">
   <diagram id="EEIt5sJKhKLN3RtG8xfO" name="Page-1">
-    <mxGraphModel dx="2938" dy="-55" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="1894" dy="-577" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1262,6 +1262,9 @@
         </mxCell>
         <mxCell id="bL3ZE05nRJ90D0qZ1jty-30" value="&lt;div&gt;3% CGST + 3% SGST of T/o in state/UT&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="bL3ZE05nRJ90D0qZ1jty-28" vertex="1">
           <mxGeometry x="132" width="308" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="u_0Ipbv8fiuegXikuNQV-5" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Additional points&lt;/b&gt;&lt;/u&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1) A composition dealer issues &quot;Bill of Supply&quot; instead of &quot;Tax invoice&quot;(since he cannot collect tax).&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt; 2) he has to mention that he &quot;Composition taxpayer &amp;amp; cannot collect tax &quot; in&lt;br&gt;&lt;/div&gt;&lt;div&gt;&quot;Bill of Supply&quot;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;3) The name board has to mention that he is a &quot;Composition Taxpayer&quot;.&lt;br&gt;&lt;br&gt;&lt;div&gt;4) All the branches have to take composition scheme together. Further, if any condition is violated&amp;nbsp; by any of the branches, then all the branches have to shift to&amp;nbsp; regular scheme.&lt;br&gt;&lt;/div&gt;&lt;br&gt;5) A composition scheme taxpayer ceases to be under composition scheme if he violated the following:&lt;br&gt;a) When any is aggregate 1/0 in current year exceeds specified limits (1.5cr/75L/50L)&lt;br&gt;b) when any condition is violated&lt;br&gt;c) Voluntarily.&lt;br&gt;&lt;br&gt;6) A stock statement has to be submitted within 30 days of shifting to regular scheme&lt;br&gt;&lt;br&gt;7) Stock statement is also required to be submitted within 60 days of opting for composition Scheme.&lt;br&gt;&lt;br&gt;8) If a person continues under composition scheme even if he is not eligible, then, he has to pay differential Tax along with interest &amp;amp; penalty.&lt;br&gt;&lt;br&gt;&lt;div&gt;9) Interest earned form part Loans, deposits &amp;amp; Advances will not form a part &lt;br&gt;&lt;/div&gt;&lt;div&gt;of Turnover for the purpose of Composition scheme.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="930" y="12320" width="440" height="630" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
