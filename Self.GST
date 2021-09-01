@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2021-08-31T18:46:11.821Z" agent="5.0 (X11)" etag="GQkfP6qOOqS1EPgnQLae" version="15.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-01T12:25:55.435Z" agent="5.0 (X11)" etag="8qsPNDVvRic5VxoPvna5" version="15.0.3" type="github">
   <diagram id="EEIt5sJKhKLN3RtG8xfO" name="Page-1">
-    <mxGraphModel dx="5862" dy="1408" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="2103" dy="-473" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="u_0Ipbv8fiuegXikuNQV-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="u_0Ipbv8fiuegXikuNQV-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-280" y="10680" width="1820" height="2130" as="geometry" />
         </mxCell>
         <mxCell id="ZWSLOfvf-un0gSXgTcn5-95" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -1157,7 +1157,7 @@
         <mxCell id="ZWSLOfvf-un0gSXgTcn5-200" value="&lt;u&gt;&lt;b&gt;Aggregate Turnover* =Taxable supplies (other than inward supply under RCM) + exempt supplies+ exports+ inter-State supplies Central 7 state UT Integrates taxes &amp;amp; cess of persons having same PAN&lt;/b&gt;&lt;/u&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1140" y="11500" width="350" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="u_0Ipbv8fiuegXikuNQV-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZWSLOfvf-un0gSXgTcn5-203" target="bL3ZE05nRJ90D0qZ1jty-1">
+        <mxCell id="u_0Ipbv8fiuegXikuNQV-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ZWSLOfvf-un0gSXgTcn5-203" target="bL3ZE05nRJ90D0qZ1jty-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZWSLOfvf-un0gSXgTcn5-203" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Persons who are not Eligible&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -1178,7 +1178,7 @@
         <mxCell id="bL3ZE05nRJ90D0qZ1jty-5" value="5. A Person casual taxable person(CTP) or non resident taxable person(NRT) - refer registration." style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="675" y="11970" width="440" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="u_0Ipbv8fiuegXikuNQV-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bL3ZE05nRJ90D0qZ1jty-6" target="bL3ZE05nRJ90D0qZ1jty-11">
+        <mxCell id="u_0Ipbv8fiuegXikuNQV-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="bL3ZE05nRJ90D0qZ1jty-6" target="bL3ZE05nRJ90D0qZ1jty-11" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1165" y="12040" />
@@ -1186,7 +1186,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="u_0Ipbv8fiuegXikuNQV-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bL3ZE05nRJ90D0qZ1jty-6" target="bL3ZE05nRJ90D0qZ1jty-16">
+        <mxCell id="u_0Ipbv8fiuegXikuNQV-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="bL3ZE05nRJ90D0qZ1jty-6" target="bL3ZE05nRJ90D0qZ1jty-16" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1165" y="12040" />
@@ -1266,8 +1266,23 @@
         <mxCell id="bL3ZE05nRJ90D0qZ1jty-30" value="&lt;div&gt;3% CGST + 3% SGST of T/o in state/UT&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="bL3ZE05nRJ90D0qZ1jty-28" vertex="1">
           <mxGeometry x="132" width="308" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="u_0Ipbv8fiuegXikuNQV-5" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Additional points&lt;/b&gt;&lt;/u&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1) A composition dealer issues &quot;Bill of Supply&quot; instead of &quot;Tax invoice&quot;(since he cannot collect tax).&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt; 2) he has to mention &quot;Composition taxpayer &amp;amp; cannot collect tax &quot; in&lt;br&gt;&lt;/div&gt;&lt;div&gt;&quot;Bill of Supply&quot;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;3) The name board has to mention that he is a &quot;Composition Taxpayer&quot;.&lt;br&gt;&lt;br&gt;&lt;div&gt;4) All the branches have to take composition scheme together. Further, if any condition is violated&amp;nbsp; by any of the branches, then all the branches have to shift to&amp;nbsp; regular scheme.&lt;br&gt;&lt;/div&gt;&lt;br&gt;5) A composition scheme taxpayer ceases to be under composition scheme if he violated the following:&lt;br&gt;&lt;div&gt;a) When the aggregate t/o in current year exceeds&lt;/div&gt;&lt;div&gt;specified limits (1.5cr/75L/50L)&lt;/div&gt;b) when any condition is violated&lt;br&gt;c) Voluntarily.&lt;br&gt;&lt;br&gt;6) A stock statement has to be submitted within 30 days of shifting to regular scheme&lt;br&gt;&lt;br&gt;7) Stock statement is also required to be submitted within 60 days of opting for composition Scheme.&lt;br&gt;&lt;br&gt;8) If a person continues under composition scheme even if he is not eligible, then, he has to pay differential Tax along with interest &amp;amp; penalty.&lt;br&gt;&lt;br&gt;&lt;div&gt;9) Interest earned form part Loans, deposits &amp;amp; Advances will not form a part &lt;br&gt;&lt;/div&gt;&lt;div&gt;of Turnover for the purpose of Composition scheme.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="u_0Ipbv8fiuegXikuNQV-5" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Additional points&lt;/b&gt;&lt;/u&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1) A composition dealer issues &quot;Bill of Supply&quot; instead of &quot;Tax invoice&quot;(since he cannot collect tax).&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt; 2) he has to mention &quot;Composition taxpayer &amp;amp; cannot collect tax &quot; in&lt;br&gt;&lt;/div&gt;&lt;div&gt;&quot;Bill of Supply&quot;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;3) The name board has to mention that he is a &quot;Composition Taxpayer&quot;.&lt;br&gt;&lt;br&gt;&lt;div&gt;4) All the branches have to take composition scheme together. Further, if any condition is violated&amp;nbsp; by any of the branches, then all the branches have to shift to&amp;nbsp; regular scheme.&lt;br&gt;&lt;/div&gt;&lt;br&gt;5) A composition scheme taxpayer ceases to be under composition scheme if he violated the following:&lt;br&gt;&lt;div&gt;a) When the aggregate t/o in current year exceeds&lt;/div&gt;&lt;div&gt;specified limits (1.5cr/75L/50L)&lt;/div&gt;b) when any condition is violated&lt;br&gt;c) Voluntarily.&lt;br&gt;&lt;br&gt;6) A stock statement has to be submitted within 30 days of shifting to regular scheme&lt;br&gt;&lt;br&gt;7) Stock statement is also required to be submitted within 60 days of opting for composition Scheme.&lt;br&gt;&lt;br&gt;8) If a person continues under composition scheme even if he is not eligible, then, he has to pay differential Tax along with interest &amp;amp; penalty.&lt;br&gt;&lt;br&gt;&lt;div&gt;9) Interest earned form part Loans, deposits &amp;amp; Advances will not form a part &lt;br&gt;&lt;/div&gt;&lt;div&gt;of Turnover for the purpose of Composition scheme.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="675" y="12310" width="440" height="480" as="geometry" />
+        </mxCell>
+        <mxCell id="xCA3pVgE0H4NzibprLNc-1" value="&lt;div&gt;Exemptions do it &lt;br&gt;&lt;/div&gt;&lt;div&gt;from text&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="12880" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xCA3pVgE0H4NzibprLNc-2" value="RCM" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="12960" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xCA3pVgE0H4NzibprLNc-3" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i.imgur.com/E3KXEe6.png;" vertex="1" parent="1">
+          <mxGeometry x="380" y="13260" width="520" height="142" as="geometry" />
+        </mxCell>
+        <mxCell id="xCA3pVgE0H4NzibprLNc-4" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i.imgur.com/T4JnIIY.png;" vertex="1" parent="1">
+          <mxGeometry x="1065" y="13070" width="520" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="xCA3pVgE0H4NzibprLNc-5" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i.imgur.com/8HfxIAJ.png;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="13220" width="520" height="86" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
