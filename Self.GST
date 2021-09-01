@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-09-01T16:26:20.568Z" agent="5.0 (X11)" etag="pIMlzco_-3gqfGEon2sK" version="15.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-01T22:09:35.527Z" agent="5.0 (X11)" etag="3-j8mOgeIvwQ0KQh4KYk" version="15.0.3" type="github">
   <diagram id="EEIt5sJKhKLN3RtG8xfO" name="Page-1">
-    <mxGraphModel dx="2335" dy="-362" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="1902" dy="-648" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1341,20 +1341,22 @@
         <mxCell id="G0jMjXN_nMAv5o1uiMld-21" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i.imgur.com/iMbd62Z.png;" vertex="1" parent="1">
           <mxGeometry x="560" y="14611" width="200" height="105.52" as="geometry" />
         </mxCell>
-        <mxCell id="G0jMjXN_nMAv5o1uiMld-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="G0jMjXN_nMAv5o1uiMld-22" target="G0jMjXN_nMAv5o1uiMld-24">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="G0jMjXN_nMAv5o1uiMld-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="G0jMjXN_nMAv5o1uiMld-22" target="G0jMjXN_nMAv5o1uiMld-27">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="660" y="14820" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="G0jMjXN_nMAv5o1uiMld-22" value="Input Tax Credit (ITC)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="600" y="14760" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="G0jMjXN_nMAv5o1uiMld-23" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i.imgur.com/nLjIUMn.png;" vertex="1" parent="1">
-          <mxGeometry x="446.64" y="15030" width="426.75" height="270" as="geometry" />
+          <mxGeometry x="526.31" y="15050" width="268.69" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="G0jMjXN_nMAv5o1uiMld-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="G0jMjXN_nMAv5o1uiMld-24" target="G0jMjXN_nMAv5o1uiMld-23">
+        <mxCell id="G0jMjXN_nMAv5o1uiMld-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="G0jMjXN_nMAv5o1uiMld-27" target="G0jMjXN_nMAv5o1uiMld-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="G0jMjXN_nMAv5o1uiMld-24" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i.imgur.com/36ipBNA.png;" vertex="1" parent="1">
-          <mxGeometry x="400.01" y="14820" width="520" height="188" as="geometry" />
+        <mxCell id="G0jMjXN_nMAv5o1uiMld-27" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i.imgur.com/yVdFwa6.png;" vertex="1" parent="1">
+          <mxGeometry x="400.01" y="14820" width="520" height="210" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
