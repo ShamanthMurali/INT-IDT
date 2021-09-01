@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-09-01T15:38:21.790Z" agent="5.0 (X11)" etag="askSO2uInBUNBS3qTIPU" version="15.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-01T15:39:37.975Z" agent="5.0 (X11)" etag="dnZMpJGmhI1wUsN5A3qW" version="15.0.3" type="github">
   <diagram id="EEIt5sJKhKLN3RtG8xfO" name="Page-1">
-    <mxGraphModel dx="4384" dy="691" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="7035" dy="2035" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1272,10 +1272,13 @@
         <mxCell id="xCA3pVgE0H4NzibprLNc-1" value="&lt;div&gt;Exemptions do it &lt;br&gt;&lt;/div&gt;&lt;div&gt;from text&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="600" y="12880" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="xCA3pVgE0H4NzibprLNc-2" value="RCM" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="600" y="12960" width="120" height="40" as="geometry" />
+        <mxCell id="G0jMjXN_nMAv5o1uiMld-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="xCA3pVgE0H4NzibprLNc-2" target="G0jMjXN_nMAv5o1uiMld-2">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="xCA3pVgE0H4NzibprLNc-3" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i.imgur.com/E3KXEe6.png;" parent="1" vertex="1">
+        <mxCell id="xCA3pVgE0H4NzibprLNc-2" value="RCM" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="605" y="12950" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xCA3pVgE0H4NzibprLNc-3" value="Story to remember" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i.imgur.com/E3KXEe6.png;" parent="1" vertex="1">
           <mxGeometry x="410" y="14030" width="520" height="142" as="geometry" />
         </mxCell>
         <mxCell id="G0jMjXN_nMAv5o1uiMld-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="G0jMjXN_nMAv5o1uiMld-3" target="xCA3pVgE0H4NzibprLNc-4">
@@ -1303,7 +1306,7 @@
           <mxGeometry x="410" y="13893" width="520" height="137" as="geometry" />
         </mxCell>
         <mxCell id="G0jMjXN_nMAv5o1uiMld-7" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i.imgur.com/EQfKBb7.png;" vertex="1" parent="1">
-          <mxGeometry x="-220" y="13300" width="366" height="337" as="geometry" />
+          <mxGeometry x="-1.0200000000000102" y="13016.5" width="366" height="337" as="geometry" />
         </mxCell>
         <mxCell id="G0jMjXN_nMAv5o1uiMld-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="G0jMjXN_nMAv5o1uiMld-4" target="G0jMjXN_nMAv5o1uiMld-8">
           <mxGeometry relative="1" as="geometry" />
