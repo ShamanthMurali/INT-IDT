@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-09-02T22:57:25.852Z" agent="5.0 (X11)" etag="ii3gR6kkGGX6FxUxS93Q" version="15.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-02T23:14:34.159Z" agent="5.0 (X11)" etag="ip9YbbezOEuKCylRhP4F" version="15.0.6" type="github">
   <diagram id="EEIt5sJKhKLN3RtG8xfO" name="Page-1">
-    <mxGraphModel dx="4000" dy="468" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="2332" dy="-362" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1738,6 +1738,24 @@
         </mxCell>
         <mxCell id="U-4kNF55gbKH13GMOEv1-163" value="&lt;div&gt;This is not WDV &lt;br&gt;&lt;/div&gt;&lt;div&gt;mind it&lt;/div&gt;&lt;div&gt;`(5xxQs)%`&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="723.75" y="19050" width="96.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U-4kNF55gbKH13GMOEv1-164" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i.imgur.com/50YzKvZ.png;" vertex="1" parent="1">
+          <mxGeometry x="320" y="19196" width="520" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="U-4kNF55gbKH13GMOEv1-165" value="Remaining life = Total life - used months" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="750" y="19420" width="250" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="U-4kNF55gbKH13GMOEv1-166" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i.imgur.com/3oCVTTS.png;" vertex="1" parent="1">
+          <mxGeometry x="325" y="19480" width="520" height="139" as="geometry" />
+        </mxCell>
+        <mxCell id="U-4kNF55gbKH13GMOEv1-167" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i.imgur.com/oh9W1Ku.png;" vertex="1" parent="1">
+          <mxGeometry x="325" y="19619" width="520" height="162" as="geometry" />
+        </mxCell>
+        <mxCell id="U-4kNF55gbKH13GMOEv1-168" value="quarter calculation is for used period and not remaining period, so don&#39;t make that mistake" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="740" y="19740" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="U-4kNF55gbKH13GMOEv1-169" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i.imgur.com/MQjYVcd.png;" vertex="1" parent="1">
+          <mxGeometry x="320" y="19781" width="520" height="51" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
