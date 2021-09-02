@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-09-02T22:22:55.647Z" agent="5.0 (X11)" etag="BZGI4Mi_OzI_x_rSdScY" version="15.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-02T22:57:25.852Z" agent="5.0 (X11)" etag="ii3gR6kkGGX6FxUxS93Q" version="15.0.6" type="github">
   <diagram id="EEIt5sJKhKLN3RtG8xfO" name="Page-1">
-    <mxGraphModel dx="1719" dy="-668" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="4000" dy="468" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1712,8 +1712,32 @@
         <mxCell id="U-4kNF55gbKH13GMOEv1-150" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Step 1&lt;/b&gt;&lt;/u&gt;: Take ITC of entire tax paid for common capital goods in the month of purchase [`T_c`]&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;Step 2&lt;/b&gt;&lt;/u&gt;: Compute credit attributable to 1 month&lt;/div&gt;&lt;div&gt;`[T_m=T_c/(60 months(~5yrs))]`&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;Step 3&lt;/b&gt;&lt;/u&gt;: Compute ITC reversal on a monthly basics&lt;/div&gt;&lt;div&gt;`[T_e=T_mxxE/F]`&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="842" y="18360" width="280" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="U-4kNF55gbKH13GMOEv1-152" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i.imgur.com/Hicneer.png;" vertex="1" parent="1">
-          <mxGeometry x="430" y="18600" width="520" height="177" as="geometry" />
+        <mxCell id="U-4kNF55gbKH13GMOEv1-153" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i.imgur.com/1zACCxL.png;" vertex="1" parent="1">
+          <mxGeometry x="319.76" y="18600" width="520" height="215" as="geometry" />
+        </mxCell>
+        <mxCell id="U-4kNF55gbKH13GMOEv1-154" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="785" y="18640" width="55" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="U-4kNF55gbKH13GMOEv1-157" value="&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="412" y="18779" width="40" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="U-4kNF55gbKH13GMOEv1-158" value="&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="580" y="18779" width="40" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="U-4kNF55gbKH13GMOEv1-160" value="" style="endArrow=none;dashed=1;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="U-4kNF55gbKH13GMOEv1-157" target="U-4kNF55gbKH13GMOEv1-158">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="580" y="18731" as="sourcePoint" />
+            <mxPoint x="630" y="18681" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="U-4kNF55gbKH13GMOEv1-161" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i.imgur.com/mFZqbqV.png;" vertex="1" parent="1">
+          <mxGeometry x="319.76" y="18880" width="520" height="236" as="geometry" />
+        </mxCell>
+        <mxCell id="U-4kNF55gbKH13GMOEv1-162" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i.imgur.com/lh87dJ2.png;" vertex="1" parent="1">
+          <mxGeometry x="319.76" y="19116" width="520" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="U-4kNF55gbKH13GMOEv1-163" value="&lt;div&gt;This is not WDV &lt;br&gt;&lt;/div&gt;&lt;div&gt;mind it&lt;/div&gt;&lt;div&gt;`(5xxQs)%`&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="723.75" y="19050" width="96.5" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
