@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-09-02T23:32:15.807Z" agent="5.0 (X11)" etag="m1k1c2cKbfL4_aGfOqfX" version="15.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-02T23:35:46.220Z" agent="5.0 (X11)" etag="BZjt0RGe2giAjXzud8g_" version="15.0.6" type="github">
   <diagram id="EEIt5sJKhKLN3RtG8xfO" name="Page-1">
-    <mxGraphModel dx="1900" dy="-648" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="1900" dy="-577" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1764,7 +1764,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="U-4kNF55gbKH13GMOEv1-170" value="ITC in case of New registration" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="487" y="19880" width="160" height="40" as="geometry" />
+          <mxGeometry x="480" y="19880" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="U-4kNF55gbKH13GMOEv1-177" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="U-4kNF55gbKH13GMOEv1-171" target="U-4kNF55gbKH13GMOEv1-176">
           <mxGeometry relative="1" as="geometry" />
@@ -1776,7 +1776,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="U-4kNF55gbKH13GMOEv1-172" value="Voluntary registration" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="620" y="19960" width="120" height="40" as="geometry" />
+          <mxGeometry x="600" y="19960" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="U-4kNF55gbKH13GMOEv1-180" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="U-4kNF55gbKH13GMOEv1-176" target="U-4kNF55gbKH13GMOEv1-179">
           <mxGeometry relative="1" as="geometry" />
@@ -1791,7 +1791,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="U-4kNF55gbKH13GMOEv1-178" value="Applies &lt;u&gt;after&lt;/u&gt; 30days" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="20100" width="120" height="40" as="geometry" />
+          <mxGeometry x="460" y="20100" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="U-4kNF55gbKH13GMOEv1-186" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="U-4kNF55gbKH13GMOEv1-179" target="U-4kNF55gbKH13GMOEv1-185">
           <mxGeometry relative="1" as="geometry" />
@@ -1799,14 +1799,31 @@
         <mxCell id="U-4kNF55gbKH13GMOEv1-179" value="Applies &lt;u&gt;within&lt;/u&gt; 30days" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="319.76" y="20100" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="U-4kNF55gbKH13GMOEv1-196" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="U-4kNF55gbKH13GMOEv1-185" target="U-4kNF55gbKH13GMOEv1-195">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="U-4kNF55gbKH13GMOEv1-185" value="Effective date of registration = Date when he was liable to register" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="319.76" y="20160" width="120" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="U-4kNF55gbKH13GMOEv1-197" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="U-4kNF55gbKH13GMOEv1-187" target="U-4kNF55gbKH13GMOEv1-195">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="U-4kNF55gbKH13GMOEv1-187" value="Effective date of registration = Date of grant&amp;nbsp; of register" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="20160" width="120" height="80" as="geometry" />
+          <mxGeometry x="460" y="20160" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="U-4kNF55gbKH13GMOEv1-198" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="U-4kNF55gbKH13GMOEv1-191" target="U-4kNF55gbKH13GMOEv1-195">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="660" y="20280" />
+              <mxPoint x="520" y="20280" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="U-4kNF55gbKH13GMOEv1-191" value="Effective date of registration = Date of grant&amp;nbsp; of register" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="620" y="20020" width="120" height="80" as="geometry" />
+          <mxGeometry x="600" y="20020" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="U-4kNF55gbKH13GMOEv1-195" value="&lt;div&gt;Can claim ITC on stock of inputs(Not capital goods) as on the date immediately preceding the effective date of registration&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Note : If Invoice is older Than 1 year then no ITC&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="20320" width="280" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
