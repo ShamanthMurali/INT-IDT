@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-09-02T21:15:15.503Z" agent="5.0 (X11)" etag="9F5Jo9pT_O8H-fZ80P-U" version="15.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-02T21:17:28.320Z" agent="5.0 (X11)" etag="XRbiCcddDy45TwKw64ql" version="15.0.6" type="github">
   <diagram id="EEIt5sJKhKLN3RtG8xfO" name="Page-1">
-    <mxGraphModel dx="4000" dy="468" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="1900" dy="-577" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1529,7 +1529,7 @@
         <mxCell id="U-4kNF55gbKH13GMOEv1-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="U-4kNF55gbKH13GMOEv1-30" target="U-4kNF55gbKH13GMOEv1-50">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="U-4kNF55gbKH13GMOEv1-30" value="`\text{Exempt T/o(E)}/\text{Total T/o(T)}xx\text{Common credit(CC)}`" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="U-4kNF55gbKH13GMOEv1-30" value="`\text{Exempt T/o(E)}/\text{Total T/o(F)}xx\text{Common credit(CC)}`" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="866.25" y="17740" width="287.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="U-4kNF55gbKH13GMOEv1-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="U-4kNF55gbKH13GMOEv1-32" target="U-4kNF55gbKH13GMOEv1-38">
@@ -1616,7 +1616,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="U-4kNF55gbKH13GMOEv1-69" value="`D1=E/TxxCc`" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;" vertex="1" parent="1">
+        <mxCell id="U-4kNF55gbKH13GMOEv1-69" value="`D1=E/FxxCc`" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="951.25" y="17880" width="117.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="U-4kNF55gbKH13GMOEv1-71" value="`D2=Ccxx5%`" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;" vertex="1" parent="1">
