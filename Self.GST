@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-09-02T13:52:32.547Z" agent="5.0 (X11)" etag="POwX9rsZIoUOcD-Yg3DF" version="15.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-02T13:55:47.795Z" agent="5.0 (X11)" etag="A39JJHDptg6U0LF6wP7l" version="15.0.4" type="github">
   <diagram id="EEIt5sJKhKLN3RtG8xfO" name="Page-1">
-    <mxGraphModel dx="2947" dy="-55" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="1569" dy="-742" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1382,11 +1382,14 @@
         <mxCell id="-Nd1z85RZWrlIZJP3JKz-9" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i.imgur.com/U9Z6EIk.png;" vertex="1" parent="1">
           <mxGeometry x="400" y="15700" width="520" height="163" as="geometry" />
         </mxCell>
+        <mxCell id="-Nd1z85RZWrlIZJP3JKz-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-Nd1z85RZWrlIZJP3JKz-10" target="-Nd1z85RZWrlIZJP3JKz-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="-Nd1z85RZWrlIZJP3JKz-10" value="Last date for claiming ITC" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="580" y="15890" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="-Nd1z85RZWrlIZJP3JKz-11" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="15960" width="320" height="80" as="geometry" />
+        <mxCell id="-Nd1z85RZWrlIZJP3JKz-11" value="&lt;div&gt;1. Due date for filing September months return(i.e.20th oct) after the FY&lt;/div&gt;&lt;div&gt;or&lt;/div&gt;&lt;div&gt;2. Date of filing annual return&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;[Which ever is earlier]&lt;/b&gt;&lt;/u&gt;&lt;br&gt; &lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="15950" width="320" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
