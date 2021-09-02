@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-09-02T20:46:59.250Z" agent="5.0 (X11)" etag="kD9c8AIZdMKnADY4n_yk" version="15.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-02T21:06:57.718Z" agent="5.0 (X11)" etag="0K3AUVxildSunZSrhqD1" version="15.0.6" type="github">
   <diagram id="EEIt5sJKhKLN3RtG8xfO" name="Page-1">
-    <mxGraphModel dx="4450" dy="691" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="7150" dy="2035" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1444,6 +1444,156 @@
         </mxCell>
         <mxCell id="U-4kNF55gbKH13GMOEv1-15" value="&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="625" y="17350" width="40" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="U-4kNF55gbKH13GMOEv1-19" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="U-4kNF55gbKH13GMOEv1-17" target="U-4kNF55gbKH13GMOEv1-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U-4kNF55gbKH13GMOEv1-17" value="Treatment of ITC for Input and Input services" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="17460" width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="U-4kNF55gbKH13GMOEv1-18" value="How much ITC can you claim from Input Tax?" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="17520" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="U-4kNF55gbKH13GMOEv1-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="U-4kNF55gbKH13GMOEv1-20" target="U-4kNF55gbKH13GMOEv1-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U-4kNF55gbKH13GMOEv1-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="U-4kNF55gbKH13GMOEv1-20" target="U-4kNF55gbKH13GMOEv1-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U-4kNF55gbKH13GMOEv1-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="U-4kNF55gbKH13GMOEv1-20" target="U-4kNF55gbKH13GMOEv1-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U-4kNF55gbKH13GMOEv1-20" value="&lt;div&gt;Balance ITC&lt;/div&gt;&lt;div&gt;[&lt;u&gt;&lt;b&gt;Common credit&lt;/b&gt;&lt;/u&gt;]&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="946.25" y="17600" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="U-4kNF55gbKH13GMOEv1-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="U-4kNF55gbKH13GMOEv1-21" target="U-4kNF55gbKH13GMOEv1-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U-4kNF55gbKH13GMOEv1-21" value="&lt;div&gt;Input and input services used exclusively for &lt;br&gt;&lt;/div&gt;&lt;div&gt;Taxable supply and zero rated supply&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="442.5" y="17600" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="U-4kNF55gbKH13GMOEv1-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="U-4kNF55gbKH13GMOEv1-22" target="U-4kNF55gbKH13GMOEv1-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U-4kNF55gbKH13GMOEv1-22" value="&lt;div&gt;Input and input services blocked u/s 17(5)(i.e blocked credit)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="302.5" y="17600" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="U-4kNF55gbKH13GMOEv1-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="U-4kNF55gbKH13GMOEv1-23" target="U-4kNF55gbKH13GMOEv1-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U-4kNF55gbKH13GMOEv1-23" value="&lt;div&gt;Input and input services used exclusively for &lt;br&gt;&lt;/div&gt;&lt;div&gt;non biz purpose&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="162.5" y="17600" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="U-4kNF55gbKH13GMOEv1-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="U-4kNF55gbKH13GMOEv1-24" target="U-4kNF55gbKH13GMOEv1-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U-4kNF55gbKH13GMOEv1-24" value="&lt;div&gt;Input and input services used exclusively for &lt;br&gt;&lt;/div&gt;&lt;div&gt;exempt supply&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="22.5" y="17600" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="U-4kNF55gbKH13GMOEv1-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="U-4kNF55gbKH13GMOEv1-27" target="U-4kNF55gbKH13GMOEv1-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U-4kNF55gbKH13GMOEv1-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="U-4kNF55gbKH13GMOEv1-27" target="U-4kNF55gbKH13GMOEv1-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U-4kNF55gbKH13GMOEv1-27" value="Relatable to non biz purpose" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="946.25" y="17680" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="U-4kNF55gbKH13GMOEv1-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="U-4kNF55gbKH13GMOEv1-28" target="U-4kNF55gbKH13GMOEv1-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U-4kNF55gbKH13GMOEv1-28" value="Remaining common credit" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1212.5" y="17680" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="U-4kNF55gbKH13GMOEv1-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="U-4kNF55gbKH13GMOEv1-29" target="U-4kNF55gbKH13GMOEv1-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U-4kNF55gbKH13GMOEv1-29" value="Relatable to exempt supply = " style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="652.5" y="17680" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="U-4kNF55gbKH13GMOEv1-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="U-4kNF55gbKH13GMOEv1-30" target="U-4kNF55gbKH13GMOEv1-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U-4kNF55gbKH13GMOEv1-30" value="`\text{Exempt T/o(E)}/\text{Total T/o(T)}xx\text{Common credit(CC)}`" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="568.75" y="17740" width="287.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U-4kNF55gbKH13GMOEv1-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="U-4kNF55gbKH13GMOEv1-32" target="U-4kNF55gbKH13GMOEv1-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U-4kNF55gbKH13GMOEv1-32" value="Question states non biz purpose exists" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="863.75" y="17760" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="U-4kNF55gbKH13GMOEv1-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="U-4kNF55gbKH13GMOEv1-33" target="U-4kNF55gbKH13GMOEv1-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U-4kNF55gbKH13GMOEv1-33" value="Question does not state non biz purpose" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1031.25" y="17760" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="U-4kNF55gbKH13GMOEv1-34" value="Ignore don&#39;t do anything" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1031.25" y="17820" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="U-4kNF55gbKH13GMOEv1-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="U-4kNF55gbKH13GMOEv1-38" target="U-4kNF55gbKH13GMOEv1-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U-4kNF55gbKH13GMOEv1-38" value="&lt;div&gt;= Fixed rate&lt;/div&gt;&lt;div&gt;`=\text{Common credit}xx5%`&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="832.5" y="17820" width="182.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="U-4kNF55gbKH13GMOEv1-40" value="ITC &lt;u&gt;&lt;b&gt;Available&lt;/b&gt;&lt;/u&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1212.5" y="17740" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="U-4kNF55gbKH13GMOEv1-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="U-4kNF55gbKH13GMOEv1-42" target="U-4kNF55gbKH13GMOEv1-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U-4kNF55gbKH13GMOEv1-42" value="ITC &lt;u&gt;&lt;b&gt;Available&lt;/b&gt;&lt;/u&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="442.5" y="17700" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="U-4kNF55gbKH13GMOEv1-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="U-4kNF55gbKH13GMOEv1-44" target="U-4kNF55gbKH13GMOEv1-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U-4kNF55gbKH13GMOEv1-44" value="ITC&lt;u&gt;&lt;b&gt; #NA&lt;/b&gt;&lt;/u&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="302.5" y="17690" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="U-4kNF55gbKH13GMOEv1-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="U-4kNF55gbKH13GMOEv1-46" target="U-4kNF55gbKH13GMOEv1-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U-4kNF55gbKH13GMOEv1-46" value="ITC&lt;u&gt;&lt;b&gt; #NA&lt;/b&gt;&lt;/u&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="162.5" y="17690" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="U-4kNF55gbKH13GMOEv1-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="U-4kNF55gbKH13GMOEv1-48" target="U-4kNF55gbKH13GMOEv1-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U-4kNF55gbKH13GMOEv1-48" value="ITC&lt;u&gt;&lt;b&gt; #NA&lt;/b&gt;&lt;/u&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="22.5" y="17690" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="U-4kNF55gbKH13GMOEv1-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="U-4kNF55gbKH13GMOEv1-50" target="U-4kNF55gbKH13GMOEv1-69">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U-4kNF55gbKH13GMOEv1-50" value="ITC&lt;u&gt;&lt;b&gt; #NA&lt;/b&gt;&lt;/u&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="652.5" y="17820" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="U-4kNF55gbKH13GMOEv1-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="U-4kNF55gbKH13GMOEv1-52" target="U-4kNF55gbKH13GMOEv1-71">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U-4kNF55gbKH13GMOEv1-52" value="ITC&lt;u&gt;&lt;b&gt; #NA&lt;/b&gt;&lt;/u&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="863.75" y="17880" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="U-4kNF55gbKH13GMOEv1-58" value="T1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="62.5" y="17750" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="U-4kNF55gbKH13GMOEv1-59" value="T2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="202.5" y="17750" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="U-4kNF55gbKH13GMOEv1-60" value="T3" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="342.5" y="17750" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="U-4kNF55gbKH13GMOEv1-61" value="T4" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="482.5" y="17760" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="U-4kNF55gbKH13GMOEv1-69" value="`D1=E/TxxCc`" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="653.75" y="17880" width="117.5" height="117.5" as="geometry" />
+        </mxCell>
+        <mxCell id="U-4kNF55gbKH13GMOEv1-71" value="`D2=Ccxx5%`" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="865" y="17940" width="117.5" height="117.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
