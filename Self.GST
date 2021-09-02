@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-09-02T21:17:28.320Z" agent="5.0 (X11)" etag="XRbiCcddDy45TwKw64ql" version="15.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-02T22:20:50.461Z" agent="5.0 (X11)" etag="qgPjPSOA_CGF7LVA5QNA" version="15.0.6" type="github">
   <diagram id="EEIt5sJKhKLN3RtG8xfO" name="Page-1">
-    <mxGraphModel dx="1900" dy="-577" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="4450" dy="691" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1633,6 +1633,84 @@
         </mxCell>
         <mxCell id="U-4kNF55gbKH13GMOEv1-88" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i.imgur.com/oIOPS5r.png;" vertex="1" parent="1">
           <mxGeometry x="1410" y="17913" width="520" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="U-4kNF55gbKH13GMOEv1-89" value="&lt;div&gt;d.&amp;nbsp; common credit calculation is done on a monthly basics. and also an annual computation has to be carried out at the end of FY&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;e. usually in real life there will be a difference between total of monthly computation and annual computation.&lt;/div&gt;&lt;div&gt;&amp;gt;&amp;gt;if a person has short claimed ITC in monthly computation, then he can claim the short claimed within the ITC validity period.&lt;/div&gt;&lt;div&gt;&amp;gt;&amp;gt; if a person has taken excess ITC in montly computation, then he has to reverse such excess ITC&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1410" y="18223" width="520" height="137" as="geometry" />
+        </mxCell>
+        <mxCell id="U-4kNF55gbKH13GMOEv1-90" value="Treatment of ITC for Input and Input services" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="542" y="18160" width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="U-4kNF55gbKH13GMOEv1-91" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="U-4kNF55gbKH13GMOEv1-90" target="U-4kNF55gbKH13GMOEv1-92" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U-4kNF55gbKH13GMOEv1-92" value="How much ITC can you claim from Input Tax?" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="582" y="18220" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="U-4kNF55gbKH13GMOEv1-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="U-4kNF55gbKH13GMOEv1-92" target="U-4kNF55gbKH13GMOEv1-100" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U-4kNF55gbKH13GMOEv1-100" value="&lt;div&gt;Input and input services used exclusively for &lt;br&gt;&lt;/div&gt;&lt;div&gt;non biz purpose&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="547" y="18300" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="U-4kNF55gbKH13GMOEv1-101" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="U-4kNF55gbKH13GMOEv1-100" target="U-4kNF55gbKH13GMOEv1-102" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U-4kNF55gbKH13GMOEv1-102" value="ITC&lt;u&gt;&lt;b&gt; #NA&lt;/b&gt;&lt;/u&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="547" y="18390" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="U-4kNF55gbKH13GMOEv1-103" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="U-4kNF55gbKH13GMOEv1-102" target="U-4kNF55gbKH13GMOEv1-104" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U-4kNF55gbKH13GMOEv1-104" value="T2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="587" y="18450" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="U-4kNF55gbKH13GMOEv1-105" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="U-4kNF55gbKH13GMOEv1-92" target="U-4kNF55gbKH13GMOEv1-106" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U-4kNF55gbKH13GMOEv1-106" value="&lt;div&gt;Input and input services used exclusively for &lt;br&gt;&lt;/div&gt;&lt;div&gt;exempt supply&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="407" y="18300" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="U-4kNF55gbKH13GMOEv1-107" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="U-4kNF55gbKH13GMOEv1-106" target="U-4kNF55gbKH13GMOEv1-108" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U-4kNF55gbKH13GMOEv1-108" value="ITC&lt;u&gt;&lt;b&gt; #NA&lt;/b&gt;&lt;/u&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="407" y="18390" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="U-4kNF55gbKH13GMOEv1-109" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="U-4kNF55gbKH13GMOEv1-108" target="U-4kNF55gbKH13GMOEv1-110" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U-4kNF55gbKH13GMOEv1-110" value="T1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="447" y="18450" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="U-4kNF55gbKH13GMOEv1-111" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="U-4kNF55gbKH13GMOEv1-92" target="U-4kNF55gbKH13GMOEv1-112" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U-4kNF55gbKH13GMOEv1-151" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="U-4kNF55gbKH13GMOEv1-112" target="U-4kNF55gbKH13GMOEv1-150">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U-4kNF55gbKH13GMOEv1-112" value="&lt;div&gt;Balance ITC&lt;/div&gt;&lt;div&gt;[&lt;u&gt;&lt;b&gt;Common credit&lt;/b&gt;&lt;/u&gt;]&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="921.76" y="18300" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="U-4kNF55gbKH13GMOEv1-143" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="U-4kNF55gbKH13GMOEv1-92" target="U-4kNF55gbKH13GMOEv1-144" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U-4kNF55gbKH13GMOEv1-144" value="&lt;div&gt;Input and input services used exclusively for &lt;br&gt;&lt;/div&gt;&lt;div&gt;Taxable supply and zero rated supply&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="697.33" y="18300" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="U-4kNF55gbKH13GMOEv1-145" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="U-4kNF55gbKH13GMOEv1-144" target="U-4kNF55gbKH13GMOEv1-146" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U-4kNF55gbKH13GMOEv1-146" value="ITC &lt;u&gt;&lt;b&gt;Available&lt;/b&gt;&lt;/u&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="697.33" y="18400" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="U-4kNF55gbKH13GMOEv1-147" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" source="U-4kNF55gbKH13GMOEv1-146" target="U-4kNF55gbKH13GMOEv1-148" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U-4kNF55gbKH13GMOEv1-148" value="T3" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="737.33" y="18460" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="U-4kNF55gbKH13GMOEv1-150" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Step 1&lt;/b&gt;&lt;/u&gt;: Take ITC of entire tax paid for common capital goods in the month of purchase [`T_c`]&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;Step 2&lt;/b&gt;&lt;/u&gt;: Compute credit attributable to 1 month&lt;/div&gt;&lt;div&gt;`[T_m=T_c/(60 months(~5yrs))]`&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;Step 3&lt;/b&gt;&lt;/u&gt;: Compute ITC reversal on a monthly basics&lt;/div&gt;&lt;div&gt;`[T_e=T_mxxE/F]`&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="842" y="18360" width="280" height="200" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
