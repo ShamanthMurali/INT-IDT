@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-09-02T23:35:46.220Z" agent="5.0 (X11)" etag="BZjt0RGe2giAjXzud8g_" version="15.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-02T23:47:36.543Z" agent="5.0 (X11)" etag="0QiWXUYYDZe-xb5mrmJT" version="15.0.6" type="github">
   <diagram id="EEIt5sJKhKLN3RtG8xfO" name="Page-1">
-    <mxGraphModel dx="1900" dy="-577" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="2650" dy="-204" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1824,6 +1824,9 @@
         </mxCell>
         <mxCell id="U-4kNF55gbKH13GMOEv1-195" value="&lt;div&gt;Can claim ITC on stock of inputs(Not capital goods) as on the date immediately preceding the effective date of registration&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Note : If Invoice is older Than 1 year then no ITC&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="20320" width="280" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="U-4kNF55gbKH13GMOEv1-199" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i.imgur.com/iXYtztk.png;" vertex="1" parent="1">
+          <mxGeometry x="320" y="20440" width="520" height="199" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
