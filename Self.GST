@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-09-04T00:01:28.453Z" agent="5.0 (X11)" etag="l8ryCJEih4ImD3BDTSXk" version="15.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-04T00:04:06.499Z" agent="5.0 (X11)" etag="k6vxAxTGy0_iNsM_6Be9" version="15.0.6" type="github">
   <diagram id="EEIt5sJKhKLN3RtG8xfO" name="Page-1">
-    <mxGraphModel dx="1716" dy="-668" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="5037" dy="990" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2238,11 +2238,17 @@
         <mxCell id="Y9G3oqWJd6a6k3pHgSCE-76" value="Separate tax invoice" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="758.9" y="27810" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-79" value="A registered person may issue a Consolidated Revised Tax Invoice in respect of all&lt;br&gt;&lt;div&gt;taxable supplies made&lt;u&gt;&lt;b&gt; &lt;/b&gt;&lt;/u&gt;to an unregistered recipient during such period.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;but, in case of &lt;br&gt;&lt;/div&gt;&lt;div&gt;inter-State supplies &amp;gt; 2,50,000 issued to URP, &lt;br&gt;&lt;/div&gt;&lt;div&gt;a consolidated Revised Tax Invoice cannot be issued, separate is required&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-79" value="A registered person may issue a Consolidated Revised Tax Invoice in respect of all&lt;br&gt;&lt;div&gt;taxable supplies made&lt;u&gt;&lt;b&gt; &lt;/b&gt;&lt;/u&gt;to an unregistered recipient during such period.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;but, in case of &lt;br&gt;&lt;/div&gt;&lt;div&gt;inter-State supplies &amp;gt; 2,50,000 issued to URP, &lt;br&gt;&lt;/div&gt;&lt;div&gt;a consolidated Revised Tax Invoice cannot be issued, separate invoice is required&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="27870" width="280.49" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-80" value="A registered person may issue a Consolidated Revised Tax Invoice in respect of all&lt;br&gt;&lt;div&gt;taxable supplies made, if &lt;u&gt;&lt;b&gt;all the 3&lt;/b&gt;&lt;/u&gt; conditions are satisfied:&lt;/div&gt;&lt;div&gt;1. Price &amp;lt; Rs.200 (less than, not 200)&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. URP&lt;/div&gt;&lt;div&gt;3. Recipient does not require Invoice&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt; to an unregistered recipient during such period. However, in case&lt;/div&gt;of inter-State supplies, a consolidated Revised Tax Invoice cannot be issued in respect of&lt;br&gt;all unregistered recipients if the value of a supply exceeds n 2,50,000." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="712" y="28040" width="280.49" height="120" as="geometry" />
+        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-80" value="A registered person may issue a Consolidated Revised Tax Invoice in respect of all&lt;br&gt;&lt;div&gt;taxable supplies made, if &lt;u&gt;&lt;b&gt;all the 3&lt;/b&gt;&lt;/u&gt; conditions are satisfied:&lt;/div&gt;&lt;div&gt;1. Price &amp;lt; Rs.200 (less than, not 200)&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. URP&lt;/div&gt;&lt;div&gt;3. Recipient does not require Invoice&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Else, issue Separate Tax invoice&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="541.51" y="28120" width="280.49" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Y9G3oqWJd6a6k3pHgSCE-84" target="Y9G3oqWJd6a6k3pHgSCE-80">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-84" value="&lt;div&gt;Consolidated &lt;br&gt;&lt;/div&gt;&lt;div&gt;tax invoice&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="622" y="28060" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
