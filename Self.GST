@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-09-03T15:53:26.407Z" agent="5.0 (X11)" etag="hB-H3O_0zNaAHEbYQd-U" version="15.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-03T16:07:14.066Z" agent="5.0 (X11)" etag="tPRjB_RL_JztGsl_miFE" version="15.0.6" type="github">
   <diagram id="EEIt5sJKhKLN3RtG8xfO" name="Page-1">
-    <mxGraphModel dx="2100" dy="-473" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="2321" dy="-362" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1906,7 +1906,7 @@
         <mxCell id="suF2Vhae9oAxZ9KQlgGn-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="suF2Vhae9oAxZ9KQlgGn-24" target="suF2Vhae9oAxZ9KQlgGn-27">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="suF2Vhae9oAxZ9KQlgGn-24" value="&lt;div&gt;Part b&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. Fill specific details&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. Aadhaar authentication***&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;-&amp;gt; application forwarded to proper officer(PO)&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="suF2Vhae9oAxZ9KQlgGn-24" value="&lt;div&gt;Part b&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. Fill specific details&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. Aadhaar authentication (Note 1)&lt;br&gt;&lt;/div&gt;&lt;div&gt;(Optional)&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;-&amp;gt; application forwarded to proper officer(PO)&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="519.58" y="23420" width="200.42" height="140" as="geometry" />
         </mxCell>
         <mxCell id="suF2Vhae9oAxZ9KQlgGn-26" value="PO satisfied" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -1966,8 +1966,19 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="suF2Vhae9oAxZ9KQlgGn-44" value="&lt;div&gt;PO shall respond within 7* days, if not then deemed registration&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;However if aadhaar authentication*** was not done(Skipped) it will be 30 days instead of 7*&lt;br&gt;&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;size=0.0625;" vertex="1" parent="1">
-          <mxGeometry x="840" y="23640" width="310" height="80" as="geometry" />
+        <mxCell id="suF2Vhae9oAxZ9KQlgGn-44" value="&lt;div&gt;PO shall respond within 7*(or 15 or 30`.^((\text{see note 1}))`) days, if not then deemed registration&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;size=0.0625;" vertex="1" parent="1">
+          <mxGeometry x="840" y="23640" width="390" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="suF2Vhae9oAxZ9KQlgGn-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.999;entryY=0.545;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="suF2Vhae9oAxZ9KQlgGn-50" target="suF2Vhae9oAxZ9KQlgGn-24">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="770" y="23476" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="suF2Vhae9oAxZ9KQlgGn-50" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i.imgur.com/iXFZhDe.png;" vertex="1" parent="1">
+          <mxGeometry x="842" y="23220" width="520" height="221" as="geometry" />
+        </mxCell>
+        <mxCell id="suF2Vhae9oAxZ9KQlgGn-51" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i.imgur.com/VgKbCVl.png;" vertex="1" parent="1">
+          <mxGeometry x="842" y="23441" width="520" height="175" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
