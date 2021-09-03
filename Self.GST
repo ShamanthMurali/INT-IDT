@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-03T22:51:29.850Z" agent="5.0 (X11)" etag="JoO7Euiyqq-aZEDzi7-k" version="15.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-03T23:07:49.368Z" agent="5.0 (X11)" etag="JFrr0-5hzOP3aYh1DHZd" version="15.0.6" type="github">
   <diagram id="EEIt5sJKhKLN3RtG8xfO" name="Page-1">
     <mxGraphModel dx="1716" dy="-668" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
@@ -2043,14 +2043,77 @@
         <mxCell id="Y9G3oqWJd6a6k3pHgSCE-3" value="For service" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="719.76" y="26280" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Y9G3oqWJd6a6k3pHgSCE-4" target="Y9G3oqWJd6a6k3pHgSCE-8">
+        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Y9G3oqWJd6a6k3pHgSCE-4" target="Y9G3oqWJd6a6k3pHgSCE-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-4" value="For goods" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="399.58" y="26280" width="120" height="40" as="geometry" />
+        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Y9G3oqWJd6a6k3pHgSCE-4" target="Y9G3oqWJd6a6k3pHgSCE-12">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-8" value="&lt;div&gt;shall issue tax invoice,&lt;/div&gt;&lt;div&gt; before or at the time of-&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1) Removal of goods for supply to the recipient, where supply involves movement of goods; &lt;br&gt;&lt;/div&gt;&lt;div&gt;or&lt;/div&gt;2) Delivery of goods or making available to recipient" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="319.51" y="26340" width="280.49" height="110" as="geometry" />
+        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Y9G3oqWJd6a6k3pHgSCE-4" target="Y9G3oqWJd6a6k3pHgSCE-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Y9G3oqWJd6a6k3pHgSCE-4" target="Y9G3oqWJd6a6k3pHgSCE-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-4" value="Invoice to be issued For goods" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270.58" y="26280" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Y9G3oqWJd6a6k3pHgSCE-10" target="Y9G3oqWJd6a6k3pHgSCE-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-10" value="Supply involves movement" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="26360" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Y9G3oqWJd6a6k3pHgSCE-11" target="Y9G3oqWJd6a6k3pHgSCE-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-11" value="Supply does not involves movement" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="26360" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Y9G3oqWJd6a6k3pHgSCE-12" target="Y9G3oqWJd6a6k3pHgSCE-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-12" value="Sale on approval&lt;span style=&quot;white-space: pre&quot;&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="339.9999999999999" y="26360" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Y9G3oqWJd6a6k3pHgSCE-13" target="Y9G3oqWJd6a6k3pHgSCE-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-13" value="Continues supply of goods" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="479.9999999999999" y="26360" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-14" value="Before or on date of removal" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;" vertex="1" parent="1">
+          <mxGeometry x="59.27000000000001" y="26420" width="120.24" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-16" value="Before or on the date of making available" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;" vertex="1" parent="1">
+          <mxGeometry x="199.76" y="26420" width="120.24" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-18" value="&lt;div&gt;Before or on the date of acceptance&lt;/div&gt;&lt;div&gt;or&lt;/div&gt;&lt;div&gt;6m from date of removal &lt;br&gt;&lt;/div&gt;&lt;div&gt;[Which ever is earlier]&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;" vertex="1" parent="1">
+          <mxGeometry x="340.01" y="26420" width="120.24" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-20" value="Before or on the date of Statement&lt;span style=&quot;white-space: pre&quot;&gt;&lt;/span&gt;&lt;br&gt;or&lt;br&gt;date of payment" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="26420" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Y9G3oqWJd6a6k3pHgSCE-26" target="Y9G3oqWJd6a6k3pHgSCE-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Y9G3oqWJd6a6k3pHgSCE-26" target="Y9G3oqWJd6a6k3pHgSCE-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Y9G3oqWJd6a6k3pHgSCE-26" target="Y9G3oqWJd6a6k3pHgSCE-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-26" value="Continues supply of service" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="759.5099999999999" y="26360" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-27" value="Continues supply of service" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="621.9999999999999" y="26440" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-28" value="Continues supply of service" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="760.2499999999999" y="26440" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-29" value="Continues supply of service" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="899.9999999999999" y="26440" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
