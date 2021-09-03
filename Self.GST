@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-09-03T16:44:31.987Z" agent="5.0 (X11)" etag="MaiXQVHFbcd8FDH9LQ3g" version="15.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-03T18:11:15.608Z" agent="5.0 (X11)" etag="MKtw8z1G9OC--qKchQCf" version="15.0.6" type="github">
   <diagram id="EEIt5sJKhKLN3RtG8xfO" name="Page-1">
-    <mxGraphModel dx="1564" dy="-742" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="1892" dy="-577" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1996,13 +1996,34 @@
           <mxGeometry x="405" y="24390" width="520" height="36" as="geometry" />
         </mxCell>
         <mxCell id="suF2Vhae9oAxZ9KQlgGn-57" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i.imgur.com/JM2OMRn.png;" vertex="1" parent="1">
-          <mxGeometry x="360" y="24700" width="520" height="250" as="geometry" />
+          <mxGeometry x="359.51" y="24700" width="520" height="250" as="geometry" />
         </mxCell>
         <mxCell id="suF2Vhae9oAxZ9KQlgGn-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="suF2Vhae9oAxZ9KQlgGn-58" target="suF2Vhae9oAxZ9KQlgGn-57">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="suF2Vhae9oAxZ9KQlgGn-58" value="Change info after registration?" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="559.51" y="24640" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="suF2Vhae9oAxZ9KQlgGn-62" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i.imgur.com/q7tKUr1.png;" vertex="1" parent="1">
+          <mxGeometry x="359.51" y="24950" width="520" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="suF2Vhae9oAxZ9KQlgGn-63" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i.imgur.com/Oid4S64.png;" vertex="1" parent="1">
+          <mxGeometry x="390" y="25090" width="520" height="336" as="geometry" />
+        </mxCell>
+        <mxCell id="suF2Vhae9oAxZ9KQlgGn-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="suF2Vhae9oAxZ9KQlgGn-64" target="suF2Vhae9oAxZ9KQlgGn-63">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="suF2Vhae9oAxZ9KQlgGn-64" value="Circumstances where registration could be cancelled" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="25030" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="suF2Vhae9oAxZ9KQlgGn-67" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i.imgur.com/frjFsTk.png;" vertex="1" parent="1">
+          <mxGeometry x="390" y="25426" width="520" height="181" as="geometry" />
+        </mxCell>
+        <mxCell id="suF2Vhae9oAxZ9KQlgGn-68" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i.imgur.com/LWp8H1r.png;" vertex="1" parent="1">
+          <mxGeometry x="390" y="25607" width="520" height="137" as="geometry" />
+        </mxCell>
+        <mxCell id="suF2Vhae9oAxZ9KQlgGn-69" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i.imgur.com/Yi6VsuV.png;" vertex="1" parent="1">
+          <mxGeometry x="380" y="25770" width="520" height="296" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
