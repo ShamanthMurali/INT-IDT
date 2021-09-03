@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-09-04T00:04:06.499Z" agent="5.0 (X11)" etag="k6vxAxTGy0_iNsM_6Be9" version="15.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-04T00:16:40.772Z" agent="5.0 (X11)" etag="8E8DWbHnlweSyH3Gwl3U" version="15.0.6" type="github">
   <diagram id="EEIt5sJKhKLN3RtG8xfO" name="Page-1">
-    <mxGraphModel dx="5037" dy="990" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="1716" dy="-668" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2249,6 +2249,9 @@
         </mxCell>
         <mxCell id="Y9G3oqWJd6a6k3pHgSCE-84" value="&lt;div&gt;Consolidated &lt;br&gt;&lt;/div&gt;&lt;div&gt;tax invoice&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="622" y="28060" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-87" value="&lt;u&gt;&lt;b&gt;Bill of Supply&lt;/b&gt;&lt;/u&gt;&lt;br&gt;A registered person supplying exempted goods or services or both or paying tax under&lt;br&gt;&lt;div&gt;composition levy shall issue a bill of supply instead of a tax invoice&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;Invoice cum Bill of Supply&lt;/b&gt;&lt;/u&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;A registered person supplying exempted and taxable goods or services may issue an invoice cum bill of supply instead of a tax invoice and bill of supply separately.&lt;/div&gt;&lt;div&gt;(i.e. Invoice for taxable and Bill of supply for exempt both)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;Receipt voucher&lt;/b&gt;&lt;/u&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;A registered person shall, on receipt of advance payment with respect to any supply of&lt;br&gt;goods or services or both, issue a receipt voucher or any other document, evidencing receipt of such payment.&lt;br&gt;Where at the time of receipt of advance,&lt;br&gt;1) the rate of tax is not determinable, the tax shall be paid at the rate of 18%;&lt;br&gt;2) the nature of supply is not determinable, the same shall be treated as inter-State supply.&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;Refund voucher&lt;/b&gt;&lt;/u&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Where, on receipt of advance payment with respect to any supply or goods or services or&lt;br&gt;both the registered person issues a receipt voucher, but subsequently no supply is made and no tax invoice is issued in pursuance thereof, the said registered person may issue to the person who had made the payment, a refund voucher against such payment.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;Payment Voucher&lt;/b&gt;&lt;/u&gt;&lt;br&gt;A registered person who is liable to pay tax under RCM shall issue a Payment Voucher&lt;/div&gt;&lt;div&gt; at the time of making payment to the supplier.&lt;/div&gt;&lt;div&gt;[recipient will himself issue voucher]&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="438.66" y="28280" width="481.34" height="440" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
