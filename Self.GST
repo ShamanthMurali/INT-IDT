@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-09-04T00:25:44.036Z" agent="5.0 (X11)" etag="yAiEQctwagOcACbo9AsN" version="15.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-04T00:40:06.635Z" agent="5.0 (X11)" etag="hChKW8h9ltnYtKZM9MT0" version="15.0.6" type="github">
   <diagram id="EEIt5sJKhKLN3RtG8xfO" name="Page-1">
-    <mxGraphModel dx="1897" dy="-577" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="2943" dy="-55" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2296,6 +2296,15 @@
         </mxCell>
         <mxCell id="Y9G3oqWJd6a6k3pHgSCE-98" value="Payment voucher is issued by recipient" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="622.12" y="28870" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-104" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Y9G3oqWJd6a6k3pHgSCE-102" target="Y9G3oqWJd6a6k3pHgSCE-103">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-102" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i.imgur.com/qg0SKfj.png;" vertex="1" parent="1">
+          <mxGeometry x="417.5" y="28950" width="520" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-103" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Delivery Challan&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt; A consignor may issue a delivery challan in lieu&lt;/div&gt;&lt;div&gt; of invoice at the time of removal of goods for transportation of:&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1.)supply of liquid gas where invoice is issued on quantity at the &lt;br&gt;&lt;/div&gt;&lt;div&gt;time of removal at the place of recipient&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2.) supply of the art work on approval basis&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3.) transportation of goods for job work&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;4/) transportation of goods for reasons other than by way of supply.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;5.)&amp;nbsp; Such other supplies as may be notified by the Board." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="495.91999999999996" y="29370" width="363.17" height="260" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
