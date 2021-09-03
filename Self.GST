@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-09-03T15:24:13.085Z" agent="5.0 (X11)" etag="1TIdt8uAfZBA93ZcedI9" version="15.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-03T15:53:26.407Z" agent="5.0 (X11)" etag="hB-H3O_0zNaAHEbYQd-U" version="15.0.6" type="github">
   <diagram id="EEIt5sJKhKLN3RtG8xfO" name="Page-1">
-    <mxGraphModel dx="25850" dy="11440" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="2100" dy="-473" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1881,6 +1881,93 @@
         </mxCell>
         <mxCell id="suF2Vhae9oAxZ9KQlgGn-18" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i.imgur.com/p3KbZhZ.png;" vertex="1" parent="1">
           <mxGeometry x="407" y="22854" width="520" height="188" as="geometry" />
+        </mxCell>
+        <mxCell id="suF2Vhae9oAxZ9KQlgGn-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="suF2Vhae9oAxZ9KQlgGn-19" target="suF2Vhae9oAxZ9KQlgGn-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="suF2Vhae9oAxZ9KQlgGn-19" value="Registration process" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="559.76" y="23080" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="suF2Vhae9oAxZ9KQlgGn-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="suF2Vhae9oAxZ9KQlgGn-20" target="suF2Vhae9oAxZ9KQlgGn-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="suF2Vhae9oAxZ9KQlgGn-20" value="GST.GOV.IN" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="23140" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="suF2Vhae9oAxZ9KQlgGn-25" value="Temporary Reference Number (TRN)" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="suF2Vhae9oAxZ9KQlgGn-22" target="suF2Vhae9oAxZ9KQlgGn-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="suF2Vhae9oAxZ9KQlgGn-22" value="&lt;div&gt;Part A&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. Provide&lt;/div&gt;&lt;div&gt;-&amp;gt; PAN&lt;/div&gt;&lt;div&gt;-&amp;gt; Mobile no.&lt;/div&gt;&lt;div&gt;-&amp;gt; E-mail&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. Verify 2 OTP&#39;s&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. submit&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="519.58" y="23200" width="200.42" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="suF2Vhae9oAxZ9KQlgGn-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="suF2Vhae9oAxZ9KQlgGn-24" target="suF2Vhae9oAxZ9KQlgGn-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="suF2Vhae9oAxZ9KQlgGn-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="suF2Vhae9oAxZ9KQlgGn-24" target="suF2Vhae9oAxZ9KQlgGn-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="suF2Vhae9oAxZ9KQlgGn-24" value="&lt;div&gt;Part b&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. Fill specific details&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. Aadhaar authentication***&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;-&amp;gt; application forwarded to proper officer(PO)&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="519.58" y="23420" width="200.42" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="suF2Vhae9oAxZ9KQlgGn-26" value="PO satisfied" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="23600" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="suF2Vhae9oAxZ9KQlgGn-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="suF2Vhae9oAxZ9KQlgGn-27" target="suF2Vhae9oAxZ9KQlgGn-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="suF2Vhae9oAxZ9KQlgGn-27" value="PO not satisfied" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640.25" y="23600" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="suF2Vhae9oAxZ9KQlgGn-30" value="Grant of registration" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="23660" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="suF2Vhae9oAxZ9KQlgGn-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="suF2Vhae9oAxZ9KQlgGn-31" target="suF2Vhae9oAxZ9KQlgGn-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="suF2Vhae9oAxZ9KQlgGn-31" value="&lt;div&gt;PO will issue a&lt;/div&gt;&lt;div&gt; notice&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="639.76" y="23660" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="suF2Vhae9oAxZ9KQlgGn-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="suF2Vhae9oAxZ9KQlgGn-32" target="suF2Vhae9oAxZ9KQlgGn-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="suF2Vhae9oAxZ9KQlgGn-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="suF2Vhae9oAxZ9KQlgGn-32" target="suF2Vhae9oAxZ9KQlgGn-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="suF2Vhae9oAxZ9KQlgGn-32" value="Applicant to reply with in 7 working days" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="639.76" y="23720" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="suF2Vhae9oAxZ9KQlgGn-38" value="PO satisfied" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="559.51" y="23800" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="suF2Vhae9oAxZ9KQlgGn-39" value="PO not satisfied" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="719.76" y="23800" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="suF2Vhae9oAxZ9KQlgGn-42" value="Grant of registration" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="23860" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="suF2Vhae9oAxZ9KQlgGn-43" value="Application rejected" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="23860" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="suF2Vhae9oAxZ9KQlgGn-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="suF2Vhae9oAxZ9KQlgGn-44">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="730" y="23580" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="810" y="23680" />
+              <mxPoint x="810" y="23580" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="suF2Vhae9oAxZ9KQlgGn-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="suF2Vhae9oAxZ9KQlgGn-44">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="780" y="23771.904761904763" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="810" y="23680" />
+              <mxPoint x="810" y="23772" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="suF2Vhae9oAxZ9KQlgGn-44" value="&lt;div&gt;PO shall respond within 7* days, if not then deemed registration&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;However if aadhaar authentication*** was not done(Skipped) it will be 30 days instead of 7*&lt;br&gt;&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;size=0.0625;" vertex="1" parent="1">
+          <mxGeometry x="840" y="23640" width="310" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
