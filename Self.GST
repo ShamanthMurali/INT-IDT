@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-03T11:19:24.466Z" agent="5.0 (X11)" etag="rsFjrYknAS54tsN-Jn0i" version="15.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-03T11:44:13.657Z" agent="5.0 (X11)" etag="MXxhBbekVlckUOuPB1iq" version="15.0.6" type="github">
   <diagram id="EEIt5sJKhKLN3RtG8xfO" name="Page-1">
     <mxGraphModel dx="2100" dy="-473" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
@@ -1839,6 +1839,18 @@
         </mxCell>
         <mxCell id="suF2Vhae9oAxZ9KQlgGn-1" value="Payment of GST" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="21000" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="suF2Vhae9oAxZ9KQlgGn-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="suF2Vhae9oAxZ9KQlgGn-3" target="suF2Vhae9oAxZ9KQlgGn-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="suF2Vhae9oAxZ9KQlgGn-3" value="Registration" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="21320" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="suF2Vhae9oAxZ9KQlgGn-4" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i.imgur.com/DirytCp.png;" vertex="1" parent="1">
+          <mxGeometry x="399.13" y="21551" width="350.87" height="139" as="geometry" />
+        </mxCell>
+        <mxCell id="suF2Vhae9oAxZ9KQlgGn-5" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i.imgur.com/YfK5szm.png;" vertex="1" parent="1">
+          <mxGeometry x="319.76" y="21400" width="520" height="151" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
