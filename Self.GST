@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-09-04T00:40:06.635Z" agent="5.0 (X11)" etag="hChKW8h9ltnYtKZM9MT0" version="15.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-04T00:57:26.862Z" agent="5.0 (X11)" etag="BR_XiY27xTqYa2pqldLr" version="15.0.6" type="github">
   <diagram id="EEIt5sJKhKLN3RtG8xfO" name="Page-1">
-    <mxGraphModel dx="2943" dy="-55" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="5874" dy="1408" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2305,6 +2305,49 @@
         </mxCell>
         <mxCell id="Y9G3oqWJd6a6k3pHgSCE-103" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Delivery Challan&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt; A consignor may issue a delivery challan in lieu&lt;/div&gt;&lt;div&gt; of invoice at the time of removal of goods for transportation of:&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1.)supply of liquid gas where invoice is issued on quantity at the &lt;br&gt;&lt;/div&gt;&lt;div&gt;time of removal at the place of recipient&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2.) supply of the art work on approval basis&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3.) transportation of goods for job work&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;4/) transportation of goods for reasons other than by way of supply.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;5.)&amp;nbsp; Such other supplies as may be notified by the Board." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="495.91999999999996" y="29370" width="363.17" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-114" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Y9G3oqWJd6a6k3pHgSCE-106" target="Y9G3oqWJd6a6k3pHgSCE-110">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-106" value="&lt;u&gt;&lt;b&gt;credit note&lt;/b&gt;&lt;/u&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="428.65" y="29660" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-116" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Y9G3oqWJd6a6k3pHgSCE-107" target="Y9G3oqWJd6a6k3pHgSCE-115">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-107" value="&lt;u&gt;&lt;b&gt;debit note&lt;/b&gt;&lt;/u&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="808" y="29660" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-118" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Y9G3oqWJd6a6k3pHgSCE-109" target="Y9G3oqWJd6a6k3pHgSCE-117">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="488" y="30060" />
+              <mxPoint x="678" y="30060" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-109" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Last date to issue credit note&lt;/b&gt;&lt;/u&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. &lt;u&gt;Due date&lt;/u&gt; for filing September months return(i.e.20th oct) after the FY&lt;/div&gt;&lt;div&gt;or&lt;/div&gt;&lt;div&gt;2. &lt;u&gt;Date&lt;/u&gt; of filing annual return&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;[Which ever is earlier]&lt;/b&gt;&lt;/u&gt;&lt;br&gt; &lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="328" y="29900" width="320" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-111" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Y9G3oqWJd6a6k3pHgSCE-110" target="Y9G3oqWJd6a6k3pHgSCE-109">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-110" value="&lt;br&gt;&lt;div&gt;Supplier of goods or services or both may issue one or more credit notes in the following cases&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;1.) where the taxable value or tax charged in one or more invoices issued is found to be in excess of the taxable value or tax payable in respect of such supply, or&lt;br&gt;2.) where the goods supplied are returned by the recipient, or&lt;br&gt;3.) where goods or services or both supplied are found to be deficient." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="308" y="29720" width="360" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-119" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Y9G3oqWJd6a6k3pHgSCE-115" target="Y9G3oqWJd6a6k3pHgSCE-117">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="868" y="30060" />
+              <mxPoint x="678" y="30060" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-115" value="Supplier of goods or services or both may issue one or more debit note in a case where the taxable value or tax charged in the one or more invoices issued is found to be in less than the taxable value or tax payable in respect of such supply." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="688" y="29720" width="360" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-117" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i.imgur.com/1c3qaiN.png;" vertex="1" parent="1">
+          <mxGeometry x="417.51" y="30080" width="520" height="144" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
