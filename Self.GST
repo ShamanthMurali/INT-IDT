@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-09-04T00:22:14.997Z" agent="5.0 (X11)" etag="NRKLSzJu9maBMPKBDq8H" version="15.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-04T00:25:44.036Z" agent="5.0 (X11)" etag="yAiEQctwagOcACbo9AsN" version="15.0.6" type="github">
   <diagram id="EEIt5sJKhKLN3RtG8xfO" name="Page-1">
-    <mxGraphModel dx="2106" dy="-473" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="1897" dy="-577" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2241,6 +2241,9 @@
         <mxCell id="Y9G3oqWJd6a6k3pHgSCE-79" value="A registered person may issue a Consolidated Revised Tax Invoice in respect of all&lt;br&gt;&lt;div&gt;taxable supplies made&lt;u&gt;&lt;b&gt; &lt;/b&gt;&lt;/u&gt;to an unregistered recipient during such period.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;but, in case of &lt;br&gt;&lt;/div&gt;&lt;div&gt;inter-State supplies &amp;gt; 2,50,000 issued to URP, &lt;br&gt;&lt;/div&gt;&lt;div&gt;a consolidated Revised Tax Invoice cannot be issued, separate invoice is required&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="27870" width="280.49" height="150" as="geometry" />
         </mxCell>
+        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-101" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Y9G3oqWJd6a6k3pHgSCE-80" target="Y9G3oqWJd6a6k3pHgSCE-87">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Y9G3oqWJd6a6k3pHgSCE-80" value="A registered person may issue a Consolidated Revised Tax Invoice in respect of all&lt;br&gt;&lt;div&gt;taxable supplies made, if &lt;u&gt;&lt;b&gt;all the 3&lt;/b&gt;&lt;/u&gt; conditions are satisfied:&lt;/div&gt;&lt;div&gt;1. Price &amp;lt; Rs.200 (less than, not 200)&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. URP&lt;/div&gt;&lt;div&gt;3. Recipient does not require Invoice&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Else, issue Separate Tax invoice&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="541.51" y="28120" width="280.49" height="140" as="geometry" />
         </mxCell>
@@ -2251,7 +2254,7 @@
           <mxGeometry x="622" y="28060" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Y9G3oqWJd6a6k3pHgSCE-87" value="&lt;u&gt;&lt;b&gt;Bill of Supply&lt;/b&gt;&lt;/u&gt;&lt;br&gt;A registered person supplying exempted goods or services or both or paying tax under&lt;br&gt;&lt;div&gt;composition levy shall issue a bill of supply instead of a tax invoice&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;Invoice cum Bill of Supply&lt;/b&gt;&lt;/u&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;A registered person supplying exempted and taxable goods or services may issue an invoice cum bill of supply instead of a tax invoice and bill of supply separately.&lt;/div&gt;&lt;div&gt;(i.e. Invoice for taxable and Bill of supply for exempt both)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;Receipt voucher&lt;/b&gt;&lt;/u&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;A registered person shall, on receipt of advance payment with respect to any supply of&lt;br&gt;goods or services or both, issue a receipt voucher or any other document, evidencing receipt of such payment.&lt;br&gt;Where at the time of receipt of advance,&lt;br&gt;1) the rate of tax is not determinable, the tax shall be paid at the rate of 18%;&lt;br&gt;2) the nature of supply is not determinable, the same shall be treated as inter-State supply.&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;Refund voucher&lt;/b&gt;&lt;/u&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Where, on receipt of advance payment with respect to any supply or goods or services or&lt;br&gt;both the registered person issues a receipt voucher, but subsequently no supply is made and no tax invoice is issued in pursuance thereof, the said registered person may issue to the person who had made the payment, a refund voucher against such payment.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="438.66" y="28280" width="481.34" height="330" as="geometry" />
+          <mxGeometry x="441.08000000000004" y="28280" width="481.34" height="330" as="geometry" />
         </mxCell>
         <mxCell id="Y9G3oqWJd6a6k3pHgSCE-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Y9G3oqWJd6a6k3pHgSCE-88" target="Y9G3oqWJd6a6k3pHgSCE-91">
           <mxGeometry relative="1" as="geometry" />
@@ -2260,39 +2263,39 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Y9G3oqWJd6a6k3pHgSCE-88" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Payment Voucher&lt;/b&gt;&lt;/u&gt;&lt;br&gt;A registered person who is liable to pay tax under RCM shall issue a Payment Voucher&lt;/div&gt;&lt;div&gt; at the time of making payment to the supplier. and invoice will be...&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="438.66" y="28610" width="481.34" height="70" as="geometry" />
+          <mxGeometry x="441.45000000000005" y="28610" width="481.34" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Y9G3oqWJd6a6k3pHgSCE-96" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Y9G3oqWJd6a6k3pHgSCE-90" target="Y9G3oqWJd6a6k3pHgSCE-95">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Y9G3oqWJd6a6k3pHgSCE-90" value="Supplier is unregistered" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="718.48" y="28720" width="120" height="40" as="geometry" />
+          <mxGeometry x="721.27" y="28720" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Y9G3oqWJd6a6k3pHgSCE-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Y9G3oqWJd6a6k3pHgSCE-91" target="Y9G3oqWJd6a6k3pHgSCE-94">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Y9G3oqWJd6a6k3pHgSCE-91" value="Supplier is registered" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="519.58" y="28720" width="120" height="40" as="geometry" />
+          <mxGeometry x="522.37" y="28720" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Y9G3oqWJd6a6k3pHgSCE-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Y9G3oqWJd6a6k3pHgSCE-94" target="Y9G3oqWJd6a6k3pHgSCE-98">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="580" y="28850" />
-              <mxPoint x="679" y="28850" />
+              <mxPoint x="582.79" y="28850" />
+              <mxPoint x="681.79" y="28850" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="Y9G3oqWJd6a6k3pHgSCE-94" value="Invoice issued by supplier" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="519.58" y="28780" width="120" height="40" as="geometry" />
+          <mxGeometry x="522.37" y="28780" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Y9G3oqWJd6a6k3pHgSCE-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Y9G3oqWJd6a6k3pHgSCE-95" target="Y9G3oqWJd6a6k3pHgSCE-98">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Y9G3oqWJd6a6k3pHgSCE-95" value="Invoice issued by Recipient on behalf of supplier" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="718.48" y="28780" width="120" height="50" as="geometry" />
+          <mxGeometry x="721.27" y="28780" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Y9G3oqWJd6a6k3pHgSCE-98" value="Payment voucher is issued by recipient" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="619.33" y="28870" width="120" height="40" as="geometry" />
+          <mxGeometry x="622.12" y="28870" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
