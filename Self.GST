@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-03T23:14:52.114Z" agent="5.0 (X11)" etag="x6AmlVZ-nNm7eVSIpXVR" version="15.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-03T23:38:28.473Z" agent="5.0 (X11)" etag="gkTBIXvy28aWRC--JFu8" version="15.0.6" type="github">
   <diagram id="EEIt5sJKhKLN3RtG8xfO" name="Page-1">
     <mxGraphModel dx="1716" dy="-668" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
@@ -2147,6 +2147,66 @@
         </mxCell>
         <mxCell id="Y9G3oqWJd6a6k3pHgSCE-43" value="&lt;div&gt;Within 30* days from the date of completion&lt;/div&gt;&lt;div&gt;(*45 days in case of banking/ NBFC)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;" vertex="1" parent="1">
           <mxGeometry x="1040.5" y="26420" width="198.99" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-48" value="How many copies?" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="542" y="26600" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Y9G3oqWJd6a6k3pHgSCE-48" target="Y9G3oqWJd6a6k3pHgSCE-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-49" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
+          <mxGeometry x="481.79" y="26660" width="280.42" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-50" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="Y9G3oqWJd6a6k3pHgSCE-49">
+          <mxGeometry width="280.42" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-51" value="Case" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="Y9G3oqWJd6a6k3pHgSCE-50">
+          <mxGeometry width="81" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-52" value="Number of copies" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="Y9G3oqWJd6a6k3pHgSCE-50">
+          <mxGeometry x="81" width="199" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-53" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="Y9G3oqWJd6a6k3pHgSCE-49">
+          <mxGeometry y="40" width="280.42" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-54" value="Goods" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="Y9G3oqWJd6a6k3pHgSCE-53">
+          <mxGeometry width="81" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-55" value="&lt;div&gt;3 copies - &lt;br&gt;&lt;/div&gt;&lt;div&gt;original for recipient,&lt;/div&gt;&lt;div&gt;Duplicate for transporter&lt;/div&gt;&lt;div&gt;Triplicate for supplier&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="Y9G3oqWJd6a6k3pHgSCE-53">
+          <mxGeometry x="81" width="199" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-56" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="Y9G3oqWJd6a6k3pHgSCE-49">
+          <mxGeometry y="120" width="280.42" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-57" value="Services" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="Y9G3oqWJd6a6k3pHgSCE-56">
+          <mxGeometry width="81" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-58" value="&lt;div&gt;2 copies - &lt;br&gt;&lt;/div&gt;&lt;div&gt;original for recipient,&lt;/div&gt;&lt;div&gt;Duplicate for supplier&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="Y9G3oqWJd6a6k3pHgSCE-56">
+          <mxGeometry x="81" width="199" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Y9G3oqWJd6a6k3pHgSCE-61" target="Y9G3oqWJd6a6k3pHgSCE-62">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-61" value="Contents of invoice" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="26880" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-62" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i.imgur.com/yWI2qD1.png;" vertex="1" parent="1">
+          <mxGeometry x="383.51" y="26940" width="472" height="420" as="geometry" />
+        </mxCell>
+        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Y9G3oqWJd6a6k3pHgSCE-65" target="Y9G3oqWJd6a6k3pHgSCE-67">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-65" value="&lt;font style=&quot;font-size: 14px&quot;&gt;Xiv) Harmonized system of nomenclature(HSN)&lt;/font&gt; (For goods)" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="429.49" y="27410" width="410.51" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-66" value="&lt;font style=&quot;font-size: 14px&quot;&gt;Xiv) Service accounting coder(SAC) (For services)&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="430" y="27360" width="410" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-67" value="&lt;div&gt;HSN is a 8 digit code For e.g. 24022030&lt;/div&gt;&lt;div&gt;However only invoices for goods exported must quote 8 digits rest,&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="920.65" y="27350" width="519.35" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-68" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i.imgur.com/M4SPaeq.png;" vertex="1" parent="1">
+          <mxGeometry x="920.65" y="27400" width="520" height="85" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
