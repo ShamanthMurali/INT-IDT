@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-09-03T22:34:40.546Z" agent="5.0 (X11)" etag="IuMBUrHNCMammVtn2zaB" version="15.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-03T22:51:29.850Z" agent="5.0 (X11)" etag="JoO7Euiyqq-aZEDzi7-k" version="15.0.6" type="github">
   <diagram id="EEIt5sJKhKLN3RtG8xfO" name="Page-1">
-    <mxGraphModel dx="2106" dy="-558" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="1716" dy="-668" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2043,8 +2043,14 @@
         <mxCell id="Y9G3oqWJd6a6k3pHgSCE-3" value="For service" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="719.76" y="26280" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Y9G3oqWJd6a6k3pHgSCE-4" target="Y9G3oqWJd6a6k3pHgSCE-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Y9G3oqWJd6a6k3pHgSCE-4" value="For goods" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="399.58" y="26280" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-8" value="&lt;div&gt;shall issue tax invoice,&lt;/div&gt;&lt;div&gt; before or at the time of-&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1) Removal of goods for supply to the recipient, where supply involves movement of goods; &lt;br&gt;&lt;/div&gt;&lt;div&gt;or&lt;/div&gt;2) Delivery of goods or making available to recipient" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="319.51" y="26340" width="280.49" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
