@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-09-04T00:57:26.862Z" agent="5.0 (X11)" etag="BR_XiY27xTqYa2pqldLr" version="15.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-06T23:14:52.343Z" agent="5.0 (X11)" etag="SDPl_zYKMVWZ7Qw_pCIW" version="15.0.6" type="github">
   <diagram id="EEIt5sJKhKLN3RtG8xfO" name="Page-1">
-    <mxGraphModel dx="5874" dy="1408" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="1891" dy="-648" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2025,259 +2025,259 @@
         <mxCell id="suF2Vhae9oAxZ9KQlgGn-69" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i.imgur.com/Yi6VsuV.png;" parent="1" vertex="1">
           <mxGeometry x="380" y="25770" width="520" height="296" as="geometry" />
         </mxCell>
-        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Y9G3oqWJd6a6k3pHgSCE-1" target="Y9G3oqWJd6a6k3pHgSCE-2">
+        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Y9G3oqWJd6a6k3pHgSCE-1" target="Y9G3oqWJd6a6k3pHgSCE-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-1" value="Tax invoice" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-1" value="Tax invoice" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="559.51" y="26120" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Y9G3oqWJd6a6k3pHgSCE-2" target="Y9G3oqWJd6a6k3pHgSCE-4">
+        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Y9G3oqWJd6a6k3pHgSCE-2" target="Y9G3oqWJd6a6k3pHgSCE-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Y9G3oqWJd6a6k3pHgSCE-2" target="Y9G3oqWJd6a6k3pHgSCE-3">
+        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Y9G3oqWJd6a6k3pHgSCE-2" target="Y9G3oqWJd6a6k3pHgSCE-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-2" value="When to issue?" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-2" value="When to issue?" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="540" y="26200" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Y9G3oqWJd6a6k3pHgSCE-3" target="Y9G3oqWJd6a6k3pHgSCE-26">
+        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Y9G3oqWJd6a6k3pHgSCE-3" target="Y9G3oqWJd6a6k3pHgSCE-26" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Y9G3oqWJd6a6k3pHgSCE-3" target="Y9G3oqWJd6a6k3pHgSCE-35">
+        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Y9G3oqWJd6a6k3pHgSCE-3" target="Y9G3oqWJd6a6k3pHgSCE-35" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-3" value="For service" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-3" value="For service" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="920" y="26280" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Y9G3oqWJd6a6k3pHgSCE-4" target="Y9G3oqWJd6a6k3pHgSCE-11">
+        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Y9G3oqWJd6a6k3pHgSCE-4" target="Y9G3oqWJd6a6k3pHgSCE-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Y9G3oqWJd6a6k3pHgSCE-4" target="Y9G3oqWJd6a6k3pHgSCE-12">
+        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Y9G3oqWJd6a6k3pHgSCE-4" target="Y9G3oqWJd6a6k3pHgSCE-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Y9G3oqWJd6a6k3pHgSCE-4" target="Y9G3oqWJd6a6k3pHgSCE-13">
+        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Y9G3oqWJd6a6k3pHgSCE-4" target="Y9G3oqWJd6a6k3pHgSCE-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Y9G3oqWJd6a6k3pHgSCE-4" target="Y9G3oqWJd6a6k3pHgSCE-10">
+        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Y9G3oqWJd6a6k3pHgSCE-4" target="Y9G3oqWJd6a6k3pHgSCE-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-4" value="For goods" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-4" value="For goods" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="270.58" y="26280" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Y9G3oqWJd6a6k3pHgSCE-10" target="Y9G3oqWJd6a6k3pHgSCE-14">
+        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Y9G3oqWJd6a6k3pHgSCE-10" target="Y9G3oqWJd6a6k3pHgSCE-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-10" value="Supply involves movement" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-10" value="Supply involves movement" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="60" y="26360" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Y9G3oqWJd6a6k3pHgSCE-11" target="Y9G3oqWJd6a6k3pHgSCE-16">
+        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Y9G3oqWJd6a6k3pHgSCE-11" target="Y9G3oqWJd6a6k3pHgSCE-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-11" value="Supply does not involves movement" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-11" value="Supply does not involves movement" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="200" y="26360" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Y9G3oqWJd6a6k3pHgSCE-12" target="Y9G3oqWJd6a6k3pHgSCE-18">
+        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Y9G3oqWJd6a6k3pHgSCE-12" target="Y9G3oqWJd6a6k3pHgSCE-18" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-12" value="Sale on approval&lt;span style=&quot;white-space: pre&quot;&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-12" value="Sale on approval&lt;span style=&quot;white-space: pre&quot;&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="339.9999999999999" y="26360" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Y9G3oqWJd6a6k3pHgSCE-13" target="Y9G3oqWJd6a6k3pHgSCE-20">
+        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Y9G3oqWJd6a6k3pHgSCE-13" target="Y9G3oqWJd6a6k3pHgSCE-20" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-13" value="Continues supply of goods" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-13" value="Continues supply of goods" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="479.9999999999999" y="26360" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-14" value="Before or on date of removal" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;" vertex="1" parent="1">
+        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-14" value="Before or on date of removal" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;" parent="1" vertex="1">
           <mxGeometry x="59.27000000000001" y="26420" width="120.24" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-16" value="Before or on the date of making available" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;" vertex="1" parent="1">
+        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-16" value="Before or on the date of making available" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;" parent="1" vertex="1">
           <mxGeometry x="199.76" y="26420" width="120.24" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-18" value="&lt;div&gt;Before or on the date of acceptance&lt;/div&gt;&lt;div&gt;or&lt;/div&gt;&lt;div&gt;6m from date of removal &lt;br&gt;&lt;/div&gt;&lt;div&gt;[Which ever is earlier]&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;" vertex="1" parent="1">
+        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-18" value="&lt;div&gt;Before or on the date of acceptance&lt;/div&gt;&lt;div&gt;or&lt;/div&gt;&lt;div&gt;6m from date of removal &lt;br&gt;&lt;/div&gt;&lt;div&gt;[Which ever is earlier]&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;" parent="1" vertex="1">
           <mxGeometry x="340.01" y="26420" width="120.24" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-20" value="Before or on the date of Statement&lt;span style=&quot;white-space: pre&quot;&gt;&lt;/span&gt;&lt;br&gt;or&lt;br&gt;date of payment" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-20" value="Before or on the date of Statement&lt;span style=&quot;white-space: pre&quot;&gt;&lt;/span&gt;&lt;br&gt;or&lt;br&gt;date of payment" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="480" y="26420" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Y9G3oqWJd6a6k3pHgSCE-26" target="Y9G3oqWJd6a6k3pHgSCE-28">
+        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Y9G3oqWJd6a6k3pHgSCE-26" target="Y9G3oqWJd6a6k3pHgSCE-28" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Y9G3oqWJd6a6k3pHgSCE-26" target="Y9G3oqWJd6a6k3pHgSCE-27">
+        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Y9G3oqWJd6a6k3pHgSCE-26" target="Y9G3oqWJd6a6k3pHgSCE-27" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Y9G3oqWJd6a6k3pHgSCE-26" target="Y9G3oqWJd6a6k3pHgSCE-29">
+        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Y9G3oqWJd6a6k3pHgSCE-26" target="Y9G3oqWJd6a6k3pHgSCE-29" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-26" value="Continues supply of service" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-26" value="Continues supply of service" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="759.5099999999999" y="26360" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Y9G3oqWJd6a6k3pHgSCE-27" target="Y9G3oqWJd6a6k3pHgSCE-36">
+        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Y9G3oqWJd6a6k3pHgSCE-27" target="Y9G3oqWJd6a6k3pHgSCE-36" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-27" value="Payment date is ascertainable " style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-27" value="Payment date is ascertainable " style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="621.9999999999999" y="26440" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Y9G3oqWJd6a6k3pHgSCE-28" target="Y9G3oqWJd6a6k3pHgSCE-38">
+        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Y9G3oqWJd6a6k3pHgSCE-28" target="Y9G3oqWJd6a6k3pHgSCE-38" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-28" value="Payment date is not ascertainable " style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-28" value="Payment date is not ascertainable " style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="760.2499999999999" y="26440" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Y9G3oqWJd6a6k3pHgSCE-29" target="Y9G3oqWJd6a6k3pHgSCE-41">
+        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Y9G3oqWJd6a6k3pHgSCE-29" target="Y9G3oqWJd6a6k3pHgSCE-41" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-29" value="Payment date is based on completion of &lt;span style=&quot;white-space: pre&quot;&gt;event&lt;/span&gt; " style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-29" value="Payment date is based on completion of &lt;span style=&quot;white-space: pre&quot;&gt;event&lt;/span&gt; " style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="900" y="26440" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Y9G3oqWJd6a6k3pHgSCE-35" target="Y9G3oqWJd6a6k3pHgSCE-43">
+        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Y9G3oqWJd6a6k3pHgSCE-35" target="Y9G3oqWJd6a6k3pHgSCE-43" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-35" value="Any other service" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-35" value="Any other service" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1080" y="26360" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-36" value="Before or on date mentioned in the contract" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;" vertex="1" parent="1">
+        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-36" value="Before or on date mentioned in the contract" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;" parent="1" vertex="1">
           <mxGeometry x="622" y="26500" width="120.24" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-38" value="Before or on date of payment" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;" vertex="1" parent="1">
+        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-38" value="Before or on date of payment" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;" parent="1" vertex="1">
           <mxGeometry x="759.51" y="26500" width="120.24" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-41" value="Before or on date of completion of such event" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;" vertex="1" parent="1">
+        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-41" value="Before or on date of completion of such event" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;" parent="1" vertex="1">
           <mxGeometry x="899.88" y="26510" width="120.24" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-43" value="&lt;div&gt;Within 30* days from the date of completion&lt;/div&gt;&lt;div&gt;(*45 days in case of banking/ NBFC)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;" vertex="1" parent="1">
+        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-43" value="&lt;div&gt;Within 30* days from the date of completion&lt;/div&gt;&lt;div&gt;(*45 days in case of banking/ NBFC)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;" parent="1" vertex="1">
           <mxGeometry x="1040.5" y="26420" width="198.99" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-48" value="How many copies?" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-48" value="How many copies?" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="542" y="26600" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Y9G3oqWJd6a6k3pHgSCE-48" target="Y9G3oqWJd6a6k3pHgSCE-49">
+        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Y9G3oqWJd6a6k3pHgSCE-48" target="Y9G3oqWJd6a6k3pHgSCE-49" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-49" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
+        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-49" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" parent="1" vertex="1">
           <mxGeometry x="481.79" y="26660" width="280.42" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-50" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="Y9G3oqWJd6a6k3pHgSCE-49">
+        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-50" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="Y9G3oqWJd6a6k3pHgSCE-49" vertex="1">
           <mxGeometry width="280.42" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-51" value="Case" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="Y9G3oqWJd6a6k3pHgSCE-50">
+        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-51" value="Case" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="Y9G3oqWJd6a6k3pHgSCE-50" vertex="1">
           <mxGeometry width="81" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-52" value="Number of copies" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="Y9G3oqWJd6a6k3pHgSCE-50">
+        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-52" value="Number of copies" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="Y9G3oqWJd6a6k3pHgSCE-50" vertex="1">
           <mxGeometry x="81" width="199" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-53" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="Y9G3oqWJd6a6k3pHgSCE-49">
+        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-53" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="Y9G3oqWJd6a6k3pHgSCE-49" vertex="1">
           <mxGeometry y="40" width="280.42" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-54" value="Goods" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="Y9G3oqWJd6a6k3pHgSCE-53">
+        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-54" value="Goods" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="Y9G3oqWJd6a6k3pHgSCE-53" vertex="1">
           <mxGeometry width="81" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-55" value="&lt;div&gt;3 copies - &lt;br&gt;&lt;/div&gt;&lt;div&gt;original for recipient,&lt;/div&gt;&lt;div&gt;Duplicate for transporter&lt;/div&gt;&lt;div&gt;Triplicate for supplier&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="Y9G3oqWJd6a6k3pHgSCE-53">
+        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-55" value="&lt;div&gt;3 copies - &lt;br&gt;&lt;/div&gt;&lt;div&gt;original for recipient,&lt;/div&gt;&lt;div&gt;Duplicate for transporter&lt;/div&gt;&lt;div&gt;Triplicate for supplier&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="Y9G3oqWJd6a6k3pHgSCE-53" vertex="1">
           <mxGeometry x="81" width="199" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-56" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="Y9G3oqWJd6a6k3pHgSCE-49">
+        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-56" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="Y9G3oqWJd6a6k3pHgSCE-49" vertex="1">
           <mxGeometry y="120" width="280.42" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-57" value="Services" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="Y9G3oqWJd6a6k3pHgSCE-56">
+        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-57" value="Services" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="Y9G3oqWJd6a6k3pHgSCE-56" vertex="1">
           <mxGeometry width="81" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-58" value="&lt;div&gt;2 copies - &lt;br&gt;&lt;/div&gt;&lt;div&gt;original for recipient,&lt;/div&gt;&lt;div&gt;Duplicate for supplier&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="Y9G3oqWJd6a6k3pHgSCE-56">
+        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-58" value="&lt;div&gt;2 copies - &lt;br&gt;&lt;/div&gt;&lt;div&gt;original for recipient,&lt;/div&gt;&lt;div&gt;Duplicate for supplier&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="Y9G3oqWJd6a6k3pHgSCE-56" vertex="1">
           <mxGeometry x="81" width="199" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Y9G3oqWJd6a6k3pHgSCE-61" target="Y9G3oqWJd6a6k3pHgSCE-62">
+        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Y9G3oqWJd6a6k3pHgSCE-61" target="Y9G3oqWJd6a6k3pHgSCE-62" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-61" value="Contents of invoice" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-61" value="Contents of invoice" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="560" y="26880" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-62" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i.imgur.com/yWI2qD1.png;" vertex="1" parent="1">
+        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-62" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i.imgur.com/yWI2qD1.png;" parent="1" vertex="1">
           <mxGeometry x="383.51" y="26940" width="472" height="420" as="geometry" />
         </mxCell>
-        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Y9G3oqWJd6a6k3pHgSCE-65" target="Y9G3oqWJd6a6k3pHgSCE-67">
+        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Y9G3oqWJd6a6k3pHgSCE-65" target="Y9G3oqWJd6a6k3pHgSCE-67" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-65" value="&lt;font style=&quot;font-size: 14px&quot;&gt;Xiv) Harmonized system of nomenclature(HSN)&lt;/font&gt; (For goods)" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;gradientColor=none;" vertex="1" parent="1">
+        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-65" value="&lt;font style=&quot;font-size: 14px&quot;&gt;Xiv) Harmonized system of nomenclature(HSN)&lt;/font&gt; (For goods)" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;gradientColor=none;" parent="1" vertex="1">
           <mxGeometry x="429.49" y="27410" width="410.51" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-66" value="&lt;font style=&quot;font-size: 14px&quot;&gt;Xiv) Service accounting coder(SAC) (For services)&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;gradientColor=none;" vertex="1" parent="1">
+        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-66" value="&lt;font style=&quot;font-size: 14px&quot;&gt;Xiv) Service accounting coder(SAC) (For services)&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;gradientColor=none;" parent="1" vertex="1">
           <mxGeometry x="430" y="27360" width="410" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-67" value="&lt;div&gt;HSN is a 8 digit code For e.g. 24022030&lt;/div&gt;&lt;div&gt;However only invoices for goods exported must quote 8 digits rest,&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-67" value="&lt;div&gt;HSN is a 8 digit code For e.g. 24022030&lt;/div&gt;&lt;div&gt;However only invoices for goods exported must quote 8 digits rest,&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="920.65" y="27350" width="519.35" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-68" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i.imgur.com/M4SPaeq.png;" vertex="1" parent="1">
+        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-68" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i.imgur.com/M4SPaeq.png;" parent="1" vertex="1">
           <mxGeometry x="920.65" y="27400" width="520" height="85" as="geometry" />
         </mxCell>
-        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Y9G3oqWJd6a6k3pHgSCE-70" target="Y9G3oqWJd6a6k3pHgSCE-71">
+        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Y9G3oqWJd6a6k3pHgSCE-70" target="Y9G3oqWJd6a6k3pHgSCE-71" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-70" value="Revised Tax Invoice" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-70" value="Revised Tax Invoice" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="599.15" y="27500" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Y9G3oqWJd6a6k3pHgSCE-71" target="Y9G3oqWJd6a6k3pHgSCE-72">
+        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Y9G3oqWJd6a6k3pHgSCE-71" target="Y9G3oqWJd6a6k3pHgSCE-72" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-71" value="want to do corrections after issuing invoice?" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-71" value="want to do corrections after issuing invoice?" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="579.54" y="27560" width="160.49" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Y9G3oqWJd6a6k3pHgSCE-72" target="Y9G3oqWJd6a6k3pHgSCE-75">
+        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Y9G3oqWJd6a6k3pHgSCE-72" target="Y9G3oqWJd6a6k3pHgSCE-75" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Y9G3oqWJd6a6k3pHgSCE-72" target="Y9G3oqWJd6a6k3pHgSCE-76">
+        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Y9G3oqWJd6a6k3pHgSCE-72" target="Y9G3oqWJd6a6k3pHgSCE-76" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-72" value="&lt;div&gt;It cannot be revised except for one case,&lt;/div&gt;&lt;div&gt; i.e during new registration.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Invoice can be revised during date of becoming liable to register to the date of grant of registration&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;supplier can revise the invoices during this &lt;br&gt;&lt;/div&gt;&lt;div&gt;time and add GSTIN to it.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;And this shall be done within 30days of grant date&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;" vertex="1" parent="1">
+        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-72" value="&lt;div&gt;It cannot be revised except for one case,&lt;/div&gt;&lt;div&gt; i.e during new registration.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Invoice can be revised during date of becoming liable to register to the date of grant of registration&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;supplier can revise the invoices during this &lt;br&gt;&lt;/div&gt;&lt;div&gt;time and add GSTIN to it.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;And this shall be done within 30days of grant date&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;" parent="1" vertex="1">
           <mxGeometry x="519.58" y="27620" width="279.56" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Y9G3oqWJd6a6k3pHgSCE-75" target="Y9G3oqWJd6a6k3pHgSCE-79">
+        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Y9G3oqWJd6a6k3pHgSCE-75" target="Y9G3oqWJd6a6k3pHgSCE-79" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-75" value="&lt;div&gt;Consolidated &lt;br&gt;&lt;/div&gt;&lt;div&gt;Revised tax invoice&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-75" value="&lt;div&gt;Consolidated &lt;br&gt;&lt;/div&gt;&lt;div&gt;Revised tax invoice&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="439.39" y="27810" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-76" value="Separate tax invoice" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-76" value="Separate tax invoice" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="758.9" y="27810" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-79" value="A registered person may issue a Consolidated Revised Tax Invoice in respect of all&lt;br&gt;&lt;div&gt;taxable supplies made&lt;u&gt;&lt;b&gt; &lt;/b&gt;&lt;/u&gt;to an unregistered recipient during such period.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;but, in case of &lt;br&gt;&lt;/div&gt;&lt;div&gt;inter-State supplies &amp;gt; 2,50,000 issued to URP, &lt;br&gt;&lt;/div&gt;&lt;div&gt;a consolidated Revised Tax Invoice cannot be issued, separate invoice is required&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-79" value="A registered person may issue a Consolidated Revised Tax Invoice in respect of all&lt;br&gt;&lt;div&gt;taxable supplies made&lt;u&gt;&lt;b&gt; &lt;/b&gt;&lt;/u&gt;to an unregistered recipient during such period.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;but, in case of &lt;br&gt;&lt;/div&gt;&lt;div&gt;inter-State supplies &amp;gt; 2,50,000 issued to URP, &lt;br&gt;&lt;/div&gt;&lt;div&gt;a consolidated Revised Tax Invoice cannot be issued, separate invoice is required&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="360" y="27870" width="280.49" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-101" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Y9G3oqWJd6a6k3pHgSCE-80" target="Y9G3oqWJd6a6k3pHgSCE-87">
+        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-101" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Y9G3oqWJd6a6k3pHgSCE-80" target="Y9G3oqWJd6a6k3pHgSCE-87" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-80" value="A registered person may issue a Consolidated Revised Tax Invoice in respect of all&lt;br&gt;&lt;div&gt;taxable supplies made, if &lt;u&gt;&lt;b&gt;all the 3&lt;/b&gt;&lt;/u&gt; conditions are satisfied:&lt;/div&gt;&lt;div&gt;1. Price &amp;lt; Rs.200 (less than, not 200)&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. URP&lt;/div&gt;&lt;div&gt;3. Recipient does not require Invoice&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Else, issue Separate Tax invoice&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-80" value="A registered person may issue a Consolidated Revised Tax Invoice in respect of all&lt;br&gt;&lt;div&gt;taxable supplies made, if &lt;u&gt;&lt;b&gt;all the 3&lt;/b&gt;&lt;/u&gt; conditions are satisfied:&lt;/div&gt;&lt;div&gt;1. Price &amp;lt; Rs.200 (less than, not 200)&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. URP&lt;/div&gt;&lt;div&gt;3. Recipient does not require Invoice&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Else, issue Separate Tax invoice&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="541.51" y="28120" width="280.49" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Y9G3oqWJd6a6k3pHgSCE-84" target="Y9G3oqWJd6a6k3pHgSCE-80">
+        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Y9G3oqWJd6a6k3pHgSCE-84" target="Y9G3oqWJd6a6k3pHgSCE-80" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-84" value="&lt;div&gt;Consolidated &lt;br&gt;&lt;/div&gt;&lt;div&gt;tax invoice&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-84" value="&lt;div&gt;Consolidated &lt;br&gt;&lt;/div&gt;&lt;div&gt;tax invoice&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="622" y="28060" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-87" value="&lt;u&gt;&lt;b&gt;Bill of Supply&lt;/b&gt;&lt;/u&gt;&lt;br&gt;A registered person supplying exempted goods or services or both or paying tax under&lt;br&gt;&lt;div&gt;composition levy shall issue a bill of supply instead of a tax invoice&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;Invoice cum Bill of Supply&lt;/b&gt;&lt;/u&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;A registered person supplying exempted and taxable goods or services may issue an invoice cum bill of supply instead of a tax invoice and bill of supply separately.&lt;/div&gt;&lt;div&gt;(i.e. Invoice for taxable and Bill of supply for exempt both)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;Receipt voucher&lt;/b&gt;&lt;/u&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;A registered person shall, on receipt of advance payment with respect to any supply of&lt;br&gt;goods or services or both, issue a receipt voucher or any other document, evidencing receipt of such payment.&lt;br&gt;Where at the time of receipt of advance,&lt;br&gt;1) the rate of tax is not determinable, the tax shall be paid at the rate of 18%;&lt;br&gt;2) the nature of supply is not determinable, the same shall be treated as inter-State supply.&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;Refund voucher&lt;/b&gt;&lt;/u&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Where, on receipt of advance payment with respect to any supply or goods or services or&lt;br&gt;both the registered person issues a receipt voucher, but subsequently no supply is made and no tax invoice is issued in pursuance thereof, the said registered person may issue to the person who had made the payment, a refund voucher against such payment.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-87" value="&lt;u&gt;&lt;b&gt;Bill of Supply&lt;/b&gt;&lt;/u&gt;&lt;br&gt;A registered person supplying exempted goods or services or both or paying tax under&lt;br&gt;&lt;div&gt;composition levy shall issue a bill of supply instead of a tax invoice&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;Invoice cum Bill of Supply&lt;/b&gt;&lt;/u&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;A registered person supplying exempted and taxable goods or services may issue an invoice cum bill of supply instead of a tax invoice and bill of supply separately.&lt;/div&gt;&lt;div&gt;(i.e. Invoice for taxable and Bill of supply for exempt both)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;Receipt voucher&lt;/b&gt;&lt;/u&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;A registered person shall, on receipt of advance payment with respect to any supply of&lt;br&gt;goods or services or both, issue a receipt voucher or any other document, evidencing receipt of such payment.&lt;br&gt;Where at the time of receipt of advance,&lt;br&gt;1) the rate of tax is not determinable, the tax shall be paid at the rate of 18%;&lt;br&gt;2) the nature of supply is not determinable, the same shall be treated as inter-State supply.&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;Refund voucher&lt;/b&gt;&lt;/u&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Where, on receipt of advance payment with respect to any supply or goods or services or&lt;br&gt;both the registered person issues a receipt voucher, but subsequently no supply is made and no tax invoice is issued in pursuance thereof, the said registered person may issue to the person who had made the payment, a refund voucher against such payment.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="441.08000000000004" y="28280" width="481.34" height="330" as="geometry" />
         </mxCell>
-        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Y9G3oqWJd6a6k3pHgSCE-88" target="Y9G3oqWJd6a6k3pHgSCE-91">
+        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Y9G3oqWJd6a6k3pHgSCE-88" target="Y9G3oqWJd6a6k3pHgSCE-91" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Y9G3oqWJd6a6k3pHgSCE-88" target="Y9G3oqWJd6a6k3pHgSCE-90">
+        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Y9G3oqWJd6a6k3pHgSCE-88" target="Y9G3oqWJd6a6k3pHgSCE-90" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-88" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Payment Voucher&lt;/b&gt;&lt;/u&gt;&lt;br&gt;A registered person who is liable to pay tax under RCM shall issue a Payment Voucher&lt;/div&gt;&lt;div&gt; at the time of making payment to the supplier. and invoice will be...&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-88" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Payment Voucher&lt;/b&gt;&lt;/u&gt;&lt;br&gt;A registered person who is liable to pay tax under RCM shall issue a Payment Voucher&lt;/div&gt;&lt;div&gt; at the time of making payment to the supplier. and invoice will be...&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="441.45000000000005" y="28610" width="481.34" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-96" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Y9G3oqWJd6a6k3pHgSCE-90" target="Y9G3oqWJd6a6k3pHgSCE-95">
+        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-96" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Y9G3oqWJd6a6k3pHgSCE-90" target="Y9G3oqWJd6a6k3pHgSCE-95" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-90" value="Supplier is unregistered" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-90" value="Supplier is unregistered" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="721.27" y="28720" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Y9G3oqWJd6a6k3pHgSCE-91" target="Y9G3oqWJd6a6k3pHgSCE-94">
+        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Y9G3oqWJd6a6k3pHgSCE-91" target="Y9G3oqWJd6a6k3pHgSCE-94" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-91" value="Supplier is registered" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-91" value="Supplier is registered" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="522.37" y="28720" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Y9G3oqWJd6a6k3pHgSCE-94" target="Y9G3oqWJd6a6k3pHgSCE-98">
+        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Y9G3oqWJd6a6k3pHgSCE-94" target="Y9G3oqWJd6a6k3pHgSCE-98" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="582.79" y="28850" />
@@ -2285,40 +2285,40 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-94" value="Invoice issued by supplier" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-94" value="Invoice issued by supplier" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="522.37" y="28780" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Y9G3oqWJd6a6k3pHgSCE-95" target="Y9G3oqWJd6a6k3pHgSCE-98">
+        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Y9G3oqWJd6a6k3pHgSCE-95" target="Y9G3oqWJd6a6k3pHgSCE-98" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-95" value="Invoice issued by Recipient on behalf of supplier" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-95" value="Invoice issued by Recipient on behalf of supplier" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="721.27" y="28780" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-98" value="Payment voucher is issued by recipient" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-98" value="Payment voucher is issued by recipient" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="622.12" y="28870" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-104" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Y9G3oqWJd6a6k3pHgSCE-102" target="Y9G3oqWJd6a6k3pHgSCE-103">
+        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-104" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Y9G3oqWJd6a6k3pHgSCE-102" target="Y9G3oqWJd6a6k3pHgSCE-103" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-102" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i.imgur.com/qg0SKfj.png;" vertex="1" parent="1">
+        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-102" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i.imgur.com/qg0SKfj.png;" parent="1" vertex="1">
           <mxGeometry x="417.5" y="28950" width="520" height="400" as="geometry" />
         </mxCell>
-        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-103" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Delivery Challan&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt; A consignor may issue a delivery challan in lieu&lt;/div&gt;&lt;div&gt; of invoice at the time of removal of goods for transportation of:&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1.)supply of liquid gas where invoice is issued on quantity at the &lt;br&gt;&lt;/div&gt;&lt;div&gt;time of removal at the place of recipient&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2.) supply of the art work on approval basis&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3.) transportation of goods for job work&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;4/) transportation of goods for reasons other than by way of supply.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;5.)&amp;nbsp; Such other supplies as may be notified by the Board." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-103" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Delivery Challan&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt; A consignor may issue a delivery challan in lieu&lt;/div&gt;&lt;div&gt; of invoice at the time of removal of goods for transportation of:&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1.)supply of liquid gas where invoice is issued on quantity at the &lt;br&gt;&lt;/div&gt;&lt;div&gt;time of removal at the place of recipient&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2.) supply of the art work on approval basis&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3.) transportation of goods for job work&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;4/) transportation of goods for reasons other than by way of supply.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;5.)&amp;nbsp; Such other supplies as may be notified by the Board." style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="495.91999999999996" y="29370" width="363.17" height="260" as="geometry" />
         </mxCell>
-        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-114" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Y9G3oqWJd6a6k3pHgSCE-106" target="Y9G3oqWJd6a6k3pHgSCE-110">
+        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-114" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Y9G3oqWJd6a6k3pHgSCE-106" target="Y9G3oqWJd6a6k3pHgSCE-110" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-106" value="&lt;u&gt;&lt;b&gt;credit note&lt;/b&gt;&lt;/u&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-106" value="&lt;u&gt;&lt;b&gt;credit note&lt;/b&gt;&lt;/u&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="428.65" y="29660" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-116" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Y9G3oqWJd6a6k3pHgSCE-107" target="Y9G3oqWJd6a6k3pHgSCE-115">
+        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-116" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Y9G3oqWJd6a6k3pHgSCE-107" target="Y9G3oqWJd6a6k3pHgSCE-115" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-107" value="&lt;u&gt;&lt;b&gt;debit note&lt;/b&gt;&lt;/u&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-107" value="&lt;u&gt;&lt;b&gt;debit note&lt;/b&gt;&lt;/u&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="808" y="29660" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-118" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Y9G3oqWJd6a6k3pHgSCE-109" target="Y9G3oqWJd6a6k3pHgSCE-117">
+        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-118" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Y9G3oqWJd6a6k3pHgSCE-109" target="Y9G3oqWJd6a6k3pHgSCE-117" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="488" y="30060" />
@@ -2326,16 +2326,16 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-109" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Last date to issue credit note&lt;/b&gt;&lt;/u&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. &lt;u&gt;Due date&lt;/u&gt; for filing September months return(i.e.20th oct) after the FY&lt;/div&gt;&lt;div&gt;or&lt;/div&gt;&lt;div&gt;2. &lt;u&gt;Date&lt;/u&gt; of filing annual return&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;[Which ever is earlier]&lt;/b&gt;&lt;/u&gt;&lt;br&gt; &lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-109" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Last date to issue credit note&lt;/b&gt;&lt;/u&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. &lt;u&gt;Due date&lt;/u&gt; for filing September months return(i.e.20th oct) after the FY&lt;/div&gt;&lt;div&gt;or&lt;/div&gt;&lt;div&gt;2. &lt;u&gt;Date&lt;/u&gt; of filing annual return&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;[Which ever is earlier]&lt;/b&gt;&lt;/u&gt;&lt;br&gt; &lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="328" y="29900" width="320" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-111" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Y9G3oqWJd6a6k3pHgSCE-110" target="Y9G3oqWJd6a6k3pHgSCE-109">
+        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-111" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Y9G3oqWJd6a6k3pHgSCE-110" target="Y9G3oqWJd6a6k3pHgSCE-109" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-110" value="&lt;br&gt;&lt;div&gt;Supplier of goods or services or both may issue one or more credit notes in the following cases&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;1.) where the taxable value or tax charged in one or more invoices issued is found to be in excess of the taxable value or tax payable in respect of such supply, or&lt;br&gt;2.) where the goods supplied are returned by the recipient, or&lt;br&gt;3.) where goods or services or both supplied are found to be deficient." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-110" value="&lt;br&gt;&lt;div&gt;Supplier of goods or services or both may issue one or more credit notes in the following cases&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;1.) where the taxable value or tax charged in one or more invoices issued is found to be in excess of the taxable value or tax payable in respect of such supply, or&lt;br&gt;2.) where the goods supplied are returned by the recipient, or&lt;br&gt;3.) where goods or services or both supplied are found to be deficient." style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="308" y="29720" width="360" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-119" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Y9G3oqWJd6a6k3pHgSCE-115" target="Y9G3oqWJd6a6k3pHgSCE-117">
+        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-119" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Y9G3oqWJd6a6k3pHgSCE-115" target="Y9G3oqWJd6a6k3pHgSCE-117" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="868" y="30060" />
@@ -2343,11 +2343,20 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-115" value="Supplier of goods or services or both may issue one or more debit note in a case where the taxable value or tax charged in the one or more invoices issued is found to be in less than the taxable value or tax payable in respect of such supply." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-115" value="Supplier of goods or services or both may issue one or more debit note in a case where the taxable value or tax charged in the one or more invoices issued is found to be in less than the taxable value or tax payable in respect of such supply." style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="688" y="29720" width="360" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-117" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i.imgur.com/1c3qaiN.png;" vertex="1" parent="1">
+        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-117" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i.imgur.com/1c3qaiN.png;" parent="1" vertex="1">
           <mxGeometry x="417.51" y="30080" width="520" height="144" as="geometry" />
+        </mxCell>
+        <mxCell id="L1hGSk02Hw_pqkYdq02A-2" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i.imgur.com/EjMFXEu.png;" vertex="1" parent="1">
+          <mxGeometry x="347" y="30523" width="520" height="91" as="geometry" />
+        </mxCell>
+        <mxCell id="L1hGSk02Hw_pqkYdq02A-3" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i.imgur.com/3eqBtDx.png;" vertex="1" parent="1">
+          <mxGeometry x="347" y="30411" width="520" height="112" as="geometry" />
+        </mxCell>
+        <mxCell id="L1hGSk02Hw_pqkYdq02A-4" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i.imgur.com/SSejHk6.png;" vertex="1" parent="1">
+          <mxGeometry x="344.98" y="30250" width="520" height="161" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
