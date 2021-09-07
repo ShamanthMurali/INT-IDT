@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-09-07T20:08:27.711Z" agent="5.0 (X11)" etag="zdiggxM06GOEpqp7FzYH" version="15.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-07T20:09:13.718Z" agent="5.0 (X11)" etag="uE9h34AklBUaV8XWz1Pq" version="15.1.0" type="github">
   <diagram id="EEIt5sJKhKLN3RtG8xfO" name="Page-1">
-    <mxGraphModel dx="3352" dy="86" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="2637" dy="-253" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2377,7 +2377,7 @@
           <mxGeometry x="437.36" y="30720" width="360.24" height="200" as="geometry" />
         </mxCell>
         <mxCell id="osKf_la63MsWSnsOiieA-4" value="&lt;div&gt;Notified** persons&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;e-invoice shall be mandatory for the registered person whose aggregate turnover in any of the preceding financial year from 2017-18 exceeds 50&lt;br&gt;Crore with effect from 1.4.2021." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="819.97" y="30760" width="280" height="120" as="geometry" />
+          <mxGeometry x="820" y="30760" width="280" height="120" as="geometry" />
         </mxCell>
         <mxCell id="osKf_la63MsWSnsOiieA-6" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Exceptions&lt;/b&gt;&lt;/u&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;The following entities are Exempted from E-invoicing:&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. Special Economic zone units&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. Insurer / banking company / NBFC&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. GTA(Goods transport agency) Supplying services in relation to transportation of goods by road in a goods carriage&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;4. Supplier of passenger transportationservice&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;5. Person supplying services by way of admission to exhibition of cinematography films in multiplex screens(PVR, INOX)&lt;span style=&quot;white-space: pre&quot;&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="436.87" y="30940" width="360.24" height="240" as="geometry" />
