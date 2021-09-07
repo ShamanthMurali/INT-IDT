@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2021-09-07T22:42:05.172Z" agent="5.0 (X11)" etag="hEa0zpvihCTf7ayWWpyA" version="15.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-08T00:24:53.150Z" agent="5.0 (X11)" etag="rvJAhYh5B3KKmCHsrGwR" version="15.1.0" type="github">
   <diagram id="EEIt5sJKhKLN3RtG8xfO" name="Page-1">
-    <mxGraphModel dx="1893" dy="-606" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="1713" dy="-668" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="osKf_la63MsWSnsOiieA-14" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="osKf_la63MsWSnsOiieA-14" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="359.76" y="30640" width="758.21" height="800" as="geometry" />
         </mxCell>
         <mxCell id="u_0Ipbv8fiuegXikuNQV-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -2361,34 +2361,34 @@
         <mxCell id="L1hGSk02Hw_pqkYdq02A-4" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i.imgur.com/SSejHk6.png;" parent="1" vertex="1">
           <mxGeometry x="344.98" y="30250" width="520" height="161" as="geometry" />
         </mxCell>
-        <mxCell id="osKf_la63MsWSnsOiieA-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="osKf_la63MsWSnsOiieA-1" target="osKf_la63MsWSnsOiieA-2">
+        <mxCell id="osKf_la63MsWSnsOiieA-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="osKf_la63MsWSnsOiieA-1" target="osKf_la63MsWSnsOiieA-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="osKf_la63MsWSnsOiieA-1" value="E-Invoice" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="osKf_la63MsWSnsOiieA-1" value="E-Invoice" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="557.97" y="30660" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="osKf_la63MsWSnsOiieA-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="osKf_la63MsWSnsOiieA-2" target="osKf_la63MsWSnsOiieA-4">
+        <mxCell id="osKf_la63MsWSnsOiieA-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="osKf_la63MsWSnsOiieA-2" target="osKf_la63MsWSnsOiieA-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="osKf_la63MsWSnsOiieA-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="osKf_la63MsWSnsOiieA-2" target="osKf_la63MsWSnsOiieA-6">
+        <mxCell id="osKf_la63MsWSnsOiieA-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="osKf_la63MsWSnsOiieA-2" target="osKf_la63MsWSnsOiieA-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="osKf_la63MsWSnsOiieA-2" value="&lt;div&gt;The e-invoice shall be prepared by notified** class of registered persons, on the recommendation of GST Council, by including &lt;br&gt;&lt;/div&gt;&lt;div&gt;such particulars contained in Form GST INV01 after obtaining an IRN (lnvoice Reference Number) by uploading information contained therein on the prescribed electronic portal&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Every Invoice issued in any other manner shall not be treated &lt;br&gt;&lt;/div&gt;&lt;div&gt;as on invoice.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;The requirement of preparing the invoice in duplicate and triplicate in case of supply of services and goods does not apply to such e-invoice.&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="osKf_la63MsWSnsOiieA-2" value="&lt;div&gt;The e-invoice shall be prepared by notified** class of registered persons, on the recommendation of GST Council, by including &lt;br&gt;&lt;/div&gt;&lt;div&gt;such particulars contained in Form GST INV01 after obtaining an IRN (lnvoice Reference Number) by uploading information contained therein on the prescribed electronic portal&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Every Invoice issued in any other manner shall not be treated &lt;br&gt;&lt;/div&gt;&lt;div&gt;as on invoice.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;The requirement of preparing the invoice in duplicate and triplicate in case of supply of services and goods does not apply to such e-invoice.&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="437.36" y="30720" width="360.24" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="osKf_la63MsWSnsOiieA-4" value="&lt;div&gt;Notified** persons&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;e-invoice shall be mandatory for the registered person whose aggregate turnover in any of the preceding financial year from 2017-18 exceeds 50&lt;br&gt;Crore with effect from 1.4.2021." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="osKf_la63MsWSnsOiieA-4" value="&lt;div&gt;Notified** persons&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;e-invoice shall be mandatory for the registered person whose aggregate turnover in any of the preceding financial year from 2017-18 exceeds 50&lt;br&gt;Crore with effect from 1.4.2021." style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="820" y="30760" width="280" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="osKf_la63MsWSnsOiieA-6" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Exceptions&lt;/b&gt;&lt;/u&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;The following entities are Exempted from E-invoicing:&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. Special Economic zone units&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. Insurer / banking company / NBFC&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. GTA(Goods transport agency) Supplying services in relation to transportation of goods by road in a goods carriage&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;4. Supplier of passenger transportationservice&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;5. Person supplying services by way of admission to exhibition of cinematography films in multiplex screens(PVR, INOX)&lt;span style=&quot;white-space: pre&quot;&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="osKf_la63MsWSnsOiieA-6" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Exceptions&lt;/b&gt;&lt;/u&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;The following entities are Exempted from E-invoicing:&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. Special Economic zone units&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. Insurer / banking company / NBFC&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. GTA(Goods transport agency) Supplying services in relation to transportation of goods by road in a goods carriage&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;4. Supplier of passenger transportationservice&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;5. Person supplying services by way of admission to exhibition of cinematography films in multiplex screens(PVR, INOX)&lt;span style=&quot;white-space: pre&quot;&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="436.87" y="30940" width="360.24" height="240" as="geometry" />
         </mxCell>
-        <mxCell id="osKf_la63MsWSnsOiieA-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="osKf_la63MsWSnsOiieA-8" target="osKf_la63MsWSnsOiieA-9">
+        <mxCell id="osKf_la63MsWSnsOiieA-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="osKf_la63MsWSnsOiieA-8" target="osKf_la63MsWSnsOiieA-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="osKf_la63MsWSnsOiieA-8" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Dynamic QR code:&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;All&amp;nbsp; B2C&amp;nbsp; invoices&amp;nbsp; issued&amp;nbsp; by a&amp;nbsp; registered&amp;nbsp; person&amp;nbsp; whose&amp;nbsp; aggregate turnover in any preceding financial year from 2017-18 on-wards exceeds 500 crores are mandatorily required to have a Dynamic QR code from December,1,2020&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="osKf_la63MsWSnsOiieA-8" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Dynamic QR code:&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;All&amp;nbsp; B2C&amp;nbsp; invoices&amp;nbsp; issued&amp;nbsp; by a&amp;nbsp; registered&amp;nbsp; person&amp;nbsp; whose&amp;nbsp; aggregate turnover in any preceding financial year from 2017-18 on-wards exceeds 500 crores are mandatorily required to have a Dynamic QR code from December,1,2020&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="438.85" y="31200" width="360.24" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="osKf_la63MsWSnsOiieA-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="osKf_la63MsWSnsOiieA-9" target="osKf_la63MsWSnsOiieA-6">
+        <mxCell id="osKf_la63MsWSnsOiieA-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="osKf_la63MsWSnsOiieA-9" target="osKf_la63MsWSnsOiieA-6" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="397.97" y="31340" />
@@ -2396,17 +2396,23 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="osKf_la63MsWSnsOiieA-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="osKf_la63MsWSnsOiieA-9" target="osKf_la63MsWSnsOiieA-12">
+        <mxCell id="osKf_la63MsWSnsOiieA-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="osKf_la63MsWSnsOiieA-9" target="osKf_la63MsWSnsOiieA-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="osKf_la63MsWSnsOiieA-9" value="Non-applicability&amp;nbsp; of&amp;nbsp; requirement&amp;nbsp; of&amp;nbsp; Dynamic&amp;nbsp; QR&amp;nbsp; code (Exemptions)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="osKf_la63MsWSnsOiieA-9" value="Non-applicability&amp;nbsp; of&amp;nbsp; requirement&amp;nbsp; of&amp;nbsp; Dynamic&amp;nbsp; QR&amp;nbsp; code (Exemptions)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="518.7600000000001" y="31320" width="200.42" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="osKf_la63MsWSnsOiieA-12" value="Refer stat update on GST" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="517.97" y="31380" width="200" height="40" as="geometry" />
+        <mxCell id="osKf_la63MsWSnsOiieA-12" value="Refer stat update on GST" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="518.97" y="31380" width="200" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="osKf_la63MsWSnsOiieA-15" value="E-way Bill" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="uhpAXeeHhMrJ2Hp9siNN-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="osKf_la63MsWSnsOiieA-15" target="uhpAXeeHhMrJ2Hp9siNN-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="osKf_la63MsWSnsOiieA-15" value="E-way Bill" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="680" y="31480" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="uhpAXeeHhMrJ2Hp9siNN-1" value="Electronic Way Bill (E-Way Bill) is basically a compliance &amp;nbsp;&lt;br&gt;mechanism wherein by way of a digital interface the person &lt;br&gt;causing the movement of goods uploads the relevant &lt;br&gt;information prior to the commencement of movement&amp;nbsp; of &amp;nbsp;&lt;br&gt;goods and generates e-way bill on the GST portal. " style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="31540" width="360" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
