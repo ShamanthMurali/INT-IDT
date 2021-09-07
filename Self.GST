@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-09-07T20:09:13.718Z" agent="5.0 (X11)" etag="uE9h34AklBUaV8XWz1Pq" version="15.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-07T22:42:05.172Z" agent="5.0 (X11)" etag="hEa0zpvihCTf7ayWWpyA" version="15.1.0" type="github">
   <diagram id="EEIt5sJKhKLN3RtG8xfO" name="Page-1">
-    <mxGraphModel dx="2637" dy="-253" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="1893" dy="-606" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2404,6 +2404,9 @@
         </mxCell>
         <mxCell id="osKf_la63MsWSnsOiieA-12" value="Refer stat update on GST" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="517.97" y="31380" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="osKf_la63MsWSnsOiieA-15" value="E-way Bill" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="31480" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
