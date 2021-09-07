@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-09-08T00:24:53.150Z" agent="5.0 (X11)" etag="rvJAhYh5B3KKmCHsrGwR" version="15.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-08T00:43:25.110Z" agent="5.0 (X11)" etag="snF87dxVqWv58WDsPClA" version="15.1.0" type="github">
   <diagram id="EEIt5sJKhKLN3RtG8xfO" name="Page-1">
-    <mxGraphModel dx="1713" dy="-668" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="2322" dy="-362" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2413,6 +2413,27 @@
         </mxCell>
         <mxCell id="uhpAXeeHhMrJ2Hp9siNN-1" value="Electronic Way Bill (E-Way Bill) is basically a compliance &amp;nbsp;&lt;br&gt;mechanism wherein by way of a digital interface the person &lt;br&gt;causing the movement of goods uploads the relevant &lt;br&gt;information prior to the commencement of movement&amp;nbsp; of &amp;nbsp;&lt;br&gt;goods and generates e-way bill on the GST portal. " style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="31540" width="360" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="uhpAXeeHhMrJ2Hp9siNN-15" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i.imgur.com/ateStAW.png;" vertex="1" parent="1">
+          <mxGeometry x="580" y="31640" width="313.91" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="uhpAXeeHhMrJ2Hp9siNN-16" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i.imgur.com/bJw4Pfm.png;" vertex="1" parent="1">
+          <mxGeometry x="534.66" y="31870" width="415.34" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="uhpAXeeHhMrJ2Hp9siNN-17" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i.imgur.com/IG4AxTp.png;" vertex="1" parent="1">
+          <mxGeometry x="578.33" y="32120" width="333.33" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="uhpAXeeHhMrJ2Hp9siNN-18" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i.imgur.com/iNSBrjU.png;" vertex="1" parent="1">
+          <mxGeometry x="556.55" y="32370" width="360.81" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="uhpAXeeHhMrJ2Hp9siNN-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uhpAXeeHhMrJ2Hp9siNN-19" target="uhpAXeeHhMrJ2Hp9siNN-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uhpAXeeHhMrJ2Hp9siNN-19" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i.imgur.com/DJqPSyh.png;" vertex="1" parent="1">
+          <mxGeometry x="571.29" y="32730" width="335.16" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="uhpAXeeHhMrJ2Hp9siNN-20" value="Refer Pg. 51 of JKSC IDT some more important info is there" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="632.33" y="32980" width="212.67" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
