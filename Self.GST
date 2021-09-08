@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-08T13:11:11.700Z" agent="5.0 (X11)" etag="NQHEAdrfXi5U0xUaSP2w" version="15.1.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-09-08T13:11:28.336Z" agent="5.0 (X11)" etag="JEry7hD2RvDd0mGscg_Y" version="15.1.1" type="github">
   <diagram id="EEIt5sJKhKLN3RtG8xfO" name="Introduction">
     <mxGraphModel dx="13310" dy="5170" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
@@ -2682,14 +2682,6 @@
         <mxCell id="LQrGZ_knDy_awh3hXJqK-6" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i.imgur.com/pJPy7ZX.png;" vertex="1" parent="1">
           <mxGeometry x="1370" y="21590" width="801.5" height="388.41" as="geometry" />
         </mxCell>
-      </root>
-    </mxGraphModel>
-  </diagram>
-  <diagram id="ej4vnnFT8f6Ch0d1eskK" name="Taxable supply">
-    <mxGraphModel dx="4153" dy="2090" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
-      <root>
-        <mxCell id="h_EyMsINhquC1swoHP1q-0" />
-        <mxCell id="h_EyMsINhquC1swoHP1q-1" parent="h_EyMsINhquC1swoHP1q-0" />
       </root>
     </mxGraphModel>
   </diagram>
