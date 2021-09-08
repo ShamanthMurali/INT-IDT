@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-09-08T12:51:21.051Z" agent="5.0 (X11)" etag="GYSlWqptENcYoanBdBc7" version="15.1.1" type="github">
-  <diagram id="EEIt5sJKhKLN3RtG8xfO" name="Page-1">
-    <mxGraphModel dx="5834" dy="1408" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+<mxfile host="app.diagrams.net" modified="2021-09-08T13:02:34.219Z" agent="5.0 (X11)" etag="LF4BbmJEZYIeKXaLfnW7" version="15.1.1" type="github" pages="2">
+  <diagram id="EEIt5sJKhKLN3RtG8xfO" name="Introduction">
+    <mxGraphModel dx="4410" dy="691" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2665,26 +2665,31 @@
           <mxGeometry x="294.5" y="38242.08" width="765" height="313.36" as="geometry" />
         </mxCell>
         <mxCell id="LQrGZ_knDy_awh3hXJqK-1" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i.imgur.com/kI6AExO.png;" vertex="1" parent="1">
-          <mxGeometry x="1153.75" y="38650" width="640" height="422.16" as="geometry" />
+          <mxGeometry x="670" y="5640" width="640" height="422.16" as="geometry" />
         </mxCell>
         <mxCell id="LQrGZ_knDy_awh3hXJqK-2" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i.imgur.com/jXoUF0E.png;" vertex="1" parent="1">
-          <mxGeometry x="319.76" y="39010" width="640.24" height="320.12" as="geometry" />
+          <mxGeometry x="1201.5" y="18605.8" width="640.24" height="320.12" as="geometry" />
         </mxCell>
         <mxCell id="LQrGZ_knDy_awh3hXJqK-3" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i.imgur.com/4nhtVxo.png;" vertex="1" parent="1">
-          <mxGeometry x="319.76" y="39330.12" width="640.24" height="285.65" as="geometry" />
+          <mxGeometry x="1201.5" y="18925.920000000002" width="640.24" height="285.65" as="geometry" />
         </mxCell>
         <mxCell id="LQrGZ_knDy_awh3hXJqK-4" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i.imgur.com/GkE7MU2.png;" vertex="1" parent="1">
-          <mxGeometry x="319.76" y="39630" width="640.24" height="293.03" as="geometry" />
-        </mxCell>
-        <mxCell id="LQrGZ_knDy_awh3hXJqK-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LQrGZ_knDy_awh3hXJqK-5" target="LQrGZ_knDy_awh3hXJqK-6">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="1201.5" y="19225.8" width="640.24" height="293.03" as="geometry" />
         </mxCell>
         <mxCell id="LQrGZ_knDy_awh3hXJqK-5" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i.imgur.com/U75zVKC.png;" vertex="1" parent="1">
-          <mxGeometry x="321.27" y="39940" width="638.73" height="309.54" as="geometry" />
+          <mxGeometry x="1203.01" y="19535.8" width="638.73" height="309.54" as="geometry" />
         </mxCell>
         <mxCell id="LQrGZ_knDy_awh3hXJqK-6" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i.imgur.com/pJPy7ZX.png;" vertex="1" parent="1">
-          <mxGeometry x="240.26" y="40270" width="801.5" height="388.41" as="geometry" />
+          <mxGeometry x="256.75" y="38590" width="801.5" height="388.41" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="ej4vnnFT8f6Ch0d1eskK" name="Taxable supply">
+    <mxGraphModel dx="4153" dy="2090" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="h_EyMsINhquC1swoHP1q-0" />
+        <mxCell id="h_EyMsINhquC1swoHP1q-1" parent="h_EyMsINhquC1swoHP1q-0" />
       </root>
     </mxGraphModel>
   </diagram>
