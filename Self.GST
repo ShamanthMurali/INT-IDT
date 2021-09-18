@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-18T15:15:26.507Z" agent="5.0 (X11)" etag="lZsAwp30OPkbGB6goAA9" version="15.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-18T15:32:45.680Z" agent="5.0 (X11)" etag="YBSv2IMbKoypzbj6v_u2" version="15.2.9" type="github">
   <diagram id="EEIt5sJKhKLN3RtG8xfO" name="Introduction">
     <mxGraphModel dx="1713" dy="-691" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
@@ -2681,6 +2681,9 @@
         </mxCell>
         <mxCell id="LQrGZ_knDy_awh3hXJqK-6" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i.imgur.com/pJPy7ZX.png;" parent="1" vertex="1">
           <mxGeometry x="1370" y="21590" width="801.5" height="388.41" as="geometry" />
+        </mxCell>
+        <mxCell id="miT9HfhpquxOMF8dn3Kk-1" value="Subject to conditions below" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1180" y="5840" width="160" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
