@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-09-18T15:06:35.981Z" agent="5.0 (X11)" etag="N9Kc83467_jlQXQY3qJN" version="15.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-18T15:15:26.507Z" agent="5.0 (X11)" etag="lZsAwp30OPkbGB6goAA9" version="15.2.9" type="github">
   <diagram id="EEIt5sJKhKLN3RtG8xfO" name="Introduction">
-    <mxGraphModel dx="2102" dy="-507" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="1713" dy="-691" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -142,7 +142,7 @@
         <mxCell id="U18I0dOHCD-vcMm5kfsf-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="U18I0dOHCD-vcMm5kfsf-7" target="U18I0dOHCD-vcMm5kfsf-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="U18I0dOHCD-vcMm5kfsf-7" value="&lt;div&gt;b) Supply of goods or services or both between related persons. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;For employer to an employee = Provided that gifts not exceeding Rs.50,000 in value in a FY shall not be treated as supply of goods or services or both.&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="U18I0dOHCD-vcMm5kfsf-7" value="&lt;div&gt;b) Supply of goods or services or both between related persons. &lt;u&gt;&lt;b&gt;Provided it is made in the course or furtherance of business. &lt;/b&gt;&lt;/u&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;For employer to an employee = Provided that gifts not exceeding Rs.50,000 in value in a FY shall not be treated as supply of goods or services or both.&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="200" y="5120" width="440" height="80" as="geometry" />
         </mxCell>
         <mxCell id="U18I0dOHCD-vcMm5kfsf-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="U18I0dOHCD-vcMm5kfsf-8" target="U18I0dOHCD-vcMm5kfsf-9" edge="1">
