@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-09-08T13:11:28.336Z" agent="5.0 (X11)" etag="JEry7hD2RvDd0mGscg_Y" version="15.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-18T15:06:35.981Z" agent="5.0 (X11)" etag="N9Kc83467_jlQXQY3qJN" version="15.2.9" type="github">
   <diagram id="EEIt5sJKhKLN3RtG8xfO" name="Introduction">
-    <mxGraphModel dx="13310" dy="5170" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="2102" dy="-507" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -85,7 +85,7 @@
         <mxCell id="T2sU1FcjST89kl4WETc3-13" value="&lt;b&gt;&lt;u&gt;Reverce charge mechanism&lt;br&gt;&lt;/u&gt;&lt;/b&gt;&lt;br&gt;only to Notified(specified) GS&lt;br&gt;&lt;br&gt;recipient will pay tax himself to the govt&lt;br&gt;(usually happens when the supplier is outside india, so govt cant collect from them)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="344.98" y="4640" width="160" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="T2sU1FcjST89kl4WETc3-14" value="Reverce charge mechanism&lt;br&gt;&lt;br&gt;only to Notified(specified) GS&lt;br&gt;&lt;br&gt;recipient will pay tax himself to the govt&lt;br&gt;(usually happens when the supplier is outside india, so govt cant collect from them)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="T2sU1FcjST89kl4WETc3-14" value="notified registered persons shall pay GST on goods received from unregistered persons, through reverse charge mechanism " style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="525" y="4640" width="160" height="140" as="geometry" />
         </mxCell>
         <mxCell id="T2sU1FcjST89kl4WETc3-15" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i.imgur.com/dR0Sn5v.png;" parent="1" vertex="1">
@@ -2664,22 +2664,22 @@
         <mxCell id="uhpAXeeHhMrJ2Hp9siNN-97" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i.imgur.com/jlPp0tK.png;" parent="1" vertex="1">
           <mxGeometry x="294.5" y="38242.08" width="765" height="313.36" as="geometry" />
         </mxCell>
-        <mxCell id="LQrGZ_knDy_awh3hXJqK-1" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i.imgur.com/kI6AExO.png;" vertex="1" parent="1">
+        <mxCell id="LQrGZ_knDy_awh3hXJqK-1" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i.imgur.com/kI6AExO.png;" parent="1" vertex="1">
           <mxGeometry x="670" y="5640" width="640" height="422.16" as="geometry" />
         </mxCell>
-        <mxCell id="LQrGZ_knDy_awh3hXJqK-2" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i.imgur.com/jXoUF0E.png;" vertex="1" parent="1">
+        <mxCell id="LQrGZ_knDy_awh3hXJqK-2" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i.imgur.com/jXoUF0E.png;" parent="1" vertex="1">
           <mxGeometry x="1201.5" y="18605.8" width="640.24" height="320.12" as="geometry" />
         </mxCell>
-        <mxCell id="LQrGZ_knDy_awh3hXJqK-3" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i.imgur.com/4nhtVxo.png;" vertex="1" parent="1">
+        <mxCell id="LQrGZ_knDy_awh3hXJqK-3" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i.imgur.com/4nhtVxo.png;" parent="1" vertex="1">
           <mxGeometry x="1201.5" y="18925.920000000002" width="640.24" height="285.65" as="geometry" />
         </mxCell>
-        <mxCell id="LQrGZ_knDy_awh3hXJqK-4" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i.imgur.com/GkE7MU2.png;" vertex="1" parent="1">
+        <mxCell id="LQrGZ_knDy_awh3hXJqK-4" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i.imgur.com/GkE7MU2.png;" parent="1" vertex="1">
           <mxGeometry x="1201.5" y="19225.8" width="640.24" height="293.03" as="geometry" />
         </mxCell>
-        <mxCell id="LQrGZ_knDy_awh3hXJqK-5" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i.imgur.com/U75zVKC.png;" vertex="1" parent="1">
+        <mxCell id="LQrGZ_knDy_awh3hXJqK-5" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i.imgur.com/U75zVKC.png;" parent="1" vertex="1">
           <mxGeometry x="1203.01" y="19535.8" width="638.73" height="309.54" as="geometry" />
         </mxCell>
-        <mxCell id="LQrGZ_knDy_awh3hXJqK-6" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i.imgur.com/pJPy7ZX.png;" vertex="1" parent="1">
+        <mxCell id="LQrGZ_knDy_awh3hXJqK-6" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i.imgur.com/pJPy7ZX.png;" parent="1" vertex="1">
           <mxGeometry x="1370" y="21590" width="801.5" height="388.41" as="geometry" />
         </mxCell>
       </root>
