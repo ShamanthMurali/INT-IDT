@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-09-18T15:32:45.680Z" agent="5.0 (X11)" etag="YBSv2IMbKoypzbj6v_u2" version="15.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-22T09:46:15.821Z" agent="5.0 (X11)" etag="8xUQFSwrRiaIHeDsxMqs" version="15.2.9" type="github">
   <diagram id="EEIt5sJKhKLN3RtG8xfO" name="Introduction">
-    <mxGraphModel dx="1713" dy="-691" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="1958" dy="-507" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2682,8 +2682,23 @@
         <mxCell id="LQrGZ_knDy_awh3hXJqK-6" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i.imgur.com/pJPy7ZX.png;" parent="1" vertex="1">
           <mxGeometry x="1370" y="21590" width="801.5" height="388.41" as="geometry" />
         </mxCell>
-        <mxCell id="miT9HfhpquxOMF8dn3Kk-1" value="Subject to conditions below" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="miT9HfhpquxOMF8dn3Kk-1" value="Subject to conditions below" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1180" y="5840" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="gikTc44mRftWslVB5Tid-1" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/weatherful/72/Lightning_Cloudy-128.png" vertex="1" parent="1">
+          <mxGeometry x="398.31" y="8860" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="gikTc44mRftWslVB5Tid-3" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/weatherful/72/Lightning_Cloudy-128.png" vertex="1" parent="1">
+          <mxGeometry x="582" y="7000" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="gikTc44mRftWslVB5Tid-4" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/weatherful/72/Lightning_Cloudy-128.png" vertex="1" parent="1">
+          <mxGeometry x="587" y="7100" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="gikTc44mRftWslVB5Tid-5" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/weatherful/72/Lightning_Cloudy-128.png" vertex="1" parent="1">
+          <mxGeometry x="1430" y="11422" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="gikTc44mRftWslVB5Tid-6" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/weatherful/72/Lightning_Cloudy-128.png" vertex="1" parent="1">
+          <mxGeometry x="1010" y="11430" width="128" height="128" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
