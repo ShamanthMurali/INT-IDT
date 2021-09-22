@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-09-22T09:46:15.821Z" agent="5.0 (X11)" etag="8xUQFSwrRiaIHeDsxMqs" version="15.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-22T15:22:25.991Z" agent="5.0 (X11)" etag="2wlwvk9UM515A7kbk6mZ" version="15.2.9" type="github">
   <diagram id="EEIt5sJKhKLN3RtG8xfO" name="Introduction">
-    <mxGraphModel dx="1958" dy="-507" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="3360" dy="154" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -11,7 +11,7 @@
           <mxGeometry x="359.76" y="30640" width="758.21" height="800" as="geometry" />
         </mxCell>
         <mxCell id="u_0Ipbv8fiuegXikuNQV-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-280" y="10680" width="1820" height="2130" as="geometry" />
+          <mxGeometry x="-280" y="10680" width="1820" height="2170" as="geometry" />
         </mxCell>
         <mxCell id="ZWSLOfvf-un0gSXgTcn5-95" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-220" y="7940" width="1710" height="1190" as="geometry" />
@@ -1154,8 +1154,8 @@
         <mxCell id="ZWSLOfvf-un0gSXgTcn5-198" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Advantages&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. No classification of goods is required;&lt;br&gt;2. Single GST rate is applicable on all supplies made;&lt;br&gt;3. Tax invoice is not required, but bill of supply is required to be issued.&lt;br&gt;4 Payment of tax and return filing is to be done at the end of every quarter.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;Disadvantages&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. Taxpayer cannot avail the benefit of ITC;&lt;br&gt;2. He cannot charge tax on the invoice raised by him;&lt;br&gt;3. A limited territory of business. He is not allowed to do inter state sale&lt;/div&gt;&lt;div&gt;[i.e cannot sell in other states]&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="675" y="11270" width="440" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="ZWSLOfvf-un0gSXgTcn5-199" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Eligibility&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;A. Person making supply of service:&lt;br&gt;1) whose &lt;u&gt;aggregate turnover&lt;/u&gt;* in the preceding financial year was Rs. &lt;u&gt;1.5 Crores&lt;/u&gt;** or below;&lt;/div&gt;&lt;div&gt;[** The above limit is 75 Lakh in following 8 stats - manipur, Tripura, nagaland, Mizoram, megalaya, arunachal pradesh, Sikkim, Uttarakhand]&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. The benefit under composition scheme is available upto 1.5cr/75L in the current year[i.e. for e.g. T/o becomes 10cr CY then you have to switch to regular]&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="675" y="11500" width="440" height="200" as="geometry" />
+        <mxCell id="ZWSLOfvf-un0gSXgTcn5-199" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Eligibility&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;A. Person making &lt;u&gt;&lt;b&gt;supply of goods&lt;/b&gt;&lt;/u&gt;:&lt;br&gt;1) whose &lt;u&gt;aggregate turnover&lt;/u&gt;* in the preceding financial year was Rs. &lt;u&gt;1.5 Crores&lt;/u&gt;** or below;&lt;/div&gt;&lt;div&gt;[** The above limit is 75 Lakh in following 8 stats - manipur, Tripura, nagaland, Mizoram, megalaya, arunachal pradesh, Sikkim, Uttarakhand]&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. The benefit under composition scheme is available upto 1.5cr/75L in the current year[i.e. for e.g. T/o becomes 10cr CY then you have to switch to regular]&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;B.  Person making &lt;u&gt;&lt;b&gt;supply of service:&lt;br&gt;&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;1) whose aggregate turnover* in the preceding financial year was Rs. 50 lakhs or below;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="675" y="11500" width="440" height="230" as="geometry" />
         </mxCell>
         <mxCell id="ZWSLOfvf-un0gSXgTcn5-201" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" parent="1" source="ZWSLOfvf-un0gSXgTcn5-199" target="ZWSLOfvf-un0gSXgTcn5-200" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -1167,113 +1167,137 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZWSLOfvf-un0gSXgTcn5-203" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Persons who are not Eligible&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="800" y="11720" width="190" height="40" as="geometry" />
+          <mxGeometry x="800" y="11750" width="190" height="40" as="geometry" />
         </mxCell>
         <mxCell id="bL3ZE05nRJ90D0qZ1jty-1" value="1. A person making any interstate outward supply(however there is no restriction on interstate purchase)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="675" y="11780" width="440" height="40" as="geometry" />
+          <mxGeometry x="675" y="11810" width="440" height="40" as="geometry" />
         </mxCell>
         <mxCell id="bL3ZE05nRJ90D0qZ1jty-2" value="&lt;div&gt;2. manufacturer of specified goods &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;[making supplies of ice cream and other edible ice, Pan Masala, Tobacco and &lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;manufactured tobacco substitutes, aerated water]&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="675" y="11820" width="440" height="50" as="geometry" />
+          <mxGeometry x="675" y="11850" width="440" height="50" as="geometry" />
         </mxCell>
         <mxCell id="bL3ZE05nRJ90D0qZ1jty-3" value="3. A person engaged in supply of goods or services not liable to GST&lt;br&gt;(Non-taxable supply e.g.alcohol and 5 products)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="675" y="11870" width="440" height="50" as="geometry" />
+          <mxGeometry x="675" y="11900" width="440" height="50" as="geometry" />
         </mxCell>
         <mxCell id="bL3ZE05nRJ90D0qZ1jty-4" value="&lt;div&gt;4. A person supplying goods or services through eCommerce operator &lt;br&gt;&lt;/div&gt;&lt;div&gt;to collect tax under S52 of CGST act(CA Final)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="675" y="11920" width="440" height="50" as="geometry" />
+          <mxGeometry x="675" y="11950" width="440" height="50" as="geometry" />
         </mxCell>
         <mxCell id="bL3ZE05nRJ90D0qZ1jty-5" value="5. A Person casual taxable person(CTP) or non resident taxable person(NRT) - refer registration." style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="675" y="11970" width="440" height="50" as="geometry" />
+          <mxGeometry x="675" y="12000" width="440" height="50" as="geometry" />
         </mxCell>
         <mxCell id="u_0Ipbv8fiuegXikuNQV-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="bL3ZE05nRJ90D0qZ1jty-6" target="bL3ZE05nRJ90D0qZ1jty-11" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1165" y="12040" />
-              <mxPoint x="1165" y="11888" />
+              <mxPoint x="1165" y="12070" />
+              <mxPoint x="1165" y="11918" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="u_0Ipbv8fiuegXikuNQV-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="bL3ZE05nRJ90D0qZ1jty-6" target="bL3ZE05nRJ90D0qZ1jty-16" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1165" y="12040" />
-              <mxPoint x="1165" y="12160" />
+              <mxPoint x="1165" y="12070" />
+              <mxPoint x="1165" y="12190" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="bL3ZE05nRJ90D0qZ1jty-6" value="&lt;div&gt;6. A person supplying service other than restaurant service&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="675" y="12020" width="440" height="40" as="geometry" />
+          <mxGeometry x="675" y="12050" width="440" height="40" as="geometry" />
         </mxCell>
         <mxCell id="bL3ZE05nRJ90D0qZ1jty-8" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" parent="1" vertex="1">
-          <mxGeometry x="1200" y="11740" width="320" height="250" as="geometry" />
+          <mxGeometry x="1200" y="11770" width="320" height="250" as="geometry" />
         </mxCell>
         <mxCell id="bL3ZE05nRJ90D0qZ1jty-9" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="bL3ZE05nRJ90D0qZ1jty-8" vertex="1">
           <mxGeometry width="320" height="46" as="geometry" />
         </mxCell>
         <mxCell id="bL3ZE05nRJ90D0qZ1jty-10" value="Amendment 1" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="bL3ZE05nRJ90D0qZ1jty-9" vertex="1">
-          <mxGeometry width="320" height="46" as="geometry" />
+          <mxGeometry width="320" height="46" as="geometry">
+            <mxRectangle width="320" height="46" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="bL3ZE05nRJ90D0qZ1jty-11" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="bL3ZE05nRJ90D0qZ1jty-8" vertex="1">
           <mxGeometry y="46" width="320" height="204" as="geometry" />
         </mxCell>
         <mxCell id="bL3ZE05nRJ90D0qZ1jty-12" value="&lt;div&gt;Permissible Service T/o for person under composition Scheme &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;[i.e if a person is selling goods and also a small portion of it is service i.e. the service portion &amp;lt;10% of total t/o the he is permitted to composition scheme for example, mr.a sells phones and also offers repair service]&lt;/font&gt;&lt;br&gt;&lt;/div&gt;&lt;br&gt;&lt;div&gt;10% of turnover in State/UT in Previous FY &lt;br&gt;&lt;/div&gt;&lt;div&gt;or &lt;br&gt;&lt;/div&gt;&lt;div&gt;5 Lakh&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;[Which ever is higher]&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;&lt;u&gt;&lt;b&gt;Note: &lt;/b&gt;&lt;/u&gt;the following is per state, if you have different branch in different state calculate separately&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="bL3ZE05nRJ90D0qZ1jty-11" vertex="1">
-          <mxGeometry width="320" height="204" as="geometry" />
+          <mxGeometry width="320" height="204" as="geometry">
+            <mxRectangle width="320" height="204" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="bL3ZE05nRJ90D0qZ1jty-13" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" parent="1" vertex="1">
-          <mxGeometry x="1200" y="12020" width="320" height="240.00000000000364" as="geometry" />
+          <mxGeometry x="1200" y="12050" width="320" height="240.00000000000364" as="geometry" />
         </mxCell>
         <mxCell id="bL3ZE05nRJ90D0qZ1jty-14" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="bL3ZE05nRJ90D0qZ1jty-13" vertex="1">
           <mxGeometry width="320" height="40" as="geometry" />
         </mxCell>
         <mxCell id="bL3ZE05nRJ90D0qZ1jty-15" value="Amendment 2" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="bL3ZE05nRJ90D0qZ1jty-14" vertex="1">
-          <mxGeometry width="320" height="40" as="geometry" />
+          <mxGeometry width="320" height="40" as="geometry">
+            <mxRectangle width="320" height="40" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="bL3ZE05nRJ90D0qZ1jty-16" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="bL3ZE05nRJ90D0qZ1jty-13" vertex="1">
           <mxGeometry y="40" width="320" height="200" as="geometry" />
         </mxCell>
         <mxCell id="bL3ZE05nRJ90D0qZ1jty-17" value="Sec 10 (2A) - Composition Scheme for service providers.&lt;br&gt;&lt;br&gt;&lt;div&gt;1) A person(service provider) whose aggregate T/o does not exceed  in preceding financial year may opt for composition Scheme u/s 10(2A). [Basically for Service providers who are not eligible for 1.5cr/75L.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;ii) The benefit under this scheme can be claimed upto 50 L Current financial year.&lt;br&gt;&lt;br&gt;iii) All other conditions are Same as Composition scheme discussed earlier including 1 to 5 " style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="bL3ZE05nRJ90D0qZ1jty-16" vertex="1">
-          <mxGeometry width="320" height="200" as="geometry" />
+          <mxGeometry width="320" height="200" as="geometry">
+            <mxRectangle width="320" height="200" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="bL3ZE05nRJ90D0qZ1jty-18" value="GST Rates for composition scheme" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;" parent="1" vertex="1">
-          <mxGeometry x="675" y="12090" width="440" height="190" as="geometry" />
+          <mxGeometry x="675" y="12120" width="440" height="190" as="geometry" />
         </mxCell>
         <mxCell id="bL3ZE05nRJ90D0qZ1jty-19" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="bL3ZE05nRJ90D0qZ1jty-18" vertex="1">
           <mxGeometry y="30" width="440" height="40" as="geometry" />
         </mxCell>
         <mxCell id="bL3ZE05nRJ90D0qZ1jty-20" value="1. manufacturer" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="bL3ZE05nRJ90D0qZ1jty-19" vertex="1">
-          <mxGeometry width="132" height="40" as="geometry" />
+          <mxGeometry width="132" height="40" as="geometry">
+            <mxRectangle width="132" height="40" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="bL3ZE05nRJ90D0qZ1jty-21" value="&lt;div&gt;0.5% CGST + 0.5% SGST of T/o in state/UT&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="bL3ZE05nRJ90D0qZ1jty-19" vertex="1">
-          <mxGeometry x="132" width="308" height="40" as="geometry" />
+          <mxGeometry x="132" width="308" height="40" as="geometry">
+            <mxRectangle width="308" height="40" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="bL3ZE05nRJ90D0qZ1jty-22" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="bL3ZE05nRJ90D0qZ1jty-18" vertex="1">
           <mxGeometry y="70" width="440" height="40" as="geometry" />
         </mxCell>
         <mxCell id="bL3ZE05nRJ90D0qZ1jty-23" value="2. Trader" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="bL3ZE05nRJ90D0qZ1jty-22" vertex="1">
-          <mxGeometry width="132" height="40" as="geometry" />
+          <mxGeometry width="132" height="40" as="geometry">
+            <mxRectangle width="132" height="40" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="bL3ZE05nRJ90D0qZ1jty-24" value="&lt;div&gt;0.5% CGST + 0.5% SGST of &lt;u&gt;&lt;b&gt;Taxable&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt; T/o in state/UT&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="bL3ZE05nRJ90D0qZ1jty-22" vertex="1">
-          <mxGeometry x="132" width="308" height="40" as="geometry" />
+          <mxGeometry x="132" width="308" height="40" as="geometry">
+            <mxRectangle width="308" height="40" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="bL3ZE05nRJ90D0qZ1jty-25" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="bL3ZE05nRJ90D0qZ1jty-18" vertex="1">
           <mxGeometry y="110" width="440" height="40" as="geometry" />
         </mxCell>
         <mxCell id="bL3ZE05nRJ90D0qZ1jty-26" value="3. Restaurant service provider" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="bL3ZE05nRJ90D0qZ1jty-25" vertex="1">
-          <mxGeometry width="132" height="40" as="geometry" />
+          <mxGeometry width="132" height="40" as="geometry">
+            <mxRectangle width="132" height="40" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="bL3ZE05nRJ90D0qZ1jty-27" value="&lt;div&gt;2.5% CGST + 2.5% SGST of T/o in state/UT&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="bL3ZE05nRJ90D0qZ1jty-25" vertex="1">
-          <mxGeometry x="132" width="308" height="40" as="geometry" />
+          <mxGeometry x="132" width="308" height="40" as="geometry">
+            <mxRectangle width="308" height="40" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="bL3ZE05nRJ90D0qZ1jty-28" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="bL3ZE05nRJ90D0qZ1jty-18" vertex="1">
           <mxGeometry y="150" width="440" height="40" as="geometry" />
         </mxCell>
         <mxCell id="bL3ZE05nRJ90D0qZ1jty-29" value="4. Other service providers" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="bL3ZE05nRJ90D0qZ1jty-28" vertex="1">
-          <mxGeometry width="132" height="40" as="geometry" />
+          <mxGeometry width="132" height="40" as="geometry">
+            <mxRectangle width="132" height="40" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="bL3ZE05nRJ90D0qZ1jty-30" value="&lt;div&gt;3% CGST + 3% SGST of T/o in state/UT&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="bL3ZE05nRJ90D0qZ1jty-28" vertex="1">
-          <mxGeometry x="132" width="308" height="40" as="geometry" />
+          <mxGeometry x="132" width="308" height="40" as="geometry">
+            <mxRectangle width="308" height="40" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="u_0Ipbv8fiuegXikuNQV-5" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Additional points&lt;/b&gt;&lt;/u&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1) A composition dealer issues &quot;Bill of Supply&quot; instead of &quot;Tax invoice&quot;(since he cannot collect tax).&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt; 2) he has to mention &quot;Composition taxpayer &amp;amp; cannot collect tax &quot; in&lt;br&gt;&lt;/div&gt;&lt;div&gt;&quot;Bill of Supply&quot;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;3) The name board has to mention that he is a &quot;Composition Taxpayer&quot;.&lt;br&gt;&lt;br&gt;&lt;div&gt;4) All the branches have to take composition scheme together. Further, if any condition is violated&amp;nbsp; by any of the branches, then all the branches have to shift to&amp;nbsp; regular scheme.&lt;br&gt;&lt;/div&gt;&lt;br&gt;5) A composition scheme taxpayer ceases to be under composition scheme if he violated the following:&lt;br&gt;&lt;div&gt;a) When the aggregate t/o in current year exceeds&lt;/div&gt;&lt;div&gt;specified limits (1.5cr/75L/50L)&lt;/div&gt;b) when any condition is violated&lt;br&gt;c) Voluntarily.&lt;br&gt;&lt;br&gt;6) A stock statement has to be submitted within 30 days of shifting to regular scheme&lt;br&gt;&lt;br&gt;7) Stock statement is also required to be submitted within 60 days of opting for composition Scheme.&lt;br&gt;&lt;br&gt;8) If a person continues under composition scheme even if he is not eligible, then, he has to pay differential Tax along with interest &amp;amp; penalty.&lt;br&gt;&lt;br&gt;&lt;div&gt;9) Interest earned form part Loans, deposits &amp;amp; Advances will not form a part &lt;br&gt;&lt;/div&gt;&lt;div&gt;of Turnover for the purpose of Composition scheme.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="675" y="12310" width="440" height="480" as="geometry" />
+          <mxGeometry x="675" y="12340" width="440" height="480" as="geometry" />
         </mxCell>
         <mxCell id="xCA3pVgE0H4NzibprLNc-1" value="&lt;div&gt;Exemptions do it &lt;br&gt;&lt;/div&gt;&lt;div&gt;from text&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="600" y="12880" width="120" height="40" as="geometry" />
