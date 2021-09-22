@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-22T16:18:42.079Z" agent="5.0 (X11)" etag="LxCzHzXW6h6GLjw-GWrd" version="15.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-22T16:32:59.488Z" agent="5.0 (X11)" etag="mKKhvCDN6jMVvT3wyfet" version="15.2.9" type="github">
   <diagram id="EEIt5sJKhKLN3RtG8xfO" name="Introduction">
     <mxGraphModel dx="1896" dy="-577" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
@@ -1154,14 +1154,14 @@
         <mxCell id="ZWSLOfvf-un0gSXgTcn5-198" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Advantages&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. No classification of goods is required;&lt;br&gt;2. Single GST rate is applicable on all supplies made;&lt;br&gt;3. Tax invoice is not required, but bill of supply is required to be issued.&lt;br&gt;4 Payment of tax and return filing is to be done at the end of every quarter.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;Disadvantages&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. Taxpayer cannot avail the benefit of ITC;&lt;br&gt;2. He cannot charge tax on the invoice raised by him;&lt;br&gt;3. A limited territory of business. He is not allowed to do inter state sale&lt;/div&gt;&lt;div&gt;[i.e cannot sell in other states]&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="675" y="11270" width="440" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="ZWSLOfvf-un0gSXgTcn5-199" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Eligibility&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;A. Person making &lt;u&gt;&lt;b&gt;supply of goods&lt;/b&gt;&lt;/u&gt;:&lt;br&gt;1) whose &lt;u&gt;aggregate turnover&lt;/u&gt;* in the preceding financial year was Rs. &lt;u&gt;1.5 Crores&lt;/u&gt;** or below;&lt;/div&gt;&lt;div&gt;[** The above limit is 75 Lakh in following 8 stats - manipur, Tripura, nagaland, Mizoram, megalaya, arunachal pradesh, Sikkim, Uttarakhand]&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. The benefit under composition scheme is available upto 1.5cr/75L in the current year[i.e. for e.g. T/o becomes 10cr CY then you have to switch to regular]&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;B.  Person making &lt;u&gt;&lt;b&gt;supply of service:&lt;br&gt;&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;1) whose aggregate turnover* in the preceding financial year was Rs. 50 lakhs or below;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="ZWSLOfvf-un0gSXgTcn5-199" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Eligibility&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;A. Person making &lt;u&gt;&lt;b&gt;supply of goods&lt;/b&gt;&lt;/u&gt;:&lt;br&gt;1) whose &lt;u&gt;aggregate turnover&lt;/u&gt;* in the preceding financial year was Rs. &lt;u&gt;1.5 Crores&lt;/u&gt;** or below;&lt;/div&gt;&lt;div&gt;[** The above limit is 75 Lakh in following 8 stats - manipur, Tripura, nagaland, Mizoram, megalaya, arunachal pradesh, Sikkim, Uttarakhand](key: MTNM MASU)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. The benefit under composition scheme is available upto 1.5cr/75L in the current year[i.e. for e.g. T/o becomes 10cr at any point of time in CY then you have to switch to regular]&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;B.  Person making &lt;u&gt;&lt;b&gt;supply of service:&lt;br&gt;&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;1) whose aggregate turnover* in the preceding financial year was Rs. 50 lakhs or below;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="675" y="11500" width="440" height="230" as="geometry" />
         </mxCell>
         <mxCell id="ZWSLOfvf-un0gSXgTcn5-201" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" parent="1" source="ZWSLOfvf-un0gSXgTcn5-199" target="ZWSLOfvf-un0gSXgTcn5-200" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ZWSLOfvf-un0gSXgTcn5-200" value="&lt;u&gt;&lt;b&gt;Aggregate Turnover* =Taxable supplies (other than inward supply under RCM) + exempt supplies+ exports+ inter-State supplies Central 7 state UT Integrates taxes &amp;amp; cess of persons having same PAN&lt;/b&gt;&lt;/u&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1140" y="11500" width="350" height="100" as="geometry" />
+        <mxCell id="ZWSLOfvf-un0gSXgTcn5-200" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Aggregate Turnover* =Taxable supplies (other than inward supply under RCM) + exempt supplies+ exports+ inter State supplies&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;(A. this does not include &lt;br&gt;&lt;/div&gt;&lt;div&gt;1. GST&lt;/div&gt;&lt;div&gt;2. inward supply under RCM&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;B. it is calculated on all India basics for all the &lt;br&gt;&lt;/div&gt;&lt;div&gt;branches under the same PAN)&lt;u&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1140" y="11471" width="380" height="172" as="geometry" />
         </mxCell>
         <mxCell id="u_0Ipbv8fiuegXikuNQV-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ZWSLOfvf-un0gSXgTcn5-203" target="bL3ZE05nRJ90D0qZ1jty-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -2718,8 +2718,8 @@
         <mxCell id="gikTc44mRftWslVB5Tid-4" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/weatherful/72/Lightning_Cloudy-128.png" vertex="1" parent="1">
           <mxGeometry x="587" y="7100" width="128" height="128" as="geometry" />
         </mxCell>
-        <mxCell id="gikTc44mRftWslVB5Tid-5" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/weatherful/72/Lightning_Cloudy-128.png" vertex="1" parent="1">
-          <mxGeometry x="1430" y="11422" width="128" height="128" as="geometry" />
+        <mxCell id="gikTc44mRftWslVB5Tid-7" value="&amp;nbsp;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1270" y="11630" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
