@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-09-22T15:22:25.991Z" agent="5.0 (X11)" etag="2wlwvk9UM515A7kbk6mZ" version="15.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-22T16:18:42.079Z" agent="5.0 (X11)" etag="LxCzHzXW6h6GLjw-GWrd" version="15.2.9" type="github">
   <diagram id="EEIt5sJKhKLN3RtG8xfO" name="Introduction">
-    <mxGraphModel dx="3360" dy="154" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="1896" dy="-577" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2720,9 +2720,6 @@
         </mxCell>
         <mxCell id="gikTc44mRftWslVB5Tid-5" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/weatherful/72/Lightning_Cloudy-128.png" vertex="1" parent="1">
           <mxGeometry x="1430" y="11422" width="128" height="128" as="geometry" />
-        </mxCell>
-        <mxCell id="gikTc44mRftWslVB5Tid-6" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/weatherful/72/Lightning_Cloudy-128.png" vertex="1" parent="1">
-          <mxGeometry x="1010" y="11430" width="128" height="128" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
