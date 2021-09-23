@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-09-22T16:34:40.926Z" agent="5.0 (X11)" etag="EC-1rnWNK-pqNpIC-xyX" version="15.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-23T06:43:37.011Z" agent="5.0 (X11)" etag="H2f9yEs4G-GZdhuicPu0" version="15.2.9" type="github">
   <diagram id="EEIt5sJKhKLN3RtG8xfO" name="Introduction">
-    <mxGraphModel dx="1896" dy="-577" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="1958" dy="-507" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1154,7 +1154,7 @@
         <mxCell id="ZWSLOfvf-un0gSXgTcn5-198" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Advantages&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. No classification of goods is required;&lt;br&gt;2. Single GST rate is applicable on all supplies made;&lt;br&gt;3. Tax invoice is not required, but bill of supply is required to be issued.&lt;br&gt;4 Payment of tax and return filing is to be done at the end of every quarter.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;Disadvantages&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. Taxpayer cannot avail the benefit of ITC;&lt;br&gt;2. He cannot charge tax on the invoice raised by him;&lt;br&gt;3. A limited territory of business. He is not allowed to do inter state sale&lt;/div&gt;&lt;div&gt;[i.e cannot sell in other states]&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="675" y="11270" width="440" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="ZWSLOfvf-un0gSXgTcn5-199" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Eligibility&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;A. Person making &lt;u&gt;&lt;b&gt;supply of goods&lt;/b&gt;&lt;/u&gt;:&lt;br&gt;1) whose &lt;u&gt;aggregate turnover&lt;/u&gt;* in the preceding financial year was Rs. &lt;u&gt;1.5 Crores&lt;/u&gt;** or below;&lt;/div&gt;&lt;div&gt;[** The above limit is 75 Lakh in following 8 stats - manipur, Tripura, nagaland, Mizoram, megalaya, arunachal pradesh, Sikkim, Uttarakhand](key: MTNM MASU)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. The benefit under composition scheme is available upto 1.5cr/75L in the current year[i.e. for e.g. T/o becomes 10cr at any point of time in CY then you have to switch to regular]&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;B.  Person making &lt;u&gt;&lt;b&gt;supply of service:&lt;br&gt;&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;1) whose aggregate turnover* in the preceding financial year was Rs. 50 lakhs or below;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="ZWSLOfvf-un0gSXgTcn5-199" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Eligibility&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;A. Person making &lt;u&gt;&lt;b&gt;supply of goods&lt;/b&gt;&lt;/u&gt;:&lt;br&gt;1) whose &lt;u&gt;aggregate turnover&lt;/u&gt;* in the preceding financial year was Rs. &lt;u&gt;1.5 Crores&lt;/u&gt;** or below;&lt;/div&gt;&lt;div&gt;[** The above limit is 75 Lakh in following 8 states - manipur, Tripura, nagaland, Mizoram, megalaya, arunachal pradesh, Sikkim, Uttarakhand](key: MTNM MASU)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. The benefit under composition scheme is available upto 1.5cr/75L in the current year[i.e. for e.g. T/o becomes 10cr at any point of time in CY then you have to switch to regular]&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;B.  Person making &lt;u&gt;&lt;b&gt;supply of service:&lt;br&gt;&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;1) whose aggregate turnover* in the preceding financial year was Rs. 50 lakhs or below;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="675" y="11490" width="440" height="230" as="geometry" />
         </mxCell>
         <mxCell id="ZWSLOfvf-un0gSXgTcn5-201" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" parent="1" source="ZWSLOfvf-un0gSXgTcn5-199" target="ZWSLOfvf-un0gSXgTcn5-200" edge="1">
@@ -1236,7 +1236,7 @@
         <mxCell id="bL3ZE05nRJ90D0qZ1jty-16" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="bL3ZE05nRJ90D0qZ1jty-13" vertex="1">
           <mxGeometry y="40" width="320" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="bL3ZE05nRJ90D0qZ1jty-17" value="Sec 10 (2A) - Composition Scheme for service providers.&lt;br&gt;&lt;br&gt;&lt;div&gt;1) A person(service provider) whose aggregate T/o does not exceed  in preceding financial year may opt for composition Scheme u/s 10(2A). [Basically for Service providers who are not eligible for 1.5cr/75L.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;ii) The benefit under this scheme can be claimed upto 50 L Current financial year.&lt;br&gt;&lt;br&gt;iii) All other conditions are Same as Composition scheme discussed earlier including 1 to 5 " style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="bL3ZE05nRJ90D0qZ1jty-16" vertex="1">
+        <mxCell id="bL3ZE05nRJ90D0qZ1jty-17" value="Sec 10 (2A) - Composition Scheme for service providers.&lt;br&gt;&lt;br&gt;&lt;div&gt;1) A person(service provider) whose aggregate T/o does not exceed 50 lakh  in preceding financial year may opt for composition Scheme u/s 10(2A). [Basically for Service providers who are not eligible for 1.5cr/75L.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;ii) The benefit under this scheme can be claimed upto 50 L Current financial year.&lt;br&gt;&lt;br&gt;iii) All other conditions are Same as Composition scheme discussed earlier including 1 to 5 " style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="bL3ZE05nRJ90D0qZ1jty-16" vertex="1">
           <mxGeometry width="320" height="200" as="geometry">
             <mxRectangle width="320" height="200" as="alternateBounds" />
           </mxGeometry>
@@ -2709,17 +2709,20 @@
         <mxCell id="miT9HfhpquxOMF8dn3Kk-1" value="Subject to conditions below" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1180" y="5840" width="160" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="gikTc44mRftWslVB5Tid-1" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/weatherful/72/Lightning_Cloudy-128.png" vertex="1" parent="1">
+        <mxCell id="gikTc44mRftWslVB5Tid-1" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/weatherful/72/Lightning_Cloudy-128.png" parent="1" vertex="1">
           <mxGeometry x="398.31" y="8860" width="128" height="128" as="geometry" />
         </mxCell>
-        <mxCell id="gikTc44mRftWslVB5Tid-3" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/weatherful/72/Lightning_Cloudy-128.png" vertex="1" parent="1">
+        <mxCell id="gikTc44mRftWslVB5Tid-3" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/weatherful/72/Lightning_Cloudy-128.png" parent="1" vertex="1">
           <mxGeometry x="582" y="7000" width="128" height="128" as="geometry" />
         </mxCell>
-        <mxCell id="gikTc44mRftWslVB5Tid-4" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/weatherful/72/Lightning_Cloudy-128.png" vertex="1" parent="1">
+        <mxCell id="gikTc44mRftWslVB5Tid-4" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/weatherful/72/Lightning_Cloudy-128.png" parent="1" vertex="1">
           <mxGeometry x="587" y="7100" width="128" height="128" as="geometry" />
         </mxCell>
-        <mxCell id="gikTc44mRftWslVB5Tid-7" value="&amp;nbsp;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="gikTc44mRftWslVB5Tid-7" value="&amp;nbsp;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1270" y="11630" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EUeBEFP2weUeH5i2b4g3-1" value="&amp;nbsp;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1700" y="12310" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
