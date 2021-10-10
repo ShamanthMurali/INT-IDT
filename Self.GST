@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-10-10T19:28:00.443Z" agent="5.0 (X11)" etag="V-10JQl__ebzOHCayL3a" version="15.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-10T19:33:56.583Z" agent="5.0 (X11)" etag="wXodVbmeDQfvieoNGISv" version="15.5.0" type="github">
   <diagram id="EEIt5sJKhKLN3RtG8xfO" name="Introduction">
-    <mxGraphModel dx="5282" dy="1272" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="1378" dy="-818" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2832,6 +2832,9 @@
         </mxCell>
         <mxCell id="bcjf2JfnP07aZEt6icXF-4" value="8. Supply of warehoused goods to any person before clearance for home consumption" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="249.99999999999997" y="6540" width="360" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bcjf2JfnP07aZEt6icXF-7" value="&lt;div&gt;There was a fight b/w employer and employee&lt;/div&gt;&lt;div&gt;They went to court, and took advise from mp and mla also&lt;/div&gt;&lt;div&gt;but they said this matter only governor and diplomats can solve&lt;/div&gt;&lt;div&gt;but before the case could be solved they both died&lt;/div&gt;&lt;div&gt;but after there death it came to light that the fight was about purchase of immovable property&lt;/div&gt;&lt;div&gt;which was won by betting&lt;/div&gt;&lt;div&gt;and this money had come from outside and it was settled outside only&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-80" y="6160" width="280" height="200" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
