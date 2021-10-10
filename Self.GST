@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-09-25T07:27:25.977Z" agent="5.0 (X11)" etag="nRbh3P6On-nJgOEd8WMx" version="15.3.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-10T18:10:11.448Z" agent="5.0 (X11)" etag="v1ZNVZnXkOUR1DGXEsVJ" version="15.5.0" type="github">
   <diagram id="EEIt5sJKhKLN3RtG8xfO" name="Introduction">
-    <mxGraphModel dx="1958" dy="-507" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="1958" dy="-657" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1222,7 +1222,7 @@
             <mxRectangle width="320" height="204" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GPQuv-3Vi0KVKZWG_pLq-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.998;entryY=0.87;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#FF8000;" edge="1" parent="1" source="bL3ZE05nRJ90D0qZ1jty-13" target="ZWSLOfvf-un0gSXgTcn5-199">
+        <mxCell id="GPQuv-3Vi0KVKZWG_pLq-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.998;entryY=0.87;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#FF8000;" parent="1" source="bL3ZE05nRJ90D0qZ1jty-13" target="ZWSLOfvf-un0gSXgTcn5-199" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="bL3ZE05nRJ90D0qZ1jty-13" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" parent="1" vertex="1">
@@ -1302,9 +1302,11 @@
         <mxCell id="u_0Ipbv8fiuegXikuNQV-5" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Additional points&lt;/b&gt;&lt;/u&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1) A composition dealer issues &quot;Bill of Supply&quot; instead of &quot;Tax invoice&quot;(since he cannot collect tax).&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt; 2) he has to mention &quot;Composition taxpayer &amp;amp; cannot collect tax &quot; in&lt;br&gt;&lt;/div&gt;&lt;div&gt;&quot;Bill of Supply&quot;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;3) The name board has to mention that he is a &quot;Composition Taxpayer&quot;.&lt;br&gt;&lt;br&gt;&lt;div&gt;4) All the branches have to take composition scheme together. Further, if any condition is violated&amp;nbsp; by any of the branches, then all the branches have to shift to&amp;nbsp; regular scheme.&lt;br&gt;&lt;/div&gt;&lt;br&gt;5) A composition scheme taxpayer ceases to be under composition scheme if he violated the following:&lt;br&gt;&lt;div&gt;a) When the aggregate t/o in current year exceeds&lt;/div&gt;&lt;div&gt;specified limits (1.5cr/75L/50L)&lt;/div&gt;b) when any condition is violated&lt;br&gt;c) Voluntarily.&lt;br&gt;&lt;br&gt;6) A stock statement has to be submitted within 30 days of shifting to regular scheme&lt;br&gt;&lt;br&gt;7) Stock statement is also required to be submitted within 60 days of opting for composition Scheme.&lt;br&gt;&lt;br&gt;8) If a person continues under composition scheme even if he is not eligible, then, he has to pay differential Tax along with interest &amp;amp; penalty." style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="675" y="12340" width="440" height="440" as="geometry" />
         </mxCell>
-        <mxCell id="xCA3pVgE0H4NzibprLNc-1" value="&lt;div&gt;Exemptions do it &lt;br&gt;&lt;/div&gt;&lt;div&gt;from text&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="600" y="12880" width="120" height="40" as="geometry" />
-        </mxCell>
+        <UserObject label="&lt;div&gt;Exemptions&lt;br&gt;&lt;/div&gt;" link="https://github.com/ShamanthMurali/Public_Store/raw/main/Excemptions.pdf" linkTarget="_blank" id="xCA3pVgE0H4NzibprLNc-1">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+            <mxGeometry x="600" y="12880" width="120" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
         <mxCell id="G0jMjXN_nMAv5o1uiMld-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="xCA3pVgE0H4NzibprLNc-2" target="G0jMjXN_nMAv5o1uiMld-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -2748,7 +2750,7 @@
         <mxCell id="EUeBEFP2weUeH5i2b4g3-1" value="&amp;nbsp;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1700" y="12310" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="GPQuv-3Vi0KVKZWG_pLq-2" value="Then his wife drank IB alcohol " style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="GPQuv-3Vi0KVKZWG_pLq-2" value="Then his wife drank IB alcohol " style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="870" y="14410" width="170" height="20" as="geometry" />
         </mxCell>
       </root>
