@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-11-16T12:46:58.578Z" agent="5.0 (X11)" etag="HhYscNZfDEuH6X-BtV-i" version="15.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-16T15:26:57.412Z" agent="5.0 (X11)" etag="Mzl0mvQ_umZDe1el2wJK" version="15.7.4" type="github">
   <diagram id="EEIt5sJKhKLN3RtG8xfO" name="Introduction">
-    <mxGraphModel dx="2170" dy="-558" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="2170" dy="-473" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2335,7 +2335,7 @@
         <mxCell id="Y9G3oqWJd6a6k3pHgSCE-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Y9G3oqWJd6a6k3pHgSCE-71" target="Y9G3oqWJd6a6k3pHgSCE-72" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-71" value="want to do corrections after issuing invoice?" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-71" value="can you do corrections to invoice after issuing invoice?" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="591.9193103448275" y="35381.598473872305" width="160.49" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Y9G3oqWJd6a6k3pHgSCE-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Y9G3oqWJd6a6k3pHgSCE-72" target="Y9G3oqWJd6a6k3pHgSCE-75" edge="1">
