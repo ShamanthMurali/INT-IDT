@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-10-27T06:52:08.423Z" agent="5.0 (X11)" etag="3Pufur5PlxK85-PWBkVt" version="15.5.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-16T07:53:36.832Z" agent="5.0 (X11)" etag="J7RGNjeWdmOWgkmOeF0T" version="15.7.4" type="github">
   <diagram id="EEIt5sJKhKLN3RtG8xfO" name="Introduction">
-    <mxGraphModel dx="1773" dy="-606" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="1958" dy="-507" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -341,7 +341,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="LGf6Dj8UvCyObnLF67Hn-99" value="**Due date to issue invoice" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;" parent="1" vertex="1">
+        <mxCell id="LGf6Dj8UvCyObnLF67Hn-99" value="***Due date to issue invoice" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;" parent="1" vertex="1">
           <mxGeometry x="1130" y="8608.03361344538" width="325" height="200" as="geometry" />
         </mxCell>
         <mxCell id="LGf6Dj8UvCyObnLF67Hn-100" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="LGf6Dj8UvCyObnLF67Hn-99" vertex="1">
@@ -493,7 +493,7 @@
         <mxCell id="U18I0dOHCD-vcMm5kfsf-84" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="U18I0dOHCD-vcMm5kfsf-80" vertex="1">
           <mxGeometry y="70" width="435" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="U18I0dOHCD-vcMm5kfsf-85" value="&lt;div&gt;a) Where the invoice is issued for service within time limit i.e. 30 days* from the date of supply of service &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(**45 days in case of a banking &lt;br&gt;&lt;/div&gt;&lt;div&gt;company financial institution, NBFC)&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=#FFFFFF;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="U18I0dOHCD-vcMm5kfsf-84" vertex="1">
+        <mxCell id="U18I0dOHCD-vcMm5kfsf-85" value="&lt;div&gt;a) Where the invoice is issued for service within time limit i.e. 30** days from the date of supply of service &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(**45 days in case of a banking &lt;br&gt;&lt;/div&gt;&lt;div&gt;company financial institution, NBFC)&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=#FFFFFF;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="U18I0dOHCD-vcMm5kfsf-84" vertex="1">
           <mxGeometry width="218" height="100" as="geometry" />
         </mxCell>
         <mxCell id="U18I0dOHCD-vcMm5kfsf-86" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;noto sans&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; display: inline ; float: none&quot;&gt;(1) The date of issue of invoice by the &lt;u&gt;&lt;b&gt;supplier&lt;/b&gt;&lt;/u&gt;&lt;br&gt;(or)&lt;br&gt;(2) The date of receipt of payment,&lt;br&gt;&lt;u&gt;&lt;b&gt;[whichever is earlier]&lt;/b&gt;&lt;/u&gt;&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=#FFFFFF;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="U18I0dOHCD-vcMm5kfsf-84" vertex="1">
@@ -523,7 +523,7 @@
         <mxCell id="LGf6Dj8UvCyObnLF67Hn-95" value="&lt;div&gt;D) Continues supply of Servic`e^((2))`&lt;/div&gt;&lt;div&gt;(e.g. building construction service)&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=#FFFFFF;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="LGf6Dj8UvCyObnLF67Hn-94" vertex="1">
           <mxGeometry width="218" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="LGf6Dj8UvCyObnLF67Hn-96" value="&lt;div&gt;(1) Date of invoice&lt;/div&gt;&lt;div&gt;or&lt;/div&gt;&lt;div&gt;(2) Date of payment&lt;/div&gt;&lt;div&gt;or&lt;/div&gt;&lt;div&gt;(3) Due date to issue invoice**&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;[Which ever is earlier]&lt;/b&gt;&lt;/u&gt;&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=#FFFFFF;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="LGf6Dj8UvCyObnLF67Hn-94" vertex="1">
+        <mxCell id="LGf6Dj8UvCyObnLF67Hn-96" value="&lt;div&gt;(1) Date of invoice&lt;/div&gt;&lt;div&gt;or&lt;/div&gt;&lt;div&gt;(2) Date of payment&lt;/div&gt;&lt;div&gt;or&lt;/div&gt;&lt;div&gt;(3) Due date to issue invoice***&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;[Which ever is earlier]&lt;/b&gt;&lt;/u&gt;&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=#FFFFFF;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="LGf6Dj8UvCyObnLF67Hn-94" vertex="1">
           <mxGeometry x="218" width="217" height="110" as="geometry" />
         </mxCell>
         <mxCell id="LGf6Dj8UvCyObnLF67Hn-127" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="U18I0dOHCD-vcMm5kfsf-80" vertex="1">
@@ -2170,13 +2170,13 @@
         <mxCell id="Y9G3oqWJd6a6k3pHgSCE-4" value="For goods" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="282.37931034482756" y="34101.598473872305" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="5qwW1F_Cgx_JxZhZp7Xf-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Y9G3oqWJd6a6k3pHgSCE-10" target="Y9G3oqWJd6a6k3pHgSCE-14">
+        <mxCell id="5qwW1F_Cgx_JxZhZp7Xf-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Y9G3oqWJd6a6k3pHgSCE-10" target="Y9G3oqWJd6a6k3pHgSCE-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Y9G3oqWJd6a6k3pHgSCE-10" value="Supply involves movement" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="69.99931034482759" y="34181.598473872305" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="5qwW1F_Cgx_JxZhZp7Xf-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Y9G3oqWJd6a6k3pHgSCE-11" target="Y9G3oqWJd6a6k3pHgSCE-16">
+        <mxCell id="5qwW1F_Cgx_JxZhZp7Xf-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Y9G3oqWJd6a6k3pHgSCE-11" target="Y9G3oqWJd6a6k3pHgSCE-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Y9G3oqWJd6a6k3pHgSCE-11" value="Supply does not involves movement" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -2597,7 +2597,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="5qwW1F_Cgx_JxZhZp7Xf-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uhpAXeeHhMrJ2Hp9siNN-37" target="uhpAXeeHhMrJ2Hp9siNN-58">
+        <mxCell id="5qwW1F_Cgx_JxZhZp7Xf-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="uhpAXeeHhMrJ2Hp9siNN-37" target="uhpAXeeHhMrJ2Hp9siNN-58" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="652" y="41402.333333333336" />
