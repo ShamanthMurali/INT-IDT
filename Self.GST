@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-11-16T07:53:36.832Z" agent="5.0 (X11)" etag="J7RGNjeWdmOWgkmOeF0T" version="15.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-16T12:46:58.578Z" agent="5.0 (X11)" etag="HhYscNZfDEuH6X-BtV-i" version="15.7.4" type="github">
   <diagram id="EEIt5sJKhKLN3RtG8xfO" name="Introduction">
-    <mxGraphModel dx="1958" dy="-507" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="2170" dy="-558" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2362,7 +2362,7 @@
         <mxCell id="Y9G3oqWJd6a6k3pHgSCE-101" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Y9G3oqWJd6a6k3pHgSCE-80" target="Y9G3oqWJd6a6k3pHgSCE-87" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-80" value="A registered person may issue a Consolidated Revised Tax Invoice in respect of all&lt;br&gt;&lt;div&gt;taxable supplies made, if &lt;u&gt;&lt;b&gt;all the 3&lt;/b&gt;&lt;/u&gt; conditions are satisfied:&lt;/div&gt;&lt;div&gt;1. Price &amp;lt; Rs.200 (less than, not 200)&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. URP&lt;/div&gt;&lt;div&gt;3. Recipient does not require Invoice&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Else, issue Separate Tax invoice&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="Y9G3oqWJd6a6k3pHgSCE-80" value="A registered person may issue a Consolidated Revised Tax Invoice in respect of all&lt;br&gt;&lt;div&gt;taxable supplies made, if &lt;u&gt;&lt;b&gt;all the 3&lt;/b&gt;&lt;/u&gt; conditions are satisfied:&lt;/div&gt;&lt;div&gt;1. Price &amp;lt; Rs.200&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. URP&lt;/div&gt;&lt;div&gt;3. Recipient does not require Invoice&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Else, issue Separate Tax invoice&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="553.8893103448275" y="35941.598473872305" width="280.49" height="140" as="geometry" />
         </mxCell>
         <mxCell id="Y9G3oqWJd6a6k3pHgSCE-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Y9G3oqWJd6a6k3pHgSCE-84" target="Y9G3oqWJd6a6k3pHgSCE-80" edge="1">
