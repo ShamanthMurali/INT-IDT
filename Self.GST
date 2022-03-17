@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-17T03:38:33.322Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36 Edg/99.0.1150.39" etag="F4_XtpApbHWttfBJFDWo" version="17.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-17T03:38:57.378Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36 Edg/99.0.1150.39" etag="3W8mrc2JOWZhDsqHrzDZ" version="17.1.3" type="github">
   <diagram id="EEIt5sJKhKLN3RtG8xfO" name="Introduction">
     <mxGraphModel dx="1483" dy="-803" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
@@ -2861,7 +2861,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6FL2aFtG5NDKhuMKyuBL-1" value="&lt;b&gt;&lt;u&gt;Utilisation of ITC&lt;br&gt;&lt;/u&gt;&lt;/b&gt;&lt;br&gt;1. First of all ITC of IGST shall be adjusted against output IGST and after that against output CGST or &lt;br&gt;output SGST/UTGST as per the option of the assessee. &lt;br&gt;&lt;br&gt;2. First of all ITC of IGST shall be exhausted and only after that ITC of CGST or SGST/ UTGST shall be &lt;br&gt;used. &lt;br&gt;&lt;br&gt;3. Adjust ITC of CGST against output CGST and surplus if any against output IGST ( it can never be &lt;br&gt;adjusted against output SGST) &lt;br&gt;&lt;br&gt;4. Adjust ITC of SGST against output SGST and surplus if any against output IGST ( it can never be &lt;br&gt;adjusted against output CGST) &lt;br&gt;&lt;br&gt;5. If there is output IGST and also ITC of CGST and SGST/UTGST, ITC of CGST shall be used first and &lt;br&gt;only after that ITC of SGST/UTGST shall be used.&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1600" y="22080" width="620" height="300" as="geometry" />
+          <mxGeometry x="1600" y="22066" width="330" height="330" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
